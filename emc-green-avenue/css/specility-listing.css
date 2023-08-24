@@ -1,0 +1,158 @@
+/*@font-face {
+    font-family: StagSans-Medium;
+    src: url(https://www.asterbangalore.com/assets/fonts/Stag-San/Stag_San/StagSans-Medium.otf)
+}
+
+@font-face {
+    font-family: StagSans-Book;
+    src: url(https://www.asterbangalore.com/assets/fonts/Stag-San/Stag_San/StagSans-Book.otf)
+}
+
+@font-face {
+    font-family: StagSans-Medium;
+    src: url(https://www.asterbangalore.com/assets/fonts/Stag-San/Stag_San/StagSans-Medium.otf)
+}
+
+@font-face {
+    font-family: StagSans-Book;
+    src: url(https://www.asterbangalore.com/assets/fonts/Stag-San/Stag_San/StagSans-Book.otf)
+}
+
+@font-face {
+    font-family: StagSans-Medium;
+    src: url(https://www.asterbangalore.com/assets/fonts/Stag-San/Stag_San/StagSans-Medium.otf)
+}
+
+@font-face {
+    font-family: StagSans-Book;
+    src: url(https://www.asterbangalore.com/assets/fonts/Stag-San/Stag_San/StagSans-Book.otf)
+}
+
+@font-face {
+    font-family: StagSans-Medium;
+    src: url(https://www.asterbangalore.com/assets/fonts/Stag-San/Stag_San/StagSans-Medium.otf)
+}
+
+@font-face {
+    font-family: StagSans-Book;
+    src: url(https://www.asterbangalore.com/assets/fonts/Stag-San/Stag_San/StagSans-Book.otf)
+}
+
+@font-face {
+    font-family: StagSans-Light;
+    src: url(https://www.asterbangalore.com/assets/fonts/Stag-San/Stag_San/StagSans-Light.otf)
+}*/
+
+.specility-listing {
+    background: #fff
+}
+
+.specility-listing h2 {
+    color: #212b36;
+    font-family: Titillium Web;
+    font-size: 29px;
+    font-weight: 600;
+    line-height: 35px;
+    text-align: center;
+    padding: 40px 0
+}
+
+.specility-width {
+    width: 1000px;
+    padding: 0 100px;
+    text-align: center;
+    margin: auto
+}
+
+.specility-section {
+    background-color: #fff;
+    border: 1px solid #dbdfe2;
+    border-radius: 4px;
+    box-shadow: 11px 5px 25px 1px rgba(0, 0, 0, .04);
+    margin-bottom: 30px;
+    width: 182px;
+    height: 203px
+}
+
+.specility-section:hover {
+    box-shadow: 6px 9px 25px 1px rgba(0, 0, 0, .09);
+    border: none
+}
+
+.speciality-img {
+    text-align: center;
+    margin: auto;
+    display: block;
+    padding: 30px 0
+}
+
+.specility-section h4 {
+    color: #184f93;
+    font-family: Titillium Web;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: center;
+    padding-bottom: 30px;
+    padding: 20px;
+    padding-top: 0
+}
+
+.specility-flex {
+    display: flex;
+    justify-content: center
+}
+
+.multispeciality h2 {
+    color: #212b36;
+    font-family: Titillium Web;
+    font-size: 29px;
+    font-weight: 600;
+    line-height: 35px;
+    text-align: center;
+    padding: 40px 0
+}
+
+.multispeciality .specility-width {
+    background: #fff;
+    margin-top: 30px;
+    margin-bottom: 70px
+}
+
+@media (min-width:768px) and (max-width:992px) {
+    .specility-section {
+        width: 165px
+    }
+    .specility-width {
+        width: 100%;
+        padding: 0
+    }
+    .specility-section h4 {
+        font-size: 13px
+    }
+    .multispeciality .specility-width {
+        background: 0 0
+    }
+}
+
+@media (max-width:576px) {
+    .specility-width {
+        width: 100%;
+        padding: 0
+    }
+    .specility-flex {
+        display: block
+    }
+    .specility-section {
+        margin: auto;
+        margin-bottom: 30px;
+        width: 100%
+    }
+    .specility-section h4 {
+        font-size: 14px;
+        padding: 0
+    }
+    .multispeciality .specility-width {
+        background: 0 0
+    }
+}

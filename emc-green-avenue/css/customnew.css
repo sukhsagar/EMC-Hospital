@@ -1,0 +1,2403 @@
+@font-face {
+    font-family: StagSans-Medium;
+    src: url(assets/fonts/Stag-San/Stag_San/StagSans-Medium.otf)
+}
+
+@font-face {
+    font-family: StagSans-Book;
+    src: url(assets/fonts/Stag-San/Stag_San/StagSans-Book.otf)
+}
+
+@font-face {
+    font-family: StagSans-Medium;
+    src: url(assets/fonts/Stag-San/Stag_San/StagSans-Medium.otf)
+}
+
+@font-face {
+    font-family: StagSans-Book;
+    src: url(assets/fonts/Stag-San/Stag_San/StagSans-Book.otf)
+}
+
+@font-face {
+    font-family: StagSans-Medium;
+    src: url(assets/fonts/Stag-San/Stag_San/StagSans-Medium.otf)
+}
+
+@font-face {
+    font-family: StagSans-Book;
+    src: url(assets/fonts/Stag-San/Stag_San/StagSans-Book.otf)
+}
+
+@font-face {
+    font-family: StagSans-Medium;
+    src: url(assets/fonts/Stag-San/Stag_San/StagSans-Medium.otf)
+}
+
+@font-face {
+    font-family: StagSans-Book;
+    src: url(assets/fonts/Stag-San/Stag_San/StagSans-Book.otf)
+}
+
+@font-face {
+    font-family: StagSans-Light;
+    src: url(assets/fonts/Stag-San/Stag_San/StagSans-Light.otf)
+}
+
+.marbtm50 {
+    margin-bottom: 50px
+}
+
+.martop50 {
+    margin-top: 50px !important
+}
+
+#mainNavbar {
+        padding: 25px 0 10px 0;
+    position: sticky;
+    top: 0;
+    background: #fff;
+    z-index: 12;
+    width: 100%;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, .16)
+}
+.newasterlogo img {
+    margin: 0 0 0 -3pc;
+}
+a.brochure {
+    position: relative;
+    top: -11px;
+}
+.blogs,
+.vid-section {
+    padding-left: 0 !important
+}
+
+.youtube-icon2 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 28%;
+    left: 43%;
+    cursor: pointer
+}
+
+.youtube-icon {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 40%;
+    left: 43%;
+    cursor: pointer
+}
+
+.blogs .doctor-videos-text-style img {
+    width: 80%
+}
+
+.blog-img img {
+    height: 150px !important;
+    object-fit: cover
+}
+
+@media (max-width:480px) {
+    #mainNavbar {
+        padding-bottom: 0
+    }
+    .see-all-video {
+        padding-top: 12px !important
+    }
+    .blog-img img {
+        height: 80px !important
+    }
+    .doc_image_doctorlist ul li {
+        display: inline-block;
+        margin: 10px 6px 6px -16px
+    }
+    .doc_image_doctorlist li.submenu-active {
+        color: #000;
+        border-left: none !important
+    }
+    .doc_image_doctorlist li a {
+        color: #000;
+        font-weight: 400;
+        font-size: 12px;
+        border: 1px solid #ccc;
+        padding: 9px
+    }
+    .doctor_name_listingpage p {
+        padding-top: 17px
+    }
+    .margin-top-37 {
+        margin-top: 30px !important
+    }
+    .btn-book-doc-listing,
+    .btn-book-not-doc-listing {
+        float: left;
+        margin-top: 0
+    }
+    .height_image {
+        height: 122px
+    }
+    .designation_doc_listing {
+        font-size: 13px !important
+    }
+    .doctor_name_listingpage p {
+        font-size: 14px !important
+    }
+    .youtube-icon,
+    .youtube-icon2 {
+        left: 43% !important;
+        width: 40px !important;
+        height: 40px !important
+    }
+    .youtube-icon2 {
+        top: 25% !important
+    }
+}
+
+.grid-newul li {
+    display: inline-block
+}
+
+.grid-new {
+    padding-top: 0px;
+    padding-bottom: 16px
+}
+
+.top-nav li a {
+    color: #919eab;
+    font-family: Titillium Web;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .33px;
+    line-height: 12px;
+    text-align: left
+}
+
+.top-nav li h4 {
+    color: #919eab;
+    font-family: Titillium Web;
+    font-weight: 600;
+    font-size: 10px;
+    letter-spacing: .33px;
+    line-height: 12px;
+    text-align: left;
+    margin: 0
+}
+
+.top-nav li p {
+    margin: 0;
+    padding: 0;
+    line-height: 15px
+}
+
+.top-nav .locli {
+    margin-right: 15px
+}
+
+.top-nav {
+    text-align: right
+}
+
+@media (max-width:426px) {
+    .top-nav {
+        margin-top: 12px
+    }
+    .see-all-video {
+        padding-top: 12px !important
+    }
+    .banner_doc_list_img {
+        height: 200px !important
+    }
+    .doctor-videos-text-style {
+        margin-bottom: 20px
+    }
+    .row.pull-right {
+        margin: 0 !important
+    }
+    .doctor-videos-text-style {
+        padding-left: 15px !important
+    }
+    .overview {
+        padding-left: 0 !important
+    }
+    .Testimonials h3,
+    .blogs h3,
+    .videos h3 {
+        padding-left: 15px
+    }
+}
+
+.top-nav li p span {
+    color: #637381;
+    font-family: StagSans-Medium;
+    font-weight: 500;
+    font-size: 12px;
+    letter-spacing: .4px;
+    line-height: 14px;
+    text-align: left
+}
+
+.top-nav li {
+    margin-right: 5px;
+    vertical-align: middle;
+    display: inline-block
+}
+
+.top-nav li:nth-child(4) {
+    margin-right: 0
+}
+
+.top-nav li:last-child {
+    margin-right: 0
+}
+
+.top-nav li .form-group {
+    margin-bottom: 0
+}
+
+.top-nav li p span:nth-child(2) {
+    padding-left: 10px;
+    padding-right: 10px
+}
+
+.phoneNumbers {
+    padding-right: 20px
+}
+
+.emergency-holder li h4 {
+    color: #de3618
+}
+
+.emergency-holder li p span {
+    color: #de3618
+}
+
+.bottam-nav {
+    text-align: right;
+    margin-top: 15px;
+    margin-bottom: 0;
+    position: relative;
+}
+
+.bottam-nav li {
+    display: inline-block;
+    border-right: 1px solid #d8d8d8;
+    padding: 0 10px;
+}
+
+.bottam-nav li:last-child {
+    padding: 0;
+}
+
+.bottam-nav li:last-child {
+    border-right: none
+}
+
+.bottam-nav li:nth-child(3) {
+    border-right: none;
+}
+
+.bottam-nav li a {
+    color: #195198;
+    font-family: Titillium Web;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    text-align: left;
+    padding: 0 10px 28px;
+}
+
+.bottam-nav li:hover .ourspecialities {
+    font-size: 40px;
+    visibility: visible;
+    opacity: 1
+}
+
+.has-search .form-control-feedback {
+    right: initial;
+    left: 0;
+    color: #ccc
+}
+
+.has-search .form-control {
+    padding-right: 12px;
+    padding-left: 34px
+}
+
+.mobiledocspe {
+    text-align: center;
+    margin-bottom: 0
+}
+
+.mobiledocspe li {
+    display: inline-block;
+    vertical-align: middle
+}
+
+.mobiledocspe li a {
+    color: #195198;
+    font-family: Titillium Web;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    display: block;
+    padding: 15px 35px;
+}
+
+@media (max-width:375px) {
+    .mobiledocspe li a {
+        padding: 15px 15px;
+    }
+    .doctor-videos-text-style {
+        padding-left: 15px !important;
+    }
+}
+
+.mobiledocspe li:nth-child(2) {
+    width: 1px;
+    height: 14px;
+    background-color: #e4e4e4;
+}
+
+.headerline360 {
+    background-color: #aeaeae;
+    margin-top: 14px;
+    width: 1px;
+    height: 14px;
+}
+
+.header-animate {
+    box-shadow: 0 0 24px rgba(0, 0, 0, .12)
+}
+
+.ourspecialities {
+    box-shadow: 0 7px 16px 3px #00000021;
+    position: absolute;
+    background-color: #fff;
+    left: -12px;
+    top: 50px;
+ /*   padding: 30px;*/
+    opacity: 0;
+    visibility: hidden;
+    transition: all .3s ease;
+    z-index: 100 !important;
+   /* width:600px!important;*/
+}
+
+.about-us1 {
+    box-shadow: 0 7px 16px 3px #00000021;
+    position: absolute;
+    background-color: #fff;
+    left: -194px;
+    top: 50px;
+    padding: 30px;
+    opacity: 0;
+    visibility: hidden;
+    transition: all .3s ease;
+    z-index: 100 !important;
+}
+
+.about-us{
+
+background: #ffffff;
+-webkit-box-shadow: 0px 0px 15px 0px #ddd;
+box-shadow: 0px 0px 15px 0px #ddd;
+border: 0;
+border-left: 3px solid #f7961e;
+padding-top: 15px;
+padding-bottom: 15px;
+}
+
+.about-us ul li{
+border-bottom: 1px dashed #0046c047!important;
+line-height: 35px;
+height: 35px;
+}
+.drop{
+width: 100%;
+}
+.drop li:hover{
+
+
+
+padding-left: 10px;
+border-color: #f7961e;
+
+background-color: #f7961e;
+/*-webkit-box-shadow: 0 9px 20px 0 #f7961e8f;
+box-shadow: 0 9px 20px 0 #f7961e8f;*/
+/* border-radius: 16px;*/
+color: #fff;
+}
+
+@media (min-width:1020px) and (max-width:1440px) {
+    .about-us{
+
+    background-color: #edf5ff;
+/*-webkit-box-shadow: 0px 0px 15px 0px #ddd;
+box-shadow: 0px 0px 15px 0px #ddd;*/
+border: 0;
+/*border-left: 3px solid #f7961e;*/
+padding-top: 15px;
+padding-bottom: 15px;
+}
+
+.about-us ul li{
+border-bottom: 1px dashed #000!important;
+line-height: 35px;
+height: 35px;
+}
+.drop{
+width: 100%;
+}
+.drop li:hover{
+
+
+
+/*padding-left: 10px;*/
+border-color: #f7961e;
+
+background-color: #130947;
+/*-webkit-box-shadow: 0 9px 20px 0 #f7961e8f;
+box-shadow: 0 9px 20px 0 #f7961e8f;*/
+/* border-radius: 16px;*/
+color: #fff;
+}
+    
+    .about-us{
+         width:340px!important;
+
+    }
+
+
+
+
+.scope1{
+
+background-color: #edf5ff;
+-webkit-box-shadow: 0px 0px 15px 0px #ddd;
+box-shadow: 0px 0px 15px 0px #ddd;
+border: 0;
+/*border-left: 3px solid #f7961e;*/
+padding-top: 15px;
+padding-bottom: 15px;
+}
+
+.scope1 ul li{
+border-bottom: 1px dashed #000!important;
+/*line-height: 35px;
+height: 35px;*/
+}
+.scope-center{
+width: 100%;
+}
+.scope-center li:hover{
+
+
+
+/*padding-left: 10px;*/
+border-color: #f7961e;
+
+/*background-color: #130947;*/
+/*-webkit-box-shadow: 0 9px 20px 0 #f7961e8f;
+box-shadow: 0 9px 20px 0 #f7961e8f;*/
+/* border-radius: 16px;*/
+color: #fff;
+}
+    
+   /* .scope1{
+         width:400px!important;
+
+    }
+*/
+
+    .ourspecialities {
+        top: 30px;
+       /* width:600px!important;*/
+    }
+    .boook {
+        margin: auto !important;
+    }
+}
+
+@media (min-width:1020px) and (max-width:1200px) {
+    .boook {
+        margin: auto !important;
+    }
+}
+
+.padding-top-15 {
+    padding-top: 5px;
+}
+
+.padding-bottom-25 {
+    padding-bottom: 25px !important;
+}
+
+.arrow-up {
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 8px solid #fff;
+    position: absolute;
+    top: -7px;
+    right: 25%
+}
+
+.ourspecialities h4 {
+   color: #000;
+    text-align: left;
+    font-family: Titillium Web;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px
+}
+
+.ourspecialities ul {
+    text-align: left
+}
+
+.ourspecialities ul li {
+    display: block;
+   /* padding: 0 22px;*/
+    border: none;
+    padding: 0
+}
+
+.ourspecialities ul li a {
+    color: #495667;
+    font-family: Titillium Web;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    padding: 0;
+}
+
+.ourspecialities ul li a:hover {
+    color: #195198;
+}
+
+.ourspecialities .menu-multi-ul li {
+/*    padding: 10px;*/
+}
+
+.sticky-right-buttos {
+    width: 8%;
+    background: #fff;
+    position: fixed;
+    right: -150px;
+    z-index: 12;
+    top: 25%;
+    box-shadow: 0 10px 20px 0 rgba(8, 92, 68, .28);
+    transition: all .3s ease-in
+}
+
+@media (max-width:768px) {
+    .sticky-right-buttos {
+        width: 12%
+    }
+    .banner_doc_list_img {
+        height: 210px !important
+    }
+    .youtube-icon img {
+        height: 100% !important
+    }
+    .youtube-icon,
+    .youtube-icon2 {
+        width: 30px !important;
+        height: 30px !important
+    }
+    .doctors_banner .select-dropdown {
+        margin-top: 10px
+    }
+    .youtube-icon img {
+        height: 100% !important
+    }
+    .youtube-icon {
+        width: 30px;
+        height: 30px
+    }
+}
+
+.slideVisable {
+    right: 0
+}
+
+.sticky-right-buttos ul {
+    list-style-type: none;
+    text-align: center;
+    margin-bottom: 0
+}
+
+.sticky-right-buttos ul li h6 {
+    color: #000;
+    font-family: Titillium Web;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 14px;
+    text-align: center
+}
+
+.sticky-right-buttos ul li {
+    border-bottom: 1px solid #696d6f47
+}
+
+.sticky-right-buttos .single-sticky {
+    padding: 15px 10px
+}
+
+.p-0 {
+    padding: 0 !important
+}
+
+.fixed-right-chat-button {
+    position: fixed;
+    right: 2%;
+    bottom: 5.5%;
+    width: 72px;
+    text-align: center;
+    height: 72px;
+    background-color: #4083d6;
+    border-radius: 100%;
+    box-shadow: 0 10px 20px 0 rgba(16, 54, 101, .3);
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    z-index: 9;
+    cursor: pointer
+}
+
+#ls_theLayer {
+    display: none
+}
+
+.destopmenu {
+    padding: 70px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: #fff;
+    z-index: 999;
+    display: none;
+    height: 100vh
+}
+
+.single_list {
+    margin-bottom: 60px
+}
+
+.single_list_sub {
+    list-style-type: none;
+    margin-top: 13px
+}
+
+.single_list_main {
+    color: #000;
+    font-family: Titillium Web;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    text-align: left
+}
+
+.single_list_inner {
+    color: #48505a;
+    font-family: Titillium Web;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left
+}
+
+.single_list_left {
+    padding: 0 0 10px 0
+}
+
+.right_side_menu {
+    border-right: 1px solid #9797974a
+}
+
+.menu_book {
+    margin-top: 50px
+}
+
+.destoprow {
+    position: relative
+}
+
+.menu_close_btn {
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    cursor: pointer
+}
+
+.no_curser {
+    cursor: auto
+}
+
+.no_curser:hover {
+    color: #195198
+}
+
+.best-multispecialty {
+    padding: 0
+}
+
+.best-multispecialty .bmh-heading {
+    color: gray;
+    font-family: Titillium Web;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    margin: 0 0 16px 0;
+    padding: 0
+}
+
+.best-multispecialty .bmh-content {
+    color: gray;
+    font-family: Titillium Web;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+    margin: 0 0 20px 0;
+    padding: 0
+}
+
+@media (max-width:425px) {
+    .best-multispecialty .bmh-heading {
+        font-size: 16px !important;
+        line-height: 19px
+    }
+    .best-multispecialty .bmh-content {
+        font-size: 11px !important;
+        line-height: 18px
+    }
+    .find_doctors_listing {
+        position: absolute;
+        left: 6% !important;
+        top: 7% !important;
+        width: 94% !important
+    }
+    .doctors_banner .select-dropdown {
+        width: 85%;
+        overflow: hidden;
+        margin-top: 10px !important
+    }
+    .width-doc_search {
+        width: 85% !important
+    }
+    .overview {
+        margin-top: 10px !important
+    }
+    .doctors_banner .select-dropdown select {
+        width: 85%
+    }
+}
+
+.spec-banner {
+    position: relative;
+    width: 100%;
+    overflow-y: hidden;
+    padding: 0
+}
+
+.spec-banner img {
+    width: 100% !important;
+    height: 100%
+}
+
+.banner-gredient {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: .4;
+    /*background-color: #000*/
+}
+
+.livprop_chatbox {
+    display: none
+}
+
+.spec-banner h1 {
+    color: #fff;
+    font-size: 41px;
+    font-weight: 600;
+    line-height: 49px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 1000px;
+    text-align: center
+}
+
+@media (min-width:320px) and (max-width:480px) {
+    .spec-banner h1 {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        margin: 0;
+        width: 100%;
+        font-size: 18px !important
+    }
+    .spec-banner img {
+        height: 95px;
+        /* object-fit: cover; */
+        object-fit: fill;
+        object-position: center;
+    }
+    .doctor_name_listingpage p {
+        padding-top: 17px !important
+    }
+    .margin-top-37 {
+        margin-top: 10px !important
+    }
+    .btn-book-doc-listing,
+    .btn-book-not-doc-listing {
+        float: left !important;
+        margin-top: 0 !important
+    }
+    .speciality-nav {
+        display: none !important
+    }
+}
+
+.speciality-nav {
+    background: #f8f8f8;
+    top: 103px;
+    z-index: 11 !important
+}
+
+@media (min-width:426px) and (max-width:480px) {
+    .doctors_banner .select-dropdown {
+        width: 85%;
+        overflow: hidden;
+        margin-top: 10px !important
+    }
+    .banner_doc_list_img {
+        height: 200px !important
+    }
+    .find_doctors_listing {
+        position: absolute;
+        left: 6%;
+        top: 6% !important;
+        width: 100% !important
+    }
+    .width-doc_search {
+        width: 85% !important
+    }
+}
+
+@media (min-width:481px) and (max-width:768px) {
+    .speciality-nav {
+        top: 124px
+    }
+    #owl2-demo-5 .owl-stage-outer {
+        overflow: hidden !important
+    }
+}
+
+.speciality-nav #navbar {
+    overflow: hidden;
+    background: #f8f8f8;
+    text-align: center;
+    border-bottom: 2px solid #d5e0f0
+}
+
+.speciality-nav #navbar a {
+    display: inline-block;
+    color: #637381;
+    text-align: center;
+    margin: 0 16px;
+    padding: 19px 10px 14px 10px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    border-bottom: 5px solid transparent;
+    transition: all .3s ease
+}
+
+.speciality-nav #navbar a:hover {
+ 
+    border-bottom: 5px solid #f59e04;
+    color: #f59d03;
+}
+
+.speciality-nav #navbar a.active {
+    background-color: #4caf50;
+    color: #fff
+}
+
+.speciality-overview {
+    background-color: #f8f8f8
+}
+
+.spec-overview {
+    display: flex;
+    margin: 40px 0;
+    padding: 60px 20px 20px 70px;
+    background: #fff;
+    border-radius: 4px
+}
+
+@media (min-width:320px) and (max-width:480px) {
+    .spec-overview {
+        padding: 0 20px
+    }
+}
+
+.spec-overview-img img {
+    padding: 0 40px
+}
+
+@media (min-width:320px) and (max-width:480px) {
+    .spec-overview-img img {
+        padding: 0 10px
+    }
+}
+
+.spec-overview-details-heading {
+    color: #184f93;
+    font-family: Titillium Web;
+    font-size: 29px;
+    font-weight: 600;
+    line-height: 35px;
+    text-align: left
+}
+
+.spec-overview-details-sub-heading {
+    color: #302e2e;
+    font-family: Titillium Web;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 35px;
+    text-align: left
+}
+
+.spec-overview-details-p {
+    color: #242e39;
+    font-family: Titillium Web;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 23px;
+    text-align: left
+}
+
+.spec-overview-details-a {
+    color: #184f93;
+    font-family: Titillium Web;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 23px;
+    text-align: left
+}
+
+.heading-blue {
+    color: #184f93
+}
+
+.heading-Black {
+    color: #212b36
+}
+
+.sub-heading-grey {
+    color: #737373
+}
+
+.sub-heading-black {
+    color: #000
+}
+
+.speciality-doctors {
+    padding: 40px 0 80px 0
+}
+
+.speciality-heading {
+    font-family: Titillium Web;
+    font-size: 29px;
+    font-weight: 600;
+    line-height: 35px;
+    text-align: center;
+    margin: 0
+}
+
+.speciality-sub-heading {
+    font-family: Titillium Web;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: center;
+    text-transform: capitalize;
+    margin: 0;
+    margin-top: 21px
+}
+
+@media (min-width:320px) and (max-width:480px) {
+    .speciality-sub-heading {
+        margin-top: 21px;
+        font-size: 18px !important;
+        text-align: center;
+        margin-bottom: 10px
+    }
+    .doc-spec-details .doc-spec-name {
+        font-size: 20.8px !important
+    }
+    .boook {
+        font-size: 15px !important
+    }
+    .tabcontent .tab-heading {
+        font-size: 18px !important
+    }
+    .testimonial-card-name {
+        font-size: 18px !important
+    }
+    .testimonial-card-namedetails {
+        font-size: 15px !important
+    }
+    .spec-overview-details-heading {
+        font-size: 24px !important
+    }
+    .spec-overview-details-sub-heading {
+        font-size: 19px !important
+    }
+    .spec-overview-details-p {
+        font-size: 13px !important
+    }
+    .spec-overview-details-a {
+        font-size: 13px !important
+    }
+}
+
+.doc-spec-img img {
+    width: 100%
+}
+
+.view-doc {
+    background: #e7f1ff;
+    text-align: center;
+    padding: 11px 0
+}
+
+.view-doc p {
+    color: #0c4d9e;
+    font-family: Titillium Web;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: center;
+    margin: 0;
+    padding: 0
+}
+
+.doc-spec-card {
+    margin-top: 35px
+}
+
+.doc-spec-details {
+    border: 1.3px solid #e7f1ff;
+    min-height: 190px
+}
+
+.doc-spec-details .doc-spec-name {
+    color: #212b36;
+    font-family: Titillium Web;
+    font-size: 20.8px;
+    font-weight: 600;
+    letter-spacing: .78px;
+    line-height: 25px;
+    text-align: center;
+    margin: 0;
+    padding: 10px 0 6px 0
+}
+
+.doc-spec-details .doc-spec-des {
+    color: #454f5b;
+    font-family: Titillium Web;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: center;
+    margin: 0;
+    min-height: 40px
+}
+
+.book-app {
+    bottom: 5%;
+    position: absolute;
+    left: 8%;
+    right: 8%
+}
+
+.boook::before {
+    /*content: url(../images/outline-date.png);*/
+    margin-right: 20px
+}
+
+.boook {
+   background-image: linear-gradient(to right, #f49c00 0%, #ffbb42 100%);
+    color: #fff;
+    font-family: Titillium Web;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px 20px
+}
+
+.speciality-services {
+    background-color: #f8f8f8;
+    padding: 60px 0
+}
+
+.padding-top-20 {
+    padding-top: 20px !important
+}
+
+.tabservices {
+    padding: 35px 0
+}
+
+.tabservices .tab {
+    float: left;
+    width: 35%;
+    min-height: 300px
+}
+
+.tabservices .tab button {
+    display: block;
+    background-color: inherit;
+    color: #000;
+    padding: 15px 25px;
+    width: 90%;
+    border: none;
+    outline: 0;
+    text-align: left;
+    cursor: pointer;
+    transition: .3s;
+    color: #302e2e;
+    font-family: Titillium Web;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px
+}
+
+@media (min-width:320px) and (max-width:480px) {
+    .tabservices .tab button {
+        font-size: 14px;
+        padding: 15px 5px
+    }
+}
+
+.tabservices .tab button:hover {
+    background-color: #fff
+}
+
+.tabservices .tab button.active {
+    background-color: #fff;
+    color: #184f93;
+    font-family: Titillium Web;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 4px
+}
+
+@media (min-width:320px) and (max-width:480px) {
+    .tabservices .tab button.active {
+        font-size: 14px
+    }
+}
+
+.tabservices .tabcontent {
+    float: left;
+    padding: 30px 60px;
+    width: 65%;
+    height: 320px;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 5px 13px 0 rgba(0, 0, 0, .12);
+    overflow-y: scroll
+}
+
+@media (min-width:320px) and (max-width:480px) {
+    .tabservices .tabcontent {
+        padding: 10px
+    }
+}
+
+.tabcontent .tab-heading {
+    color: #302e2e;
+    font-family: Titillium Web;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin: 0 0 12px 0;
+    padding-top: 20px
+}
+
+.tabcontent .tab-heading:first-child {
+    padding-top: 0
+}
+
+.tabcontent .services-ul {
+    list-style-type: disc !important;
+    padding: 0;
+    border: none;
+    border-radius: 10px;
+    margin: 0;
+    margin-left: 7px
+}
+
+.tabcontent .services-ul li {
+    border: none;
+    color: #302e2e;
+    font-family: Titillium Web;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 23px;
+    padding: 0
+}
+
+.tabservices ::-webkit-scrollbar {
+    width: 10px
+}
+
+.tabservices ::-webkit-scrollbar-track {
+    background: #f1f1f1
+}
+
+.tabservices ::-webkit-scrollbar-thumb {
+    background: #888
+}
+
+.tabservices ::-webkit-scrollbar-thumb:hover {
+    background: #555
+}
+
+.pointed {
+    margin: 0 auto;
+    width: 50px;
+    padding: 4px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, .8);
+    min-height: 40px
+}
+
+.pointed:before {
+    position: absolute;
+    top: 21%;
+    right: 64.6%;
+    content: '';
+    width: 0;
+    height: 0;
+    margin: -5px 0 0;
+    border-right: solid 10px #fff;
+    border-bottom: solid 10px transparent;
+    border-top: solid 10px transparent;
+    display: none
+}
+
+@media (max-width:480px) {
+    .pointed:before {
+        right: 64%
+    }
+    .doc-video-img {
+        width: 100% !important
+    }
+    .blogs .doctor-videos-text-style img {
+        width: 100% !important
+    }
+    .doctor-videos-text-style .margin-top-6 {
+        width: 100% !important
+    }
+    .doctor-videos-text-style p {
+        width: auto
+    }
+    .blogs .doctor-videos-text-style p {
+        width: auto !important
+    }
+    .Testimonials p,
+    .blogs p,
+    .overview p,
+    .videos p {
+        line-height: 23px !important;
+        font-size: 15px !important
+    }
+    .Testimonials h3,
+    .blogs h3,
+    .videos h3 {
+        margin-bottom: 10px !important;
+        margin-top: 10px !important;
+        line-height: 23px !important
+    }
+    .doc-dot img {
+        left: inherit !important
+    }
+    .doctor-videos-text-style h4 {
+        width: 100% !important
+    }
+    .speciality-heading {
+        font-size: 29px !important;
+        line-height: 30px !important;
+        margin-bottom: 5px
+    }
+}
+
+@media (max-width:375px) {
+    .pointed:before {
+        right: 63%
+    }
+}
+
+.spec-testimonials {
+    text-align: center;
+    padding: 60px 0
+}
+
+.testimonial-card {
+    margin: 40px
+}
+
+.testimonial-card:hover {
+    box-shadow: 0 5px 13px 0 rgba(0, 0, 0, .12);
+    cursor: pointer
+}
+
+.testimonial-card-name {
+    color: #184f93;
+    font-family: Titillium web;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 26px;
+    text-align: left;
+    margin: 0;
+    padding: 15px 0
+}
+
+.testimonial-card-namedetails {
+    color: #242e39;
+    font-family: Titillium Web;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: left;
+    margin: 0;
+    padding: 0 0 30px 0
+}
+
+.spec-video-icon {
+    z-index: 100;
+   /* background-image: url(sprite/home-sprite.png);*/
+    background-position: -76px -27px;
+    height: 50px;
+    width: 52px;
+    display: inline-block;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    transform: scale(.5) !important
+}
+
+.spec-video-icon span i {
+    color: #fff;
+    padding: 10px 18px 10px 20px;
+    border-radius: 50%;
+    background-color: #03b294
+}
+
+#spec-testimonials .owl-next span,
+#spec-testimonials .owl-prev span {
+    top: 40%;
+    /*background-image: url(sprite/home-sprite.png);*/
+    position: absolute;
+    height: 35px;
+    width: 35px
+}
+
+#spec-testimonials .owl-prev span.prev {
+    left: -2%;
+    transform: translateY(-40%);
+    -ms-transform: translateY(-40%);
+    -webkit-transform: translateY(-40%);
+    background-position: 210px -27px
+}
+
+#spec-testimonials .owl-next span.next {
+    right: -2%;
+    transform: translateY(-40%);
+    -ms-transform: translateY(-40%);
+    -webkit-transform: translateY(-40%);
+    background-position: 210px -65px
+}
+
+@media (max-width:770px) {
+    #spec-testimonials .owl-prev span.prev {
+        left: 2%
+    }
+    #spec-testimonials .owl-next span.next {
+        right: 2%
+    }
+}
+
+.spec-blogs {
+    background-color: #f8f8f8;
+    padding: 35px 0 60px 0
+}
+
+@media (min-width:600px) and (max-width:800px) {
+    .doc-dot img {
+        position: absolute;
+        top: -21px !important;
+        z-index: -1;
+        width: 50%;
+        right: 6px !important;
+        left: 93px !important;
+        height: auto
+    }
+    .blog .row.pull-right {
+        margin-right: 0
+    }
+    .doctor-videos-text-style img {
+        height: 150px !important
+    }
+}
+
+@media (min-width:481px) and (max-width:1023px) {
+    .speciality-heading {
+        font-size: 30px !important;
+        line-height: 30px !important
+    }
+    .speciality-sub-heading {
+        font-size: 19px !important;
+        text-align: center
+    }
+    .doc-spec-details .doc-spec-name {
+        font-size: 21.8px !important
+    }
+    .boook {
+        font-size: 16px !important
+    }
+    .tabcontent .tab-heading {
+        font-size: 19px !important
+    }
+    .testimonial-card-name {
+        font-size: 19px !important
+    }
+    .testimonial-card-namedetails {
+        font-size: 16px !important
+    }
+    .spec-overview-details-heading {
+        font-size: 25px !important
+    }
+    .spec-overview-details-sub-heading {
+        font-size: 19px !important
+    }
+    .spec-overview-details-p {
+        font-size: 14px !important
+    }
+    .spec-overview-details-a {
+        font-size: 14px !important
+    }
+}
+
+.speciality-ul {
+    list-style-type: disc !important;
+    padding: 0;
+    border: none;
+    border-radius: 10px;
+    margin: 0;
+    margin-left: 7px
+}
+
+.speciality-ul li {
+    border: none;
+    color: #242e39;
+    font-family: Titillium Web;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 23px;
+    padding: 0;
+    letter-spacing: .9px
+}
+
+.acc-kontainer .acc-body {
+    width: 98%;
+    width: calc(100% - 20px);
+    margin: 0;
+    font-size: 14px;
+    font-weight: 400;
+    height: 0;
+    color: transparent;
+    display: none;
+    background-color: rgba(255, 255, 255, .2);
+    line-height: 28px;
+    padding: 0 20px;
+    box-sizing: border-box;
+    transition: none
+}
+
+.acc-kontainer input {
+    display: none
+}
+
+.acc-kontainer label {
+    font-weight: 600;
+    word-spacing: 4px;
+    line-height: 36px;
+    font-family: Titillium Web !important
+}
+
+.service-plus-icon {
+    float: right;
+    margin: 11px
+}
+
+.acc-body p {
+    color: transparent !important
+}
+
+.acc-kontainer input:checked~.acc-body p {
+    color: #000 !important
+}
+
+.acc-kontainer input:checked~.acc-body {
+    height: auto;
+    color: #242e39;
+    padding: 5px 0;
+    transition: .5s;
+    display: block !important;
+    font-family: Titillium Web !important
+}
+
+.acc-body ul {
+    padding: 0 !important;
+    border: none !important;
+    list-style-type: disc;
+    border-radius: 0 !important;
+    min-width: 100% !important;
+    margin: 0
+}
+
+.acc-body {
+    padding: 10px !important
+}
+
+.acc-body ul li {
+    border-bottom: none
+}
+
+.acc-label {
+    background-color: #cacaca5c;
+    border-color: #ddd;
+    padding-left: 5px
+}
+
+.acc-body {
+    padding-top: 0 !important
+}
+
+.padding-0 a {
+    padding: 0 !important
+}
+
+.ourspecialities ul a li {
+   color: #000;
+    font-family: Titillium Web;
+      font-size: 14px;
+    font-weight: 700;
+    line-height: 26px;
+    text-align: left;
+ /*   padding: 0;*/
+}
+
+.ourspecialities ul li {
+    margin: 5px 0
+}
+
+.doc_image_doctorlist {
+    position: relative
+}
+
+.doc_image_doctorlist button {
+   background-image: linear-gradient(to right, #f49c00 0%, #ffbb42 100%);
+    border-radius: 0 0 4px 4px;
+    height: 50px;
+    border: none;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 700;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.doc_image_doctorlist h1 {
+    color: #212b36;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 25px;
+    margin: 20px 0 0 0;
+   font-family: 'Poppins', sans-serif;
+}
+
+.doctor_degree {
+    color: #000 !important;
+    font-size: 13px !important;
+    font-weight: 700 !important;
+    margin: 5px 0;
+    border: none !important;
+  /*  padding-bottom: 5px !important;*/
+    font-family: 'Poppins', sans-serif;
+}
+
+.doc_image_doctorlist h2 {
+    color: #454f5b;
+    font-size: 14px;
+    margin: 2px 0 5px 0;
+    border-bottom: 1px solid #f2f2f2;
+    font-weight: 500;
+    line-height: 19px;
+    padding-bottom: 15px;
+    text-align: left;
+    font-weight: 700
+}
+
+.doc_image_doctorlist ul {
+    list-style-type: none;
+    margin: auto;
+    width: 100%;
+    text-align: center
+}
+
+.doc_image_doctorlist li {
+    color: #000;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    margin: 20px 0;
+    padding-left: 15px
+}
+
+.doc_image_doctorlist li a {
+    color: #000;
+    font-weight: 300
+}
+
+.padding-35 {
+    padding: 35px 0
+}
+
+.Testimonials h3,
+.blogs h3,
+.videos h3 {
+    color: #212b36;
+    font-size: 29px;
+    font-weight: 600;
+    line-height: 35px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.Testimonials,
+.blogs,
+.overview,
+.videos {
+    border-bottom: 1px solid #f2f2f2;
+    padding-bottom: 30px;
+    padding-top: 20px
+}
+
+.blogs {
+    border-bottom: none !important
+}
+
+.overview {
+    margin-top: -7px;
+    padding-top: 0 !important;
+    padding-left: 30px
+}
+
+.margin-top-10 {
+    margin-top: 10px !important
+}
+
+.margin-top-37 {
+    margin-top: 37px
+}
+
+.margin-top-0 {
+    margin-top: 0 !important
+}
+
+.blog_video_close {
+    color: #424242;
+    font-size: 35px
+}
+
+.overview p {
+    line-height: 26px;
+    font-size: 16px;
+    letter-spacing: 0;
+    text-align: justify;
+    color: #414b56;
+    margin-top: 0;
+    padding-top: 0;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}
+
+.overview h3 {
+    color: #212b36;
+    font-size: 29px;
+    font-weight: 600;
+    line-height: 35px;
+    margin-bottom: 10px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.overview h4 {
+    color: #212b36;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    margin: 35px 0 15px 0
+}
+
+.overview ul {
+    padding-left: 19px
+}
+
+.overview ul li {
+    color: #414b56;
+    line-height: 28px;
+    font-size: 15px;
+    text-align: left;
+    margin-top: 0;
+    padding-top: 0;
+    font-weight: 500;
+    font-family: 'Titillium Web', sans-serif
+}
+
+.see-all-video {
+    background-color: #00b38d;
+    border-radius: 20px;
+    width: 137px;
+    height: 40px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 14px;
+    text-align: left;
+    padding-top: 14px;
+    padding-left: 15px;
+    margin-top: 30px
+}
+
+.padding-left-0 {
+    padding-left: 0 !important
+}
+
+.video-doctor {
+    margin-top: 30px !important;
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+    padding-left: 0 !important
+}
+
+.video-doctor img {
+    object-fit: cover
+}
+
+.doctor-videos-text-style h4 {
+    color: #174d92;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 22px;
+    text-align: left;
+    margin: 10px 0 0 0;
+    width: 80%;
+    font-family: 'Titillium Web', sans-serif
+}
+
+.doctor-videos-text-style .by-doctor-details {
+    width: auto !important
+}
+
+.doctor-videos-text-style p {
+    line-height: 23px;
+    font-size: 15px;
+    color: #414b56;
+    margin-top: 0;
+    padding-top: 0;
+    font-weight: 400;
+    font-family: 'Titillium Web', sans-serif;
+    margin-top: 20px;
+}
+
+.blogs .doctor-videos-text-style p {
+    width: 80%
+}
+
+.doctor-videos-text-style img {
+    width: 100%;
+    height: 240px;
+    border-radius: 5px
+}
+
+.doctor-videos-text-style .margin-top-6 {
+    width: 80%
+}
+
+.blogs .doctor-videos-text-style img {
+    width: 80%
+}
+
+.row.video-doctor video {
+    border-radius: 4px
+}
+
+.by-doctor-details {
+    color: #b2b2b2 !important;
+    font-size: 13px !important;
+    font-weight: 300 !important;
+    line-height: 20px !important
+}
+
+.margin-left-15 {
+    margin-left: 15px !important
+}
+
+.margin-right-15 {
+    margin-right: 15px !important
+}
+
+.margin-top-6 {
+    margin-top: 6px !important;
+    color: #669dff !important
+}
+
+.doc_image_doctorlist li.submenu-active {
+    color: #000;
+    border-left: 4px solid #4a90e2
+}
+
+.submenu-active a {
+    font-weight: 600 !important
+}
+
+p.see-all-video.margin-right-15 a {
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 14px;
+    text-align: left
+}
+
+.lists .filters li a {
+    color: #174d92;
+    font-family: StagSans-Book, sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 16px;
+    text-align: center
+}
+
+.lists ul li:first-child {
+    border: none
+}
+
+.lists .filters li {
+    display: inline-block;
+    background-color: #ddecff;
+    border-radius: 100%;
+    width: 26px;
+    height: 26px;
+    text-align: center;
+    margin-bottom: 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 4px;
+    margin-left: 0
+}
+
+.lists .filters {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    border: none !important
+}
+
+.floatright {
+    float: right
+}
+
+.sub_titles {
+    color: #212b36;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 29px;
+    font-weight: 600;
+    line-height: 35px;
+    text-align: left
+}
+
+.sub_title_doc {
+    color: #f59f05;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 16px;
+    margin-top: 25px;
+    text-align: left;
+    font-family: Titillium Web
+}
+
+.unorder_list_dec {
+    border: none
+}
+
+.lists .doctor_name {
+    margin-left: 120px !important
+}
+
+.lists .doctor_img {
+    width: 100px;
+    height: 100px;
+    position: absolute
+}
+
+.lists .doctor_img img {
+    width: 100%;
+    border-radius: 4px;
+    height: 100%;
+    object-fit: cover
+}
+
+.border-none {
+    border: none
+}
+
+.padding-0 {
+    padding: 0 !important
+}
+
+.margin-0 {
+    margin: 0 !important
+}
+
+.mt-0 {
+    margin-top: 0 !important
+}
+
+.doctor_name_listingpage p {
+    color: #000;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    padding-top: 25px;
+    margin-bottom: 0;
+    text-align: left;
+    font-family: Titillium Web
+}
+
+.designation_doc_listing {
+    color: #4a4a4a;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22px;
+    font-family: Titillium Web
+}
+
+p.designation_doc_qalification {
+    color: #919eab;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: .5px;
+    line-height: 18px;
+    margin-top: 25px
+}
+
+.area_of_expert {
+    color: #4a4a4a;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    font-family: Titillium Web;
+    text-align: left;
+    margin-top: 0
+}
+
+.area_of_expert_heading {
+    color: #919eab;
+    font-size: 15px;
+    font-family: Titillium Web;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 0
+}
+
+.btn-book-doc-listing div {
+    background-image: linear-gradient(to right, #f49c00 0%, #ffbb42 100%);
+    border-radius: 20px !important;
+    color: #fff !important;
+    font-size: 12px !important;
+    font-weight: 700 !important;
+    line-height: 14px !important;
+    padding: 12px 24px !important
+}
+
+.btn-book-not-doc-listing div {
+    background-color: #f2f8ff !important;
+    border-radius: 20px !important;
+    color: #000 !important;
+    font-size: 12px !important;
+    font-weight: 500 !important;
+    line-height: 14px !important;
+    padding: 12px 24px !important
+}
+
+.btn-book-doc-listing,
+.btn-book-not-doc-listing {
+    float: right;
+    margin-top: 40px
+}
+
+hr.doct_separation_line {
+    width: 89%;
+    float: right
+}
+
+.choose_speciality_doclisting {
+    border: none !important;
+    box-shadow: none !important;
+    color: #215087 !important;
+    font-size: 20px !important;
+    font-weight: 500;
+    line-height: 20px
+}
+
+.padding-top-20 {
+    padding-top: 20px
+}
+
+ul#her,
+ul#his {
+    float: right
+}
+
+.possition_relative {
+    position: relative
+}
+
+.find_doctors_listing {
+    position: absolute
+}
+
+.find_doctors_listing {
+    position: absolute;
+    left: 7.4%;
+    top: 12%;
+    width: 30%
+}
+
+.find_doc {
+    color: #215087;
+    font-size: 35px;
+    font-weight: 600;
+    letter-spacing: .38px;
+    line-height: 44px
+}
+
+.doctors_banner .select-dropdown {
+    position: relative;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 3px 7px 0 rgba(58, 138, 232, .21);
+    margin-top: 30px
+}
+
+.doctors_banner .select-dropdown select {
+    color: #215087 !important;
+    font-size: 20px !important;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: left;
+    font-family: 'Titillium Web', sans-serif;
+    width: 100%;
+    padding: 0 10px 0 30px;
+    height: 40px !important;
+    border: none;
+    background-color: transparent;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    outline: 0
+}
+
+.doctors_banner .select-dropdown:after {
+    content: " ";
+    position: absolute;
+    top: 40%;
+    right: 20px;
+   /* background-image: url(images/triangle.png);*/
+    z-index: 9;
+    width: 12px;
+    height: 12px;
+    pointer-events: none
+}
+
+.input_doctor_search {
+    background-color: #fff !important;
+    border-radius: 4px !important;
+    box-shadow: 0 3px 7px 0 rgba(58, 138, 232, .21) !important;
+    width: 100% !important;
+    margin-top: 15px;
+    height: 61px !important;
+    color: #215087 !important;
+    border: none !important
+}
+
+.width-doc_search {
+    width: 100%
+}
+
+.doc_input_group img {
+    position: absolute;
+    top: 35px;
+    z-index: 11;
+    left: 10px
+}
+
+.width-doc_search input::placeholder {
+    margin-left: 27px;
+    color: #215087;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Titillium Web', sans-serif;
+    padding-bottom: 35px
+}
+
+.doc-dot img {
+    position: absolute;
+    top: -40px;
+    z-index: -1;
+    width: 60% !important;
+    right: 0;
+    left: 196px;
+    height: auto
+}
+
+.doc-video-img {
+    width: 100%
+}
+
+.doc-video-img img {
+    width: 100%;
+    height: 80% !important;
+    margin: auto;
+    display: block
+}
+
+.transplant-collapse-header,
+.transplant-collapse-header1,
+.transplant-collapse-header2 {
+    background-color: #cacaca5c;
+    border-color: #ddd;
+    padding-left: 5px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px
+}
+
+.transplant-collapse-header h2,
+.transplant-collapse-header1 h2,
+.transplant-collapse-header2 h2 {
+    font-weight: 600;
+    word-spacing: 4px;
+    line-height: 36px;
+    font-family: Titillium Web !important
+}
+
+.transplant-collapse-header .fa,
+.transplant-collapse-header1 .fa,
+.transplant-collapse-header2 .fa {
+    padding: 10px
+}
+
+.transplant-collapse-header,
+.transplant-collapse-header1,
+.transplant-collapse-header2 {
+    background-color: #cacaca5c;
+    border-color: #ddd;
+    padding-left: 5px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px
+}
+
+.transplant-collapse-header h2,
+.transplant-collapse-header1 h2,
+.transplant-collapse-header2 h2 {
+    font-weight: 600;
+    word-spacing: 4px;
+    line-height: 36px;
+    font-family: Titillium Web !important
+}
+
+.transplant-collapse-header .fa,
+.transplant-collapse-header1 .fa,
+.transplant-collapse-header2 .fa {
+    padding: 10px
+}
+
+.faq-title,
+.transplant-authorization {
+    display: flex;
+    justify-content: space-between;
+    background: #eee;
+    margin-top: 10px
+}
+
+.faq-title .fa,
+.transplant-authorization .fa {
+    margin: 1rem 0;
+    padding: 5px 0
+}
+
+.transplant-authorization p {
+    padding-left: 10px;
+    color: #000;
+    font-weight: 700;
+    font-family: Titillium Web !important
+}
+
+.transplant-authorization .fa {
+    padding-right: 10px
+}
+
+.transplant-content h4 {
+    margin-top: 10px
+}
+
+.faq-title h4 {
+    margin-top: 15px;
+    padding-left: 15px
+}
+
+.faq-title .fa:before {
+    padding-right: 12px
+}
+
+.nutrition-department {
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 5px 13px 0 rgba(0, 0, 0, .12);
+    padding: 40px
+}
+
+.nutrition-department h3 {
+    color: #242424;
+    font-family: Titillium Web;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: center
+}
+
+.nutrition-department p {
+    color: #302e2e;
+    font-family: Titillium Web;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 24px;
+    padding: 0 10px;
+    text-align: left
+}
+
+.nutrition-department ul {
+    border: none
+}
+
+.nutrition-department ul li {
+    color: #302e2e;
+    font-family: Titillium Web;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 23px;
+    text-align: left;
+    border: none !important;
+    border-bottom: none;
+    list-style-type: disc
+}
+
+@media (max-width:426px) {
+    .nutrition-department {
+        padding: 40px 0
+    }
+    .nutrition-department ul li {
+        font-size: 12px !important
+    }
+}
+
+.lists .filters li.active {
+    background-color: #174d92;
+    color: #fff
+}
+
+.lists .filters li.active a {
+    color: #fff
+}
+
+.not-available div {
+    background-color: #0000006e !important;
+    cursor: not-allowed
+}
+
+.mobile-spacing {
+    margin-top: 9px
+}
+
+.ourspecialities {
+    z-index: 100 !important
+}
+
+.homepage-news .btn {
+    margin: 7px auto 30px;
+    width: 20% !important;
+    background: #f7961e !important;
+    color: #fff !important;
+    border:none;
+}
+.socialiconsf li {
+   text-align: center;
+}
+.ftra.hidden-xs.marginsst {
+    margin: 50px 0 0 0;
+}
+.contentarea.chairman-mr-top.mrgtpss {
+    margin: 50px 0 0 0;
+}
+.chairman-mr-top {
+    margin-top: 0 !important;
+}
+.form-pages_contact {
+    background: #f0f0f0;
+    padding: 20px;
+    margin: 0 0 20px;
+}
+.form-pages_contact h3 {
+    font-size: 17px;
+    margin: 0 0 14px 0;
+    text-align: center;
+    font-weight: 600;
+}

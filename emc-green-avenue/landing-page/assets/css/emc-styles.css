@@ -1,0 +1,359 @@
+*,
+:after,
+:before {
+    text-rendering: optimizeLegibility !important;
+    -webkit-font-smoothing: antialiased !important;
+}
+
+.aster-nav {
+    list-style: none;
+    text-align: right;
+    margin: 0px;
+    padding: 0px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.aster-nav li {
+    display: inline-block;
+}
+
+.nav-link {
+    color: #12468E;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: left;
+    padding: 10px 48px 10px 20px;
+    position: relative;
+}
+
+.nav-link::before {
+    content: url(emc-image/phone.jpg);
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 20px;
+    left: -17px;
+}
+
+.nav-link.pp {
+    padding: 10px 0px 10px 20px;
+}
+
+small {
+    color: #101113;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: left;
+}
+
+.hospital-image {
+    position: relative;
+}
+
+.hospital-image img {
+    width: 100%;
+}
+
+.loction-hospital {
+    background-color: #FFFFFF;
+    padding: 5px 20px 5px 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 30px;
+    left: 50px;
+    color: #0C192A;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: left;
+    margin: 0px;
+}
+
+.loction-hospital::before {
+    content: "";
+    position: relative;
+    left: -10px;
+    top: 0px;
+    width: 8px;
+    height: 10px;
+    background: url(../aster-image/location.svg);
+}
+
+.pl-33 {
+    padding-left: 33px !important;
+}
+
+.cmi-text {
+    display: none;
+    background-color: #17C69F;
+    padding: 14px 70px 14px 20px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: left;
+    position: absolute;
+    bottom: 30%;
+    right: 9%;
+    margin: 0px;
+}
+
+.cmi-text::after,
+.rv-text::after {
+    content: url('../aster-image/arrow.svg');
+    width: 20px;
+    height: 10px;
+    position: relative;
+    right: -45px;
+    top: -1px;
+}
+
+.rv-text {
+    background-color: #17C69F;
+    padding: 10px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    margin: 20px 0 0;
+    border-radius: 4px;
+}
+
+.aster-rv:hover .cmi-text,
+.aster-cmi:hover .cmi-text {
+    display: block;
+}
+
+.bb-1 {
+    border-bottom: 1px solid #E5EAED;
+}
+
+.address {
+    color: #0C192A;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    padding: 0 0 0 14px
+}
+
+footer p {
+    color: #12468E;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 17px;
+    text-align: center;
+    /* padding: 32px 0 0; */
+    padding-top: 0;
+    margin-top: 14px;
+}
+
+.commonhome-flex {
+    display: flex;
+    margin: 0;
+    justify-content: space-between;
+}
+
+.commonhome-flex ul {
+    margin-top: 15px;
+    padding: 0;
+}
+
+@media only screen and (max-width: 768px) {
+    .cmi-text {
+        padding: 10px 40px 10px 28px;
+        bottom: 50%;
+    }
+    .address,
+    .pl-33 {
+        padding: 0px !important;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .nav-link {
+        background-color: #FFFFFF;
+        border: 1px solid #E5EAED;
+        padding: 13px 12px 13px 35px !important;
+    }
+    .nav-link::before {
+        top: 14px;
+        left: 7px;
+    }
+    .aster-nav li:first-child {
+        margin-right: 0px;
+    }
+    .midle {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
+    .aster-rv:hover .cmi-text,
+    .aster-cmi:hover .cmi-text {
+        display: none;
+    }
+    .loction-hospital {
+        padding: 5px 108px 5px 20px;
+        top: 9px;
+        left: 9px;
+    }
+    .aster-rv .loction-hospital {
+        padding: 5px 92px 5px 20px;
+        left: 14px;
+    }
+    .pb-5 {
+        padding-bottom: 30px !important;
+    }
+    .mp-0 {
+        padding: 0px;
+    }
+    .mpr-7 {
+        padding-right: 7px;
+    }
+    .mpl-7 {
+        padding-left: 7px;
+    }
+    .cmi-text::after,
+    .rv-text::after {
+        right: -43px;
+        top: -2px;
+    }
+    .address {
+        font-size: 11px;
+        margin-left: 15px;
+    }
+    .rv-text {
+        margin-top: 0;
+    }
+    .aster-rv-log {
+        width: 100px;
+    }
+    .aster-rv-log img {
+        width: 100%;
+    }
+    .commonhome-flex {
+        justify-content: center;
+    }
+    .padbtm {
+        padding-bottom: 45px;
+    }
+}
+
+@media only screen and (max-width: 420px) and (min-width: 351px) {
+    .aster-rv .loction-hospital {
+        padding: 5px 40px 5px 20px;
+    }
+    .aster-cmi .loction-hospital {
+        padding: 5px 65px 5px 20px;
+    }
+    .cmi-text::after,
+    .rv-text::after {
+        right: -55px;
+    }
+}
+
+@media only screen and (max-width: 350px) {
+    .loction-hospital {
+        padding: 5px 40px 5px 20px !important;
+    }
+    .aster-cmi .loction-hospital {
+        padding: 5px 38px !important;
+    }
+    .aster-nav li:first-child {
+        margin: 0px;
+    }
+    .rv-text {
+        padding: 10px 5px;
+    }
+    .nav-link {
+        padding: 14px 10px 14px 30px !important;
+    }
+    .nav-link::before {
+        top: 15px;
+        left: 3px;
+    }
+    .cmi-text::after,
+    .rv-text::after {
+        right: -9px;
+    }
+}
+
+.socialiconsf a,
+.socialiconsf a.ln {
+    background-image: url(../sprite/home-sprite.png);
+}
+
+.socialiconsf,
+.text-ul li {
+    list-style: none;
+}
+
+.socialiconsf li {
+    padding: 0;
+    margin: 0 5px;
+    display: inline-block;
+}
+
+.socialiconsf a.fb {
+    background-position: -3px -3px;
+}
+
+.socialiconsf a.tw {
+    background-position: -3px -37px;
+}
+
+.socialiconsf a.gp {
+    background-position: -3px -70px;
+}
+
+.socialiconsf a.ln {
+    background-position: -3px -103px;
+}
+
+.socialiconsf a,
+.socialiconsf a.ln {
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+}
+
+.socialiconsf a.yt {
+    background-position: -3px -135px;
+}
+
+@media only screen and (max-width: 605px) {
+    .hospital-image {
+        position: relative;
+        position: relative;
+        height: 180px;
+        overflow: hidden;
+    }
+    .hospital-image img {
+        /* height: 200px; */
+        /* object-fit: fill; */
+        object-fit: fill;
+        top: 50%;
+        position: relative;
+        transform: translateY(-50%);
+    }
+    .commonhome-flex {
+        justify-content: center;
+    }
+    .padbtm {
+        padding-bottom: 45px;
+    }
+}

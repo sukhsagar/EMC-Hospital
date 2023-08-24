@@ -1,0 +1,3 @@
+[18-Nov-2020 07:11:26 UTC] WordPress database error Unknown column 'xb_' in 'field list' for query SELECT xb_
+[18-Nov-2020 08:00:00 UTC] PHP Warning:  sprintf(): Too few arguments in /home/oxv1jsnkn32w/public_html/emc-green-avenue/blog/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[18-Nov-2020 08:00:04 UTC] PHP Warning:  sprintf(): Too few arguments in /home/oxv1jsnkn32w/public_html/emc-green-avenue/blog/wp-admin/includes/class-bulk-upgrader-skin.php on line 152

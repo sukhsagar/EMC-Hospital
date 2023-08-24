@@ -1,0 +1,825 @@
+/* body{
+    font-family: Titillium Web;
+} */
+
+.speciality_heading {
+    background-color: #F5F7FA;
+}
+
+.speciality_heading .breadcrumb {
+    padding: 0px;
+    margin-bottom: 20px;
+    background-color: transparent;
+    border-radius: 4px;
+}
+
+.speciality_heading .breadcrumb a {
+    color: #004499;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+}
+
+.speciality_heading .breadcrumb li {
+    color: #444444;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+}
+
+.requestappbtnout {
+    text-align: right;
+    margin-top: 15px;
+}
+
+.requestappbtn {
+    background-color: #21B38A;
+    border-radius: 4px;
+    padding: 10px 25px;
+}
+
+.requestappbtn img {
+    margin-right: 10px;
+}
+
+.requestappbtn p {
+    display: inline-block;
+    color: #FFFFFF;
+    font-family: Titillium Web;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    margin: 0;
+}
+
+.speciality_heading h4 {
+    color: #004499;
+    font-family: Titillium Web;
+    font-size: 41px;
+    font-weight: 600;
+    line-height: 49px;
+    text-align: left;
+}
+
+.speciality_heading i {
+    line-height: 23px;
+}
+
+.paddingtopbtm {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.speciality_details {
+    margin-top: 50px;
+}
+
+.spec_heading {
+    color: #184F93;
+    font-family: Titillium Web;
+    font-size: 29px;
+    font-weight: 600;
+    line-height: 35px;
+    text-align: left;
+}
+
+.the-centre-of-excell {
+    color: #242E39;
+    font-family: Titillium Web;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 23px;
+    text-align: left;
+    margin-top: 25px;
+}
+
+.about_spec {
+    border-bottom: 1px solid #EAECEF;
+    padding: 0 0 35px 0;
+}
+
+.doc_spec {
+    margin-top: 30px;
+    margin-bottom: 30px
+}
+
+.spec_sub_heading {
+    color: #737D89;
+    font-family: Titillium Web;
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: 0.1px;
+    line-height: 17px;
+    text-align: left;
+    margin: 25px 0 30px 0;
+}
+
+.doc_spec {
+    border-bottom: 1px solid #EAECEF;
+    padding: 0 0 35px 0;
+}
+
+.doc_spec_card {
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.doc_spec_card:hover {
+    background: #F5F5F5;
+    border-radius: 8px;
+}
+
+.doc_spec_details .doc_n {
+    color: #122640;
+    font-family: Titillium Web;
+    font-size: 19px;
+    font-weight: 600;
+    letter-spacing: 0.71px;
+    line-height: 23px;
+    text-align: left;
+}
+
+.doc_spec_card:hover .doc_n {
+    color: #21B38A;
+}
+
+.doc_spec_details .doc_q {
+    color: #122640;
+    font-family: Titillium Web;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: left;
+    padding: 0;
+    margin: 5px 0;
+}
+
+.doc_spec_details .doc_p {
+    color: #70789A;
+    font-family: Titillium Web;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: left;
+}
+
+.doc_spec_details {
+    padding: 15px 0;
+}
+
+.doc_spec_app {
+    margin-top: 30px;
+    float: right;
+}
+
+.doc_spec_app a {
+    background-color: #E3EAF3;
+    border-radius: 4px;
+}
+
+.doc_spec_card:hover .doc_spec_app a {
+    background-color: #21B38A;
+}
+
+.doc_spec_card:hover .doc_spec_app p {
+    color: #FFFFFF;
+}
+
+.doc_spec_app p {
+    margin: 0;
+    color: #004499;
+    font-family: Titillium Web;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 12px;
+}
+
+.docsecondlst {
+    margin-top: 70px
+}
+
+.panel-default>.panel-heading {
+    color: #333;
+    background-color: #fff;
+    border-color: #e4e5e7;
+    padding: 0;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.panel-default>.panel-heading a {
+    display: block;
+    padding: 10px 15px;
+    border-radius: 8px;
+    box-shadow: 0 1px 11px 0 rgba(0, 0, 0, 0.07);
+}
+
+
+/* .panel-default>.panel-heading a:after {
+        content: "";
+        position: relative;
+        top: 1px;
+        display: inline-block;
+        font-family: 'Glyphicons Halflings';
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        float: right;
+        transition: transform .25s linear;
+        -webkit-transition: -webkit-transform .25s linear;
+    } */
+
+.panel-default>.panel-heading a[aria-expanded="true"] {
+    background-color: #eee;
+}
+
+
+/* .panel-default>.panel-heading a[aria-expanded="true"]:after {
+        content: "\2212";
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg);
+    } */
+
+
+/* .panel-default>.panel-heading a[aria-expanded="false"]:after {
+        content: "\002b";
+        color: #122640; 
+        -webkit-transform: rotate(90deg);
+        transform: rotate(90deg);
+    } */
+
+.panel-body {
+    /*background-image: url('../images/surgery_body_back.png');*/
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: right top;
+    padding: 30px;
+}
+
+.minimally-invasive-c {
+    color: #122640;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    line-height: 22px;
+    text-align: left;
+}
+
+a.minimally-invasive-c:hover {
+    color: #122640;
+}
+
+.panel_content {
+    list-style-type: unset;
+    border: none;
+}
+
+.panel_content p {
+    color: #302E2E;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.panel_content li {
+    border-bottom: none;
+    color: #302E2E;
+    font-size: 15px;
+    font-weight: 300;
+    font-family: Titillium Web;
+}
+
+.panel_body_heading {
+    color: #184F93;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: Titillium Web;
+}
+
+#cardio_surgery {
+    margin-top: 50px
+}
+
+.right_col {
+    border-right: 1px solid #eeeeee;
+    margin-top: 50px;
+    width: 18%;
+}
+
+.right_col .tab.active {
+    border-right: 5px solid #21B38A;
+    color: #21B38A;
+}
+
+.right_col h3 {
+    color: #122640;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.right_col p {
+    color: #787A82;
+    font-size: 13px;
+    font-weight: 600;
+    text-align: left;
+    margin: 0;
+}
+
+.right_col hr {
+    margin: 0px;
+    width: 80%;
+}
+
+#owl_scroll {
+    position: relative;
+}
+
+#owl_scroll .item {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#owl_scroll .item h3 {
+    color: #184F93;
+    font-size: 22px;
+    font-weight: 600;
+    text-align: left;
+    margin-top: 15px;
+}
+
+#owl_scroll .owl-item:hover {
+    border-radius: 4.84px;
+    box-shadow: 8px 11px 31px 1px rgba(43, 53, 61, 0.06);
+}
+
+#owl_scroll .owl-dot {
+    display: none;
+}
+
+#owl_scroll .owl-nav {
+    float: right;
+    margin-top: 20px;
+}
+
+#owl_scroll .owl-nav button {
+    border: 1px solid #2CBE9E;
+    width: 40px;
+    border-radius: 50%;
+    height: 40px;
+    font-size: 20px;
+    color: #2CBE9E;
+}
+
+.owl_view {
+    background: #fff;
+    padding: 10px 23px;
+    border: 1px solid #02B48E;
+    border-radius: 4px;
+    /* position: absolute;
+        bottom: 0; */
+    color: #02B48E;
+    font-weight: 600
+}
+
+.contact_us {
+    /*background-image: url('images/contact.png');*/
+    background-repeat: no-repeat;
+    padding: 25px 20px 25px 20px;
+}
+
+.contact_us img {
+    margin-bottom: 20px;
+}
+
+.contact_us a {
+    color: #fff;
+    font-size: 22px;
+}
+
+.contact_us p {
+    line-height: 0;
+    color: #fff;
+}
+
+#blog_section {
+    margin-bottom: 60px;
+}
+
+
+/* .blog_sec a, h3, h4, p, ul, li{
+        font-family: Titillium Web;
+        font-weight: 600;
+    } */
+
+.badge {
+    color: rgba(127, 57, 108, 0.6) !important;
+    width: 30px;
+    height: 30px;
+    font-size: 10px;
+    padding: 11px 5px 5px 6px;
+    font-weight: 900;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+.bg1 {
+    background-color: #FFE8A8 !important;
+}
+
+.bg2 {
+    background-color: #FFBAA8 !important;
+}
+
+.bg3 {
+    background-color: #D7F2B6 !important;
+}
+
+.bg4 {
+    background-color: #B6F2DC !important;
+}
+
+.bg5 {
+    background-color: #B6D1F2 !important;
+}
+
+.bg6 {
+    background-color: #FFE8A8 !important;
+}
+
+.bg7 {
+    background-color: #FFBAA8 !important;
+}
+
+.bg8 {
+    background-color: #D7F2B6 !important;
+}
+
+.bg9 {
+    background-color: #B6F2DC !important;
+}
+
+.bg10 {
+    background-color: #B6D1F2 !important;
+}
+
+.bg01 {
+    background-color: #B6B8F2 !important;
+}
+
+.bg02 {
+    background-color: #DDB6F2 !important;
+}
+
+.bg03 {
+    background-color: #EF74B1 !important;
+}
+
+.bg04 {
+    background-color: #B6B8F2 !important;
+}
+
+.bg05 {
+    background-color: #DDB6F2 !important;
+}
+
+.bg06 {
+    background-color: #EF74B1 !important;
+}
+
+.land_service {
+    /* border-bottom: 1px solid #EAECEF; */
+    padding: 0 0 25px 0;
+}
+
+.land_testimonials {
+    margin-top: 50px;
+    /* border-bottom: 1px solid #EAECEF; */
+    padding: 0 0 20px 0;
+}
+
+.land_blog-main {
+    margin-top: 50px;
+}
+
+#social-float a {
+    cursor: pointer;
+}
+
+#blog_main h3 {
+    margin-bottom: 0;
+}
+
+button.close {
+    padding-right: 10px;
+}
+
+div#social-float {
+    position: fixed;
+}
+
+@media (max-width:489px) {
+    .doc_spec_app {
+        margin-top: 0px;
+        padding-bottom: 20px;
+        border-bottom: 1px solid #eeeeee;
+        float: none;
+        text-align: center;
+    }
+    .requestappbtnout {
+        text-align: center;
+    }
+    .speciality_heading h4 {
+        font-size: 34px;
+        text-align: center;
+    }
+}
+
+@media (max-width:786px) {
+    .panel-body {
+        padding-top: 20px;
+    }
+    .speciality_details {
+        margin-top: 10px;
+    }
+    .blog-card {
+        width: auto;
+    }
+    .the-centre-of-excell {
+        margin-top: 0px;
+    }
+    .blog_image {
+        width: auto;
+    }
+    .docsecondlst {
+        margin-top: 5px;
+    }
+    .spec_heading {
+        font-size: 22px !important;
+    }
+}
+
+.margintopbtm {
+    margin: 50px 0 50px 0;
+}
+
+.spine-depart {
+    text-align: right;
+}
+
+.traditional-spine h4 {
+    color: #BFC4CB;
+    font-family: Titillium Web;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 23px;
+    text-align: left;
+}
+
+.traditional-spine {
+    background-color: #FFFFFF;
+    border: 1px solid #E7E7E7;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.11);
+    height: 289px;
+    padding: 50px;
+}
+
+.spine-method h4 {
+    color: #2FBD94;
+    font-family: Titillium Web;
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 23px;
+    text-align: left;
+}
+
+.spine-method {
+    background-color: #FFFFFF;
+    border: 1px solid #E7E7E7;
+    box-shadow: 0 4px 78px 0 rgba(0, 0, 0, 0.11);
+    transform: scale(1.1);
+    padding: 50px;
+}
+
+#whyaster {
+    padding: 44px 0 47px 0;
+    background-color: #F8F8F8;
+}
+
+#whyaster p:nth-child(1) {
+    margin-top: 30px;
+}
+
+#whyaster h4 {
+    font-size: 18px;
+}
+
+.spin-doc {
+    display: flex;
+    justify-content: center;
+}
+
+.spine-service h4 {
+    color: #184F93;
+    font-family: Titillium Web;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 4px;
+}
+
+.spine-service {
+    border: 1px solid #DFE3E8;
+    border-radius: 4px;
+    padding: 30px;
+}
+
+.spine-service ul {
+    list-style-type: disc !important;
+    padding: 0;
+    border: none;
+    border-radius: 10px;
+    margin: 0;
+    margin-left: 7px;
+    margin-top: 10px;
+}
+
+.spine-service ul li {
+    border: none;
+    color: #302E2E;
+    font-family: Titillium Web;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 23px;
+    padding: 0;
+}
+
+.spine-background {
+    background: #fff;
+    min-height: 360px;
+}
+
+#faq {
+    /* background-color: #F8F8F8; */
+    padding-bottom: 50px;
+}
+
+.spine-faq h4 {
+    color: #184F93;
+    font-family: Titillium Web;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    text-align: left;
+}
+
+.spine-background .speciality-sub-heading {
+    padding: 30px 0;
+}
+
+.pd-r {
+    padding-right: 0 !important;
+}
+
+.traditional-method {
+    position: relative;
+    top: 65px;
+}
+
+.spine-faq {
+    margin-top: 50px;
+}
+
+.spine-btn {
+    color: #02B48E;
+    font-family: Titillium Web;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    text-align: center;
+    border: 1px solid #02B48E;
+    border-radius: 4px;
+    margin: auto;
+    display: block;
+    text-align: center;
+    width: 100px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    padding: 10px;
+}
+
+.spine-testimonial {
+    border-bottom: none !important;
+}
+
+.spine-trand-method .box .box-inner {
+    padding: 20px;
+    padding-bottom: 0;
+    margin: 0px 40px;
+    box-shadow: 1.6px 2.5px 15px 0 rgba(0, 0, 0, 0.2);
+}
+
+.box img {
+    height: 125px;
+    object-fit: cover;
+}
+
+.spine-trand-method .box .box-inner h3 {
+    margin-top: 0px;
+    font-size: 26px;
+    margin-bottom: 12px;
+    padding: 0px 30px 0 0px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: 'Titillium Web', sans-serif;
+    line-height: 18px;
+}
+
+.box-inner h4 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.spine-trand-method .box .box-inner p {
+    color: #242E39;
+    font-size: 15px;
+    padding: 0 15px 15px 0px;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.spine-trand-method .box .box-inner1 {
+    padding: 20px;
+    box-shadow: 1.6px 2.5px 30px 0 rgba(0, 0, 0, 0.2);
+    background-color: #e0eeff;
+    margin-bottom: 60px;
+}
+
+.spine-trand-method .box .box-inner1 h3 {
+    color: #134d92;
+    font-size: 26px;
+    margin-bottom: 0px;
+    padding: 0px 30px 0 0;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: 'Titillium Web', sans-serif;
+    line-height: 18px;
+}
+
+.spine-surgery-services {
+    padding-top: 20px;
+}
+
+.box-inner .read-more,
+.box-inner1 .read-more,
+.spec-overview-details-p .read-more {
+    color: #184F93 !important;
+    cursor: pointer !important;
+    text-align: center !important;
+    border: none;
+    background: transparent;
+    font-size: 15px;
+    display: block;
+}
+
+@media (max-width:600px) {
+    .pd-r {
+        padding-right: 15px !important;
+    }
+    .spine-service ul li {
+        border: none;
+        color: #302E2E;
+        font-family: Titillium Web;
+        font-size: 13px;
+        font-weight: 300;
+        line-height: 23px;
+        padding: 0;
+    }
+    .spin-doc {
+        display: block;
+    }
+    .spine-service {
+        margin-top: 10px;
+    }
+    .video-iframe {
+        height: 100% !important;
+        width: 100% !important;
+    }
+    .video-iframe iframe {
+        width: 100% !important;
+    }
+    #whyaster {
+        padding-top: 30px;
+    }
+    .spine-surgery-services {
+        padding-top: 20px;
+    }
+    .spine-faq {
+        margin-top: 30px;
+    }
+    .spine-faq .speciality-heading {
+        margin-bottom: 25px;
+    }
+}

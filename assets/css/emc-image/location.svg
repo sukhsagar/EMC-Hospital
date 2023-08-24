@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="10px" viewBox="0 0 8 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>location</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Aster-Main-Home-Page" transform="translate(-191.000000, -141.000000)" fill="#1081E0" fill-rule="nonzero">
+            <g id="Group-6" transform="translate(183.000000, 134.000000)">
+                <g id="Group-5" transform="translate(8.000000, 1.000000)">
+                    <g id="location" transform="translate(0.000000, 6.000000)">
+                        <path d="M6.70589474,1.02384615 L6.70589474,1.02384615 C5.21157895,-0.341153846 2.78863158,-0.341153846 1.29410526,1.02384615 L1.29410526,1.02384615 C-0.0524210526,2.25384615 -0.204,4.56980769 0.938736842,5.96153846 L4,10 L7.06126316,5.96153846 C8.204,4.56980769 8.05242105,2.25384615 6.70589474,1.02384615 Z M4.03726316,4.61538462 C3.33957895,4.61538462 2.77410526,4.09884615 2.77410526,3.46153846 C2.77410526,2.82423077 3.33957895,2.30769231 4.03726316,2.30769231 C4.73494737,2.30769231 5.30042105,2.82423077 5.30042105,3.46153846 C5.30042105,4.09884615 4.73494737,4.61538462 4.03726316,4.61538462 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
