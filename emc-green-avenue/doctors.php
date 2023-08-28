@@ -408,14 +408,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <div class="profile-widget">
                      <div class="doc-img">
                         <a href="anesthesia.php">
-                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-rishabh.jpg">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/HD/pankaj-soni.jpg">
                         </a>
                      </div>
                      <div class="pro-content">
                         <h3 class="title">
-                           <a href="anesthesia.php" target="_blank">Dr. Rishab Arora</a> 
+                           <a href="anesthesia.php" target="_blank">Dr. Pankaj Soni</a> 
                         </h3>
-                        <p class="speciality">MBBS, FCCS (USA) </p>
+                        <p class="speciality">MD Anesthesiology</p>
                         <div class="row row-sm">
                            <div class="col-lg-12 col-sm-1">
                               <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
@@ -430,14 +430,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <div class="profile-widget">
                      <div class="doc-img">
                         <a href="anesthesia.php">
-                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-rishabh.jpg">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/HD/manish.jpg">
                         </a>
                      </div>
                      <div class="pro-content">
                         <h3 class="title">
-                           <a href="anesthesia.php" target="_blank">Dr. Rishab Arora</a> 
+                           <a href="anesthesia.php" target="_blank">Dr. Manish Gupta</a> 
                         </h3>
-                        <p class="speciality">MBBS, FCCS (USA) </p>
+                        <p class="speciality">MD, DM Critical Care</p>
                         <div class="row row-sm">
                            <div class="col-lg-12 col-sm-1">
                                <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
@@ -452,14 +452,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <div class="profile-widget">
                      <div class="doc-img">
                         <a href="anesthesia.php">
-                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-rishabh.jpg">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/rajeev.jpg">
                         </a>
                      </div>
                      <div class="pro-content">
                         <h3 class="title">
-                           <a href="anesthesia.php" target="_blank">Dr. Rishab Arora</a> 
+                           <a href="anesthesia.php" target="_blank">Dr. Rajeev Kumar</a> 
                         </h3>
-                        <p class="speciality">MBBS, FCCS (USA) </p>
+                        <p class="speciality">MD Anesthesiology</p>
                         <div class="row row-sm">
                            <div class="col-lg-12 col-sm-1">
                                <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
@@ -469,6 +469,471 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   </div>
                </div>
 
+            </div>
+            <!-- End of Row -->
+
+            <!-- Row of doctors -->
+            <div class="row containerItems">
+               <!-- First Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr kaetki.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Kaetki</a> 
+                        </h3>
+                        <p class="speciality">MD Anesthesia </p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                        <!-- <div class="row row-sm">
+                           <div class="col-lg-6 col-sm-1">
+                              <a href="cardiologist.php" class="btn view-btn">View Profile</a>
+                           </div>
+                           <div class="col-lg-6 col-sm-1">
+                              <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr.Vivek Tandon" data-speciality="Cardiology" data-hospital="EMC Hospital Green Avenue" href="#" class="btn book-btn">Appointment</a>
+                           </div>
+                        </div> -->
+                     </div>
+                  </div>
+               </div>
+
+               <!-- Second Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-subash.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Subhash</a> 
+                        </h3>
+                        <p class="speciality">MD Anesthesia </p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <!-- Third Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-danish.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Danish Altaf</a> 
+                        </h3>
+                        <p class="speciality">MD Anesthesiology </p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                               <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <!-- Fourth Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/Dr. Rabinder Waan.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Rabinder Waan </a> 
+                        </h3>
+                        <p class="speciality">MD Anesthesiology, 
+FCCS (USA) </p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                               <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+            </div>
+            <!-- End of Row -->
+
+            <!-- Row of doctors -->
+            <div class="row containerItems">
+               <!-- First Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-ajay-abrol.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Ajay Abrol</a> 
+                        </h3>
+                        <p class="speciality">Head, Orthopedics Department </p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                        <!-- <div class="row row-sm">
+                           <div class="col-lg-6 col-sm-1">
+                              <a href="cardiologist.php" class="btn view-btn">View Profile</a>
+                           </div>
+                           <div class="col-lg-6 col-sm-1">
+                              <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr.Vivek Tandon" data-speciality="Cardiology" data-hospital="EMC Hospital Green Avenue" href="#" class="btn book-btn">Appointment</a>
+                           </div>
+                        </div> -->
+                     </div>
+                  </div>
+               </div>
+
+               <!-- Second Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Kulpreet Singh</a> 
+                        </h3>
+                        <p class="speciality">MS Orthopedics</p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <!-- Third Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-prabhjot.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Prabhjot Singh</a> 
+                        </h3>
+                        <p class="speciality">DNB Orthopedics</p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                               <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <!-- Fourth Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-rohit-dhawan.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Rohit Dhawan</a> 
+                        </h3>
+                        <p class="speciality"><span style="display:inline;letter-spacing: 0px;">MS, MCh Surgical Gastroenterology</span></p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                               <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+            </div>
+            <!-- End of Row -->
+                       <!-- Row of doctors -->
+            <div class="row containerItems">
+               <!-- First Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-ishtiaq.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Ishtiyaq Masood</a> 
+                        </h3>
+                        <p class="speciality">MD, DM Cardiology </p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                        <!-- <div class="row row-sm">
+                           <div class="col-lg-6 col-sm-1">
+                              <a href="cardiologist.php" class="btn view-btn">View Profile</a>
+                           </div>
+                           <div class="col-lg-6 col-sm-1">
+                              <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr.Vivek Tandon" data-speciality="Cardiology" data-hospital="EMC Hospital Green Avenue" href="#" class="btn book-btn">Appointment</a>
+                           </div>
+                        </div> -->
+                     </div>
+                  </div>
+               </div>
+
+               <!-- Second Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-chetan.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Chetan Mahajan</a> 
+                        </h3>
+                        <p class="speciality">MD, DM Nephrology</p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <!-- Third Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-hakeem.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Hakeem Ansar</a> 
+                        </h3>
+                        <p class="speciality">MD, DM Medical Oncology
+</p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                               <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <!-- Fourth Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-naveen.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Naveen Goyal</a> 
+                        </h3>
+                        <p class="speciality"><span style="display:inline;letter-spacing: 0px;">MS, MCh Genito Urinary Surgery</span></p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                               <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+            </div>
+            <!-- End of Row -->
+
+            <!-- Row of doctors -->
+            <div class="row containerItems">
+               <!-- First Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-kamaldeep.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">
+                            Dr. Kamaldeep</a> 
+                        </h3>
+                        <p class="speciality">MS Surgery (PGIMER Chandigarh) </p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                        <!-- <div class="row row-sm">
+                           <div class="col-lg-6 col-sm-1">
+                              <a href="cardiologist.php" class="btn view-btn">View Profile</a>
+                           </div>
+                           <div class="col-lg-6 col-sm-1">
+                              <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr.Vivek Tandon" data-speciality="Cardiology" data-hospital="EMC Hospital Green Avenue" href="#" class="btn book-btn">Appointment</a>
+                           </div>
+                        </div> -->
+                     </div>
+                  </div>
+               </div>
+
+               <!-- Second Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-ishfaq.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Ishfaq Gulzar Bhat</a> 
+                        </h3>
+                        <p class="speciality">MD Medicine</p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <!-- Third Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-manzoor.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Abid Manzoor</a> 
+                        </h3>
+                        <p class="speciality">MD Medicine
+</p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                               <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <!-- Fourth Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-mushtaq.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Mushtaq Ahmad</a> 
+                        </h3>
+                        <p class="speciality"><span style="display:inline;letter-spacing: 0px;">MD, DM Gastroenterology</span></p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                               <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+            </div>
+            <!-- End of Row -->
+            <!-- Row of doctors -->
+            <div class="row containerItems">
+               <!-- First Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/mukesh-vij.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">
+                            Dr. Mukesh Vij</a> 
+                        </h3>
+                        <p class="speciality">MS, MCh Neurosurgery</p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                        <!-- <div class="row row-sm">
+                           <div class="col-lg-6 col-sm-1">
+                              <a href="cardiologist.php" class="btn view-btn">View Profile</a>
+                           </div>
+                           <div class="col-lg-6 col-sm-1">
+                              <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr.Vivek Tandon" data-speciality="Cardiology" data-hospital="EMC Hospital Green Avenue" href="#" class="btn book-btn">Appointment</a>
+                           </div>
+                        </div> -->
+                     </div>
+                  </div>
+               </div>
+
+               <!-- Second Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-arjimand.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Arjimand Yaqoob
+</a> 
+                        </h3>
+                        <p class="speciality">MD, DM Neurology</p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               
             </div>
             <!-- End of Row -->
          </div>
