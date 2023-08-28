@@ -477,15 +477,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="doc-cardx">
 
 <div class="doc_image_doctorlist">
-<img class="img-responsive" width="100%" src="doctors/dr-vivek-tandon.jpg">
+<img class="img-responsive" width="100%" src="doctors/dr-ishtiaq.jpg">
 <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr.Vivek Tandon" data-speciality="Cardiology" data-hospital="Hospital EMC" href="#" target="_blank">
 <button>Book an appointment</button>
 </a>    
 </div>
 
 <div class="doc-details">
-<h5>DR. VIVEK TANDON </h5>
-<p>DM(Cardiology)</p>
+<h5>Dr. Ishtiyaq Masood
+ </h5>
+<p>MD, DM Cardiology</p>
 <p><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
 </div>
 

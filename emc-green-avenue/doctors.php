@@ -479,7 +479,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <div class="profile-widget">
                      <div class="doc-img">
                         <a href="anesthesia.php">
-                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr kaetki.jpg">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr kaetki2.jpg">
                         </a>
                      </div>
                      <div class="pro-content">
@@ -611,7 +611,7 @@ FCCS (USA) </p>
                   <div class="profile-widget">
                      <div class="doc-img">
                         <a href="anesthesia.php">
-                        <img class="img-fluid" alt="Cardiologist" src="doctors/">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-kulpreet.jpg">
                         </a>
                      </div>
                      <div class="pro-content">
@@ -633,7 +633,7 @@ FCCS (USA) </p>
                   <div class="profile-widget">
                      <div class="doc-img">
                         <a href="anesthesia.php">
-                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-prabhjot.jpg">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-prabjot.jpg">
                         </a>
                      </div>
                      <div class="pro-content">
@@ -933,8 +933,57 @@ FCCS (USA) </p>
                      </div>
                   </div>
                </div>
-               
+
+               <!-- third Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-sanjay.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Sanjay Gupta
+</a> 
+                        </h3>
+                        <p class="speciality">MBBS , DNB Cardiology</p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <!-- 4rth Column -->
+            <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/alka.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Alka Srivastava
+</a> 
+                        </h3>
+                        <p class="speciality">MD Radiotherapy</p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
             </div>
+           
+            
+            
             <!-- End of Row -->
          </div>
       </section>
