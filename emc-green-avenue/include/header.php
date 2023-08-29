@@ -1995,7 +1995,7 @@ small {
 
     height: 26px;
 
-    background: url(images/help.png) 104px 0px;
+    /* background: url(images/help.png) 104px 0px; */
 
 }
 
@@ -2015,7 +2015,7 @@ small {
 
     height: 27px;
 
-    background: url(images/spirite1.png) 84px 0px;
+    /* background: url(images/spirite1.png) 84px 0px; */
 
 }
 
@@ -2035,7 +2035,7 @@ small {
 
     height: 25px;
 
-    background: url(images/sms.png) 75px 0px;
+    /* background: url(images/sms.png) 75px 0px; */
 
 }
 
@@ -2118,12 +2118,21 @@ color: #fff;
                         <div class="row grid-new">
 
                             <div class="col-lg-3 col-md-3  col-xs-5 col-sm-03 asterLogo newasterlogo ">
+                                
+                                <a href="index.php">
+                                    <!-- <img src="images/bigemc-logo.png" alt="" data-toggle="tooltip" > -->
+                                    <div class="logo-section" style="display:flex;gap:20px; ">
+                                        <div class="logo">
+                                            <img src="doctors/emc logo.png" style="width:116px" alt="" data-toggle="tooltip" >
 
-                                <a href="index.php"><img
-
-                                        src="images/bigemc-logo.png" alt=""
-
-                                        data-toggle="tooltip" ></a>
+                                        </div>
+                                        <div class="titletext">
+                                            <h1 style="font-family:times new roman;font-size:47px;
+    margin-top: 32px;font-weight:bold">EMC HOSPITAL</h1>
+                                            <p style="font-family: times new roman;font-weight: 900;text-align:center;">GREEN AVENUE , AMRITSAR</p>
+                                        </div>
+                                    </div>
+                                </a>
 
                             </div>
 
@@ -2137,11 +2146,27 @@ color: #fff;
 
                                     <div class="emergency">
 
-                                    <span class="d-none d-md-block">
+                                    <!-- <span class="d-none d-md-block">
 
                                         <small>Ambulance</small><br><a class="mailphnclicks" href="tel:+916239511500">62395-11500 </a>
 
-                                    </span>
+                                    </span> -->
+
+                                    <a href="tel:+916239511500">
+                                        <small style="margin-bottom:-17px ;margin-left:40px;font-family: 'Titillium Web', sans-serif;
+    font-size: 12px;
+    font-weight: 600;color: #637381;">ambulance</small>
+                                        <span class="icon-box" style="display:flex;gap:10px;align-items: center;">
+                                            <!-- <div class="img"><img src="http://localhost/emc-hospital/emc-green-avenue/images/help.png" style="margin-top:0px" alt="" srcset=""></div> -->
+                                            <div class="img" style="margin-top:0px">
+                                            <i class="fa-solid fa-truck-medical" style="color: #337af5;font-size: 20px;
+"></i>
+                                            </div>
+                                            <p style="font-family: Poppins;
+    font-size: 14px;font-weight: 700;color: #637381;">623-9511-500</p>
+                                        </span>
+
+                                    </a>
 
                                 </div></a>
 
@@ -2151,33 +2176,68 @@ color: #fff;
 
                                     <div class="hospital">
 
-                                    <span class="d-none d-md-block">
+                                    <!-- <span class="d-none d-md-block">
 
                                         <small>Hospital</small><br><a class="mailphnclicks" href="tel:+917009182189"> 7009182189 </a>
 
-                                    </span>
+                                    </span> -->
+                                    <a href="tel:+917009182189">
+                                        <small style="margin-bottom:-17px ;margin-left:36px;font-family: 'Titillium Web', sans-serif;
+    font-size: 12px;
+    font-weight: 600;color: #637381;">Hospital</small>
+                                        <span class="icon-box" style="display:flex;gap:10px;align-items:center;">
+                                            <!-- <div class="img"><img src="http://localhost/emc-hospital/emc-green-avenue/images/spirite1.png" style="margin-top:6px" alt="" srcset=""></div> -->
+
+                                            <div class="img"><i class="fa-solid fa-phone-volume" style="color:#337af5;font-size: 20px;
+"></i></div>
+                                            <p style="font-family: Poppins;
+    font-size: 14px;font-weight: 700;color: #637381;">700-9182-189</p>
+                                        </span>
+
+                                    </a>
 
                                 </div></a>
 
                               </li>
+
+                              
 
                                <li><a class="nav-emc-link" href="#">
 
                                     <div class="hospital-mail">
 
-                                    <span class="d-none d-md-block">
+                                    <!-- <span class="d-none d-md-block">
 
                                         <small>Email</small><br> <a class="mailphnclicks" href="mailto:emchelpline@gmail.com">emchelpline@gmail.com</a>
 
-                                    </span>
+                                    </span> -->
+
+                                    <a href="mailto:emchelpline@gmail.com">
+                                        <small style="margin-bottom:-17px ;margin-left:40px;font-family: 'Titillium Web', sans-serif;
+    font-size: 12px;
+    font-weight: 600;color: #637381;">Email</small>
+                                        <span class="icon-box" style="display:flex;gap:10px;align-items:center;">
+                                            <!-- <div class="img"><img src="http://localhost/emc-hospital/emc-green-avenue/images/sms.png" style="margin-top:6px" alt="" srcset=""></div> -->
+                                            <div class="img"><i class="fa-solid fa-envelope" style="color:#337af5;font-size: 20px;
+"></i></div>
+                                            <p style="font-family: Poppins;
+    font-size: 14px;font-weight: 700;color: #637381;">emchelpline@gmail.com</p>
+                                        </span>
+
+                                    </a>
 
                                 </div></a>
 
+                                
+
                               </li>
+                             
+                              
+                              
+                            
 
 
-
-                              <li class="whatsapp-icon">
+                              <!-- <li class="whatsapp-icon">
 
                             <a href="#">
 
@@ -2189,7 +2249,7 @@ color: #fff;
 
                           
 
-                             <li><a class="brochure" href="#"><i class="fab fa-whatsapp"></i></a></li>
+                             <li><a class="brochure" href="#"><i class="fab fa-whatsapp"></i></a></li> -->
 
                                
 
@@ -2215,7 +2275,13 @@ color: #fff;
 
                               
 
-                                <ul class="bottam-nav mobiledisplaynone tabdisplaynone new-nav bst">
+                                
+
+                            </div>
+                            
+
+                        </div>
+                        <ul class="bottam-nav mobiledisplaynone tabdisplaynone new-nav bst">
 
                                 
 
@@ -2815,10 +2881,6 @@ color: #fff;
                                    </li> --> 
 
                                 </ul>
-
-                            </div>
-
-                        </div>
 
                     </div>
 
@@ -3884,6 +3946,7 @@ color: #fff;
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
+<script src="https://kit.fontawesome.com/d1b555cbc6.js" crossorigin="anonymous"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-183765890-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];

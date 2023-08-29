@@ -63,10 +63,10 @@
 .newasterlogo img {
     margin: 0 0 0 -3pc;
 }
-a.brochure {
+/* a.brochure {
     position: relative;
-    top: -11px;
-}
+    top:0px;
+} */
 .blogs,
 .vid-section {
     padding-left: 0 !important
@@ -161,8 +161,12 @@ a.brochure {
 
 .grid-new {
     padding-top: 0px;
-    padding-bottom: 16px
+    padding-bottom:0px;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
+
 
 .top-nav li a {
     color: #919eab;
