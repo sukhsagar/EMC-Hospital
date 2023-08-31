@@ -202,7 +202,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <br>
 				  <div class="row">
                   <div class="col-md-4">
-                     <a class="fancybox" href="infrastructure/front-office.jpg" data-fancybox-group="gallery">
+                     <a class="fancybox" href="infrastructure/front-offices.jpg" data-fancybox-group="gallery">
                         <img src="infrastructure/front-offices.jpg" class="img-responsive" border="0" alt=""> 
                         <h1 class="text-center">FRONT OFFICE</h1>
                      </a>
@@ -341,11 +341,154 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <h1 class="text-center">PRIVATE ROOM</h1>
                      </a>
                   </div>
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/gaelly-9.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/gaelly-9s.jpg"
+                           class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
 				  </div>
 				  <div class="row">
 					 <div class="col-md-4">
-                     <a class="fancybox" href="infrastructure/gaelly-9.jpg" data-fancybox-group="gallery">
-                        <img src="infrastructure/gaelly-9s.jpg"
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T133003.662.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T133003.662.jpg"
+                           class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T133159.862.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T133159.862.jpg"
+                           class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T133420.987.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T133420.987.jpg"
+                           class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+				 
+                  <!--div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/img-2.JPG" data-fancybox-group="gallery">
+                        <img src="infrastructure/img-2.JPG"
+                           class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">ECO</h1>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/img-3.JPG" data-fancybox-group="gallery">
+                        <img src="infrastructure/img-3.JPG"
+                           class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">EMERGENCY</h1>
+                     </a>
+                  </div-->
+				  </div>
+                  <div class="row">
+					 <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T152423.031.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T152423.031.jpg"
+                           class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T153906.197.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T153906.197.jpg"
+                           class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T152802.036.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T152802.036.jpg"
+                           class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+				 
+                  <!--div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/img-2.JPG" data-fancybox-group="gallery">
+                        <img src="infrastructure/img-2.JPG"
+                           class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">ECO</h1>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/img-3.JPG" data-fancybox-group="gallery">
+                        <img src="infrastructure/img-3.JPG"
+                           class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">EMERGENCY</h1>
+                     </a>
+                  </div-->
+				  </div>
+                  <div class="row">
+					 <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T153456.311.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T153456.311.jpg"
+                           class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T153707.373.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T153707.373.jpg"
+                           class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T154044.093.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T154044.093.jpg"
+                           class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+				 
+                  <!--div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/img-2.JPG" data-fancybox-group="gallery">
+                        <img src="infrastructure/img-2.JPG"
+                           class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">ECO</h1>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/img-3.JPG" data-fancybox-group="gallery">
+                        <img src="infrastructure/img-3.JPG"
+                           class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">EMERGENCY</h1>
+                     </a>
+                  </div-->
+				  </div>
+                  <div class="row">
+					 <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T154331.198.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T154331.198.jpg"
+                           class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T154504.743.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T154504.743.jpg"
+                           class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T154832.103.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T154832.103.jpg"
                            class="img-responsive" border="0" alt=""> 
                         <h1 class="text-center">EEG</h1>
                      </a>

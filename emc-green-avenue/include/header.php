@@ -2103,12 +2103,8 @@ color: #fff;
 
                                 }
 
-  
-
-
 
    </style>
-
 
 
    <div id="mainNavbar" class="newnav-header desktopheader">
@@ -2117,7 +2113,7 @@ color: #fff;
 
                         <div class="row grid-new">
 
-                            <div class="col-lg-3 col-md-3  col-xs-5 col-sm-03 asterLogo newasterlogo ">
+                            <div class="col-lg-6 col-md-3  col-xs-5 col-sm-03 asterLogo newasterlogo ">
                                 
                                 <a href="index.php">
                                     <!-- <img src="images/bigemc-logo.png" alt="" data-toggle="tooltip" > -->
@@ -2128,8 +2124,9 @@ color: #fff;
                                         </div>
                                         <div class="titletext">
                                             <h1 style="font-family:times new roman;font-size:47px;
-    margin-top: 32px;font-weight:bold">EMC HOSPITAL</h1>
-                                            <p style="font-family: times new roman;font-weight: 900;text-align:center;">GREEN AVENUE , AMRITSAR</p>
+    margin-top: 32px;font-weight:bold;color:black">EMC HOSPITAL</h1>
+                                            <p style="font-family: times new roman;font-weight:bold;text-align:center;font-size: 20px;
+    color: black;">GREEN AVENUE , AMRITSAR</p>
                                         </div>
                                     </div>
                                 </a>
@@ -2261,9 +2258,6 @@ color: #fff;
 
                                 <ul>
 
-                                  
-
-                                  
 
                                     <li class="destopdisplaynone">
 
@@ -2273,9 +2267,7 @@ color: #fff;
 
                                 </ul>
 
-                              
 
-                                
 
                             </div>
                             
