@@ -373,14 +373,16 @@
 <div class="doc-cardx">
 
 <div class="doc_image_doctorlist">
-<img class="img-responsive" width="100%" src="doctors/dr-mushtaq-ammad.jpg">
+<img class="img-responsive" width="100%" src="doctors/dr-rohit-dhawan.jpg">
 <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr.Mushtaq Ahmad" data-speciality="Gastroenterology" data-hospital="Hospital EMC" href="#" target="_blank">
 <button>Book an appointment</button>
 </a>     
 </div>
 <div class="doc-details">
-<h5>Dr.Mushtaq Ahmad</h5>
-<p >MBBS, MD, DM (Gastroenterology)</p>
+<h5>Dr. Rohit Dhawan</h5>
+<p >MS, MCh Surgical Gastroenterology 
+Ex Assistant Prof, Gastro and HPB Surgery, 
+SGPGI Lucknow</p>
 <p ><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
 </div>
 
@@ -395,14 +397,14 @@
 <div class="doc-cardx">
 
 <div class="doc_image_doctorlist">
-<img class="img-responsive" width="100%" src="doctors/dr.anumeet.jpg">
+<img class="img-responsive" width="100%" src="doctors/dr-mushtaq.jpg">
 <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr.Anumeet" data-speciality="Gastroenterology" data-hospital="Hospital EMC" href="#" target="_blank">
 <button>Book an appointment</button>
 </a>     
 </div>
 <div class="doc-details" >
-<h5>Dr.Anumeet</h5>
-<p>MBBS, MD, DM (Gastroenterology)</p>
+<h5>Dr. Mushtaq Ahmad</h5>
+<p>MD, DM Gastroenterology</p>
 <p><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
 </div>
 

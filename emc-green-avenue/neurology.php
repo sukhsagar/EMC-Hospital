@@ -408,16 +408,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                       <div class="doc-cardx">
 
                          <div class="doc_image_doctorlist">
-                              <img class="img-responsive" width="67%" src="doctors/DR.ZAHOOR-AHMAD-PARRY.jpeg">
+                              <img class="img-responsive" width="67%" src="doctors/dr-arjimand.jpg">
                               <a data-toggle="modal" data-target="#exampleModalCenter" data-id="DR.ZAHOOR AHMAD PARRY" data-speciality="Neurology" data-hospital="Hospital EMC" href="#" target="_blank">
                               <button>Book an appointment</button>
                               </a>    
                           </div>
 
                           <div class="doc-details">
-                            <h5>DR.ZAHOOR AHMAD PARRY</h5>
-                            <p>MBBS Gold Medalist MD Medicine DM Neurology Special Interest
-                in Epilepsy Movement Disoredrs</p>
+                            <h5>Dr. Arjimand Yaqoob</h5>
+                            <p>MD, DM Neurology</p>
                             <p><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
                           </div>
 

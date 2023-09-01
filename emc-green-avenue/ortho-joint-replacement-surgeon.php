@@ -73,14 +73,14 @@
                     <div class="doc-cardx">
 
                           <div class="doc_image_doctorlist">
-                              <img class="img-responsive" width="100%" src="doctors/DR.-AJAY-ABROL.png">
+                              <img class="img-responsive" width="100%" src="doctors/dr-ajay-abrol.jpg">
                               <a data-toggle="modal" data-target="#exampleModalCenter" data-id="DR. AJAY ABROL" data-speciality="Joint Replacement Surgeon" data-hospital="Hospital EMC" href="#" target="_blank">
                               <button>Book an appointment</button>
                               </a>     
                           </div>
                           <div class="doc-details">
                                <h5>Dr. AJAY ABROL</h5>
-                               <p >M.S (Ortho Sr.Joint Replacement Surgeon)</p>
+                               <p >Head, Orthopedics Department</p>
                                <p ><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
                           </div>
 
@@ -94,22 +94,40 @@
                     <div class="doc-cardx">
 
                           <div class="doc_image_doctorlist">
-                              <img class="img-responsive" width="100%" src="doctors/DR.-AMITHASH.jpeg">
+                              <img class="img-responsive" width="100%" src="doctors/dr-kulpreet.jpg">
                               <a data-toggle="modal" data-target="#exampleModalCenter" data-id="DR. AMITHASH" data-speciality="MBBS, MS ORTHOPEDICS" data-hospital="Hospital EMC" href="#" target="_blank">
                               <button>Book an appointment</button>
                               </a>     
                           </div>
                           <div class="doc-details">
-                               <h5>DR. AMITHASH</h5>
-                               <p >MBBS, MS ORTHOPEDICS</p>
+                               <h5>Dr. Kulpreet Singh</h5>
+                               <p > MS ORTHOPEDICS</p>
                                <p ><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
                           </div>
 
                           <div class="clearfix"></div>
                     </div>
                  </div>
+                 <div class="col-lg-6">
+                 <div class="doc-cardx" style="margin-top:10px">
 
-               <!--  <div class="col-lg-6">
+                          <div class="doc_image_doctorlist">
+                              <img class="img-responsive" width="100%" src="doctors/dr-prabjot.jpg">
+                              <a data-toggle="modal" data-target="#exampleModalCenter" data-id="DR. AMITHASH" data-speciality="MBBS, MS ORTHOPEDICS" data-hospital="Hospital EMC" href="#" target="_blank">
+                              <button>Book an appointment</button>
+                              </a>     
+                          </div>
+                          <div class="doc-details">
+                               <h5>Dr. Prabhjot Singh</h5>
+                               <p >DNB Orthopedics</p>
+                               <p ><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
+                          </div>
+
+                          <div class="clearfix"></div>
+                    </div>
+                  </div>
+
+                <div class="col-lg-6">
 
                     <div class="doc-cardx">
 
@@ -120,14 +138,14 @@
                               </a>     
                           </div>
                           <div class="doc-details">
-                               <h5>Dr. Guriqbal Singh Chhina</h5>
-                               <p >MBBS, M.Ch. Ortho</p>
+                               <h5>Dr. Bhuvnesh</h5>
+                               <p >MBBS Ms Orthopedics</p>
                                <p ><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
                           </div>
 
                           <div class="clearfix"></div>
                     </div>
-                 </div> -->
+                 </div> 
                          
            </div>
            <br>

@@ -343,14 +343,14 @@
                     <div class="doc-cardx">
 
                           <div class="doc_image_doctorlist">
-                              <img class="img-responsive" width="100%" src="doctors/dr-pankaj-soni.jpg">
+                              <img class="img-responsive" width="100%" src="doctors/_0007_pankaj-soni.jpg">
                               <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr.Pankaj Soni" data-speciality="Anaesthesia Medical" data-hospital="Hospital EMC" href="#" target="_blank">
                               <button>Book an appointment</button>
                               </a>     
                           </div>
                           <div class="doc-details">
                                <h5>Dr. Pankaj Soni</h5>
-                               <p >MD, Anaesthesia Medical Director</p>
+                               <p >Head Critical Care And ICUs</p>
                                <p ><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
                           </div>
 
@@ -384,14 +384,14 @@
                     <div class="doc-cardx">
 
                           <div class="doc_image_doctorlist">
-                              <img class="img-responsive" width="84%" src="doctors/Dr-Himanshu Mehta.jpg">
+                              <img class="img-responsive" width="100%" src="doctors/_0011_manish.jpg">
                               <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr.Himanshu Mehta" data-speciality="MD,Anesthesia" data-hospital="Hospital EMC" href="#" target="_blank">
                               <button>Book an appointment</button>
                               </a>     
                           </div>
                           <div class="doc-details">
-                               <h5>Dr. Himanshu Mehta</h5>
-                               <p >MBBS, MD(Anesthesia & Critical Care)</p>
+                               <h5>Dr. Manish Gupta</h5>
+                               <p >Critical Care And Expert</p>
                                <p ><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
                           </div>
 
@@ -403,20 +403,138 @@
                     <div class="doc-cardx">
 
                           <div class="doc_image_doctorlist">
-                              <img class="img-responsive" width="100%" src="images/tejinder-doc.jpeg">
+                              <img class="img-responsive" width="100%" src="doctors/rajeev.jpg">
                               <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Tajinder Singh" data-speciality="Anaesthesilogy" data-hospital="Hospital EMC" href="#" target="_blank">
                               <button>Book an appointment</button>
                               </a>     
                           </div>
                           <div class="doc-details">
-                               <h5>Dr. Tajinder Singh</h5>
-                               <p >MBBS, DNB (Anaesthesia), Consultant - Anaesthesilogy</p>
+                               <h5>Dr. Rajeev Kumar</h5>
+                               <p >MD Anesthesiology</p>
                                <p ><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
                           </div>
 
                           <div class="clearfix"></div>
                     </div>
                  </div>   
+
+                 <div class="col-lg-6">
+
+                    <div class="doc-cardx">
+
+                          <div class="doc_image_doctorlist">
+                              <img class="img-responsive" width="100%" src="doctors/Dr. Rabinder Waan.jpg">
+                              <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Tajinder Singh" data-speciality="Anaesthesilogy" data-hospital="Hospital EMC" href="#" target="_blank">
+                              <button>Book an appointment</button>
+                              </a>     
+                          </div>
+                          <div class="doc-details">
+                               <h5>Dr. Rabinder Waan</h5>
+                               <p >Anesthetist</p>
+                               <p ><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
+                          </div>
+
+                          <div class="clearfix"></div>
+                    </div>
+                 </div>   
+                 <div class="col-lg-6">
+
+                    <div class="doc-cardx">
+
+                          <div class="doc_image_doctorlist">
+                              <img class="img-responsive" width="100%" src="doctors/dr-danish.jpg">
+                              <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Tajinder Singh" data-speciality="Anaesthesilogy" data-hospital="Hospital EMC" href="#" target="_blank">
+                              <button>Book an appointment</button>
+                              </a>     
+                          </div>
+                          <div class="doc-details">
+                               <h5>Dr. Danish Altaf</h5>
+                               <p >Anesthetist</p>
+                               <p ><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
+                          </div>
+
+                          <div class="clearfix"></div>
+                    </div>
+                 </div>   
+
+                 <div class="col-lg-6">
+
+<div class="doc-cardx">
+
+      <div class="doc_image_doctorlist">
+          <img class="img-responsive" width="100%" src="doctors/dr-subash.jpg">
+          <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Tajinder Singh" data-speciality="Anaesthesilogy" data-hospital="Hospital EMC" href="#" target="_blank">
+          <button>Book an appointment</button>
+          </a>     
+      </div>
+      <div class="doc-details">
+           <h5>Dr. Subhash</h5>
+           <p >Senior Consultant</p>
+           <p ><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
+      </div>
+
+      <div class="clearfix"></div>
+</div>
+</div> 
+
+<div class="col-lg-6">
+
+<div class="doc-cardx">
+
+      <div class="doc_image_doctorlist">
+          <img class="img-responsive" width="100%" src="doctors/dr kaetki.jpg">
+          <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Tajinder Singh" data-speciality="Anaesthesilogy" data-hospital="Hospital EMC" href="#" target="_blank">
+          <button>Book an appointment</button>
+          </a>     
+      </div>
+      <div class="doc-details">
+           <h5>Dr. Kaetki</h5>
+           <p >Senior Consultant</p>
+           <p ><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
+      </div>
+
+      <div class="clearfix"></div>
+    </div>
+    </div>
+    <div class="col-lg-6">
+
+<div class="doc-cardx">
+
+      <div class="doc_image_doctorlist">
+          <img class="img-responsive" width="100%" src="doctors/_0003_sakshi.jpg">
+          <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Tajinder Singh" data-speciality="Anaesthesilogy" data-hospital="Hospital EMC" href="#" target="_blank">
+          <button>Book an appointment</button>
+          </a>     
+      </div>
+      <div class="doc-details">
+           <h5>Dr. Sakshi Gurg</h5>
+           <p >Intensivist</p>
+           <p ><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
+      </div>
+
+      <div class="clearfix"></div>
+    </div>
+    </div>
+
+    <div class="col-lg-6">
+
+<div class="doc-cardx">
+
+      <div class="doc_image_doctorlist">
+          <img class="img-responsive" width="100%" src="doctors/_0005_prasanna.jpg">
+          <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Tajinder Singh" data-speciality="Anaesthesilogy" data-hospital="Hospital EMC" href="#" target="_blank">
+          <button>Book an appointment</button>
+          </a>     
+      </div>
+      <div class="doc-details">
+           <h5>Dr. Prasanna Pawar</h5>
+           <p >Intensivist</p>
+           <p ><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
+      </div>
+
+      <div class="clearfix"></div>
+    </div>
+    </div>
            </div>
 
 

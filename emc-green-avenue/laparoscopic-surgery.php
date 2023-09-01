@@ -423,20 +423,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="row">
 
 
-<div class="col-lg-6">
+<div class="col-lg-12">
 
  <div class="doc-cardx">
 
                             <div class="doc_image_doctorlist">
-                               <img class="img-responsive" width="100%" src="doctors/DR.-DHIRENDER-DEV.jpg">
+                               <img class="img-responsive" width="100%" src="doctors/dr-kamaldeep.jpg">
                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="DR. DHIRENDER DEV " data-speciality="Laparoscopic Surger" data-hospital="Hospital EMC" href="#" target="_blank">
                                <button>Book an appointment</button>
                                </a>    
                             </div>
 
                              <div class="doc-details">
-                                  <h5>DR. DHIRENDER DEV</h5>
-                                  <p>(M.S General Surgery) </p>
+                                  <h5>Dr. Kamaldeep</h5>
+                                  <p>MS Surgery (PGIMER Chandigarh),
+Ex-Registrar PGIMER Chandigarh </p>
                                    <p><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
                             </div>
 
@@ -446,26 +447,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
              
 
-<div class="col-lg-6">
-
-<div class="doc-cardx">
-
-<div class="doc_image_doctorlist">
-<img class="img-responsive" width="100%" src="doctors/Dr_Ashu_Banal.jpeg">
-<a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr_Ashu_Banal" data-speciality="MBBS, MS, FIAGES Consultant General & Laparoscopic Surgeon, Ex- Registrar VMMC Hospital New Delhi" data-hospital="Hospital EMC" href="#" target="_blank">
-<button>Book an appointment</button>
-</a>     
-</div>
-<div class="doc-details" >
-<h5>Dr. Ashu Banal</h5>
-<p>MBBS, MS, FIAGES Consultant General & Laparoscopic Surgeon,<br> Ex- Registrar VMMC Hospital New Delhi</p>
-<p><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
-</div>
-
-<div class="clearfix"></div>
-</div>
-
-</div>
 
 
 

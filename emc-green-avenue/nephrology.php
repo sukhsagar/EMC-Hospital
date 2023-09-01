@@ -333,7 +333,7 @@
                       <div class="doc-cardx">
 
                          <div class="doc_image_doctorlist">
-                              <img class="img-responsive" width="100%" src="doctors/Dr-Chetan-Mahajan.jpg">
+                              <img class="img-responsive" width="100%" src="doctors/dr-chetan.jpg">
                               <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr.Chetan Mahajan" data-speciality="Nephrology" data-hospital="Hospital EMC" href="#" target="_blank">
                               <button>Book an appointment</button>
                               </a>    

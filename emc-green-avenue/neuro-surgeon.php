@@ -334,15 +334,15 @@
                       <div class="doc-cardx">
 
                          <div class="doc_image_doctorlist">
-                              <img class="img-responsive" width="100%" src="doctors/dr-mukesh-vij.jpg">
+                              <img class="img-responsive" width="100%" src="doctors/mukesh-vij.jpg">
                               <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr.Mukesh Vij" data-speciality="Neuro Surgeon" data-hospital="Hospital EMC" href="#" target="_blank">
                               <button>Book an appointment</button>
-                              </a>    
+                              </a>
                           </div>
 
                           <div class="doc-details">
-                            <h5>Dr.Mukesh Vij</h5>
-                            <p>MBBS , MS , M.CH. (Neuro Surgeon)</p>
+                            <h5>Dr. Mukesh Vij</h5>
+                            <p>MS, MCh Neurosurgery</p>
                             <p><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
                           </div>
 

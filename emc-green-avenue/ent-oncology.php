@@ -440,19 +440,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="row">
 
 
-                <div class="col-lg-6">
+                <div class="col-lg-12">
 
                     <div class="doc-cardx">
 
                           <div class="doc_image_doctorlist">
-                              <img class="img-responsive" width="100%" src="doctors/dr-parladd-duggal.jpg">
+                              <img class="img-responsive" width="100%" src="doctors/dr-hakeem.jpg">
                               <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr.Prahad Duggal" data-speciality="ENT" data-hospital="Hospital EMC" href="#" target="_blank">
                               <button>Book an appointment</button>
                               </a>     
                           </div>
                           <div class="doc-details">
-                               <h5>Dr.Prahad Duggal</h5>
-                               <p >MS, ENT</p>
+                               <h5>Dr. Hakeem Ansar</h5>
+                               <p >MD, DM Medical Oncology</p>
                                <p ><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
                           </div>
 
@@ -460,26 +460,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                  </div>
 
-
-                 <div class="col-lg-6">
-
-                    <div class="doc-cardx">
-
-                          <div class="doc_image_doctorlist">
-                              <img class="img-responsive" width="100%" src="doctors/dr-rk-saini.jpg">
-                              <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr.R.K Saini" data-speciality="ENT" data-hospital="Hospital EMC" href="#" target="_blank">
-                              <button>Book an appointment</button>
-                              </a>     
-                          </div>
-                          <div class="doc-details">
-                               <h5>Dr.R.K Saini</h5>
-                               <p >MS, ENT</p>
-                               <p ><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
-                          </div>
-
-                          <div class="clearfix"></div>
-                    </div>
-                 </div>
                          
            </div>
 

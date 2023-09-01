@@ -393,7 +393,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					 <div class="col-md-4">
                      <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T152423.031.jpg" data-fancybox-group="gallery">
                         <img src="infrastructure/Untitled design - 2023-08-31T152423.031.jpg"
-                           class="img-responsive" border="0" alt=""> 
+                           class="img-responsive" border="0" alt="">
                         <h1 class="text-center">EEG</h1>
                      </a>
                   </div>

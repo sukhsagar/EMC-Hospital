@@ -72,15 +72,15 @@
                         <div class="doc-cardx">
 
                             <div class="doc_image_doctorlist">
-                               <img class="img-responsive" width="100%" src="doctors/DR.-NAVEEN-GOYAL.jpeg">
+                               <img class="img-responsive" width="100%" src="doctors/dr-naveen.jpg">
                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="DR. NAVEEN GOYAL" data-speciality="MBBS, MS GENERAL SURGERY, MCH UROLOGY" data-hospital="Hospital EMC" href="#" target="_blank">
                                <button>Book an appointment</button>
                                </a>    
                             </div>
 
                              <div class="doc-details">
-                                  <h5>DR. NAVEEN GOYAL</h5>
-                                  <p>MBBS, MS GENERAL SURGERY, MCH UROLOGY</p>
+                                  <h5>Dr. Naveen Goyal</h5>
+                                  <p>MS, MCh Genito Urinary Surgery</p>
                                    <p><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
                             </div>
 

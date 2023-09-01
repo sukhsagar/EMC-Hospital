@@ -185,14 +185,14 @@
                     <div class="doc-cardx">
 
                           <div class="doc_image_doctorlist">
-                              <img class="img-responsive" width="100%" src="doctors/DR.-ISHFAQ-GULZAR-BUTT.jpeg">
+                              <img class="img-responsive" width="100%" src="doctors/dr-ishfaq.jpg">
                               <a data-toggle="modal" data-target="#exampleModalCenter" data-id="DR. ISHFAQ GULZAR BUTT " data-speciality="MD Medicine" data-hospital="Hospital EMC" href="#" target="_blank">
                               <button>Book an appointment</button>
                               </a>     
                           </div>
                           <div class="doc-details">
-                               <h5>DR. ISHFAQ GULZAR BUTT </h5>
-                               <p >MBBS , MD ( Medicine)</p>
+                               <h5>Dr. Ishfaq Gulzar Bhat </h5>
+                               <p >MD Medicine</p>
                                <p ><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
                           </div>
 
@@ -206,14 +206,14 @@
                     <div class="doc-cardx">
 
                           <div class="doc_image_doctorlist">
-                              <img class="img-responsive" width="100%" src="doctors/dr-ap-singh.jpg">
+                              <img class="img-responsive" width="100%" src="doctors/dr-manzoor.jpg">
                               <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr.AP Singh" data-speciality="MD Medicine" data-hospital="Hospital EMC" href="#" target="_blank">
                               <button>Book an appointment</button>
                               </a>     
                           </div>
                           <div class="doc-details">
-                               <h5>Dr. AP Singh</h5>
-                               <p >MBBS,MD Medicine</p>
+                               <h5>Dr. Abid Manzoor</h5>
+                               <p >MD Medicine</p>
                                <p ><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
                           </div>
 
@@ -221,26 +221,7 @@
                     </div>
                  </div>
 
-                 <div class="col-lg-6">
-
-                    <div class="doc-cardx">
-
-                          <div class="doc_image_doctorlist">
-                              <img class="img-responsive" width="100%" src="doctors/dr-rishab-arora.jpg">
-                              <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr.Rishab Arora" data-speciality="MD Medicine" data-hospital="Hospital EMC" href="#" target="_blank">
-                              <button>Book an appointment</button>
-                              </a>     
-                          </div>
-                          <div class="doc-details">
-                               <h5>Dr.Rishab Arora</h5>
-                               <p >MBBS , MD ( Medicine)</p>
-                               <p ><a href="mailto:emc.treatment@gmail.com"> <i class="fa fa-envelope" aria-hidden="true"></i> emc.treatment@gmail.com</a></p>
-                          </div>
-
-                          <div class="clearfix"></div>
-                    </div>
-                 </div>
-                         
+                                          
            </div>
             <br>
 

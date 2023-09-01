@@ -52,7 +52,7 @@
                         <div class="doc-cardx">
 
                             <div class="doc_image_doctorlist">
-                               <img class="img-responsive" width="100%" src="doctors/dr-naina-vij.jpg">
+                               <img class="img-responsive" width="100%" src="doctors/dr-naina.jpg">
                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Naina vij" data-speciality="PATHOLOGIST" data-hospital="Hospital EMC" href="#" target="_blank">
                                <button>Book an appointment</button>
                                </a>    
