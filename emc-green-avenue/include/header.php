@@ -1921,13 +1921,13 @@ small {
 
      .emc-top-number li:nth-child(2) {
 
-    padding: 0 20px 0 40px !important;
+    padding: 0 5px 0 5px !important;
 
 }
 
     .emc-top-number li:nth-child(3) {
 
-    padding: 0 20px 0 40px !important;
+    padding: 0 5px 0 5px !important;
 
 }
 
@@ -2107,33 +2107,39 @@ color: #fff;
    </style>
 
 
-   <div id="mainNavbar" class="newnav-header desktopheader">
+   <div id="mainNavbar" class="newnav-header desktopheader" >
 
-                    <div class="container">
+                    <div class="container-md" style="margin:0px 90px">
 
                         <div class="row grid-new">
 
-                            <div class="col-lg-6 col-md-3  col-xs-5 col-sm-03 asterLogo newasterlogo ">
+                            <div class="col-lg-9 col-md-3  col-xs-5 col-sm-03 asterLogo newasterlogo "style="
+    padding-left:20px;
+    padding-right:20px;
+">
                                 
                                 <a href="index.php">
                                     <!-- <img src="images/bigemc-logo.png" alt="" data-toggle="tooltip" > -->
-                                    <div class="logo-section" style="display:flex;gap:20px; ">
+                                    <div class="logo-section" style="display:flex;gap:30px;align-items: baseline; ">
                                         <div class="logo">
                                             <img src="doctors/emc logo.png" style="width:116px" alt="" data-toggle="tooltip" >
 
                                         </div>
                                         <div class="titletext">
-                                            <h1 style="font-family:times new roman;font-size:47px;
+                                            <h1 style="font-family:times new roman;font-size:57px;
     margin-top: 32px;font-weight:bold;color:black">EMC HOSPITAL</h1>
-                                            <p style="font-family: times new roman;font-weight:bold;text-align:center;font-size: 20px;
-    color: black;">GREEN AVENUE , AMRITSAR</p>
+                                            <p style="font-family: times new roman;font-weight:bold;text-align:center;font-size: 20px;margin:0px;
+    color: black;">GREEN AVENUE, AMRITSAR</p>
                                         </div>
                                     </div>
                                 </a>
 
                             </div>
 
-                            <div class="col-lg-9 col-md-9 col-xs-7 col-sm-09 mobile-spacing">
+                            <div class="col-lg-12 col-md-9 col-xs-7 col-sm-09 mobile-spacing"style="
+    padding-left: 0px;
+    padding-right: 0px;
+">
 
                              
 
@@ -2149,18 +2155,18 @@ color: #fff;
 
                                     </span> -->
 
-                                    <a href="tel:+916239511500">
-                                        <small style="margin-bottom:-17px ;margin-left:40px;font-family: 'Titillium Web', sans-serif;
+                                    <a href="tel:+917009182189">
+                                        <small style="margin-bottom:-17px ;margin-left:32px;font-family: 'Titillium Web', sans-serif;
     font-size: 12px;
-    font-weight: 600;color: #637381;">ambulance</small>
+    font-weight: 600;color: #637381;">EMC Green Avenue</small>
                                         <span class="icon-box" style="display:flex;gap:10px;align-items: center;">
                                             <!-- <div class="img"><img src="http://localhost/emc-hospital/emc-green-avenue/images/help.png" style="margin-top:0px" alt="" srcset=""></div> -->
                                             <div class="img" style="margin-top:0px">
-                                            <i class="fa-solid fa-truck-medical" style="color: #337af5;font-size: 20px;
+                                            <i class="fa-solid fa-phone-volume" style="color: #337af5;font-size: 20px;
 "></i>
                                             </div>
                                             <p style="font-family: Poppins;
-    font-size: 14px;font-weight: 700;color: #637381;">623-9511-500</p>
+    font-size: 14px;font-weight: 700;color: #637381;">70091-82189</p>
                                         </span>
 
                                     </a>
@@ -2178,17 +2184,17 @@ color: #fff;
                                         <small>Hospital</small><br><a class="mailphnclicks" href="tel:+917009182189"> 7009182189 </a>
 
                                     </span> -->
-                                    <a href="tel:+917009182189">
+                                    <a href="tel:+919216660516">
                                         <small style="margin-bottom:-17px ;margin-left:36px;font-family: 'Titillium Web', sans-serif;
     font-size: 12px;
-    font-weight: 600;color: #637381;">Hospital</small>
+    font-weight: 600;color: #637381;">EMC Shakti Nagar</small>
                                         <span class="icon-box" style="display:flex;gap:10px;align-items:center;">
                                             <!-- <div class="img"><img src="http://localhost/emc-hospital/emc-green-avenue/images/spirite1.png" style="margin-top:6px" alt="" srcset=""></div> -->
 
                                             <div class="img"><i class="fa-solid fa-phone-volume" style="color:#337af5;font-size: 20px;
 "></i></div>
                                             <p style="font-family: Poppins;
-    font-size: 14px;font-weight: 700;color: #637381;">700-9182-189</p>
+    font-size: 14px;font-weight: 700;color: #637381;">92166-60516</p>
                                         </span>
 
                                     </a>
@@ -2209,16 +2215,16 @@ color: #fff;
 
                                     </span> -->
 
-                                    <a href="mailto:emchelpline@gmail.com">
+                                    <a href="tel:7009182189">
                                         <small style="margin-bottom:-17px ;margin-left:40px;font-family: 'Titillium Web', sans-serif;
     font-size: 12px;
-    font-weight: 600;color: #637381;">Email</small>
+    font-weight: 600;color: #637381;">Pulse Hospital</small>
                                         <span class="icon-box" style="display:flex;gap:10px;align-items:center;">
                                             <!-- <div class="img"><img src="http://localhost/emc-hospital/emc-green-avenue/images/sms.png" style="margin-top:6px" alt="" srcset=""></div> -->
-                                            <div class="img"><i class="fa-solid fa-envelope" style="color:#337af5;font-size: 20px;
+                                            <div class="img"><i class="fa-solid fa-phone-volume" style="color:#337af5;font-size: 20px;
 "></i></div>
                                             <p style="font-family: Poppins;
-    font-size: 14px;font-weight: 700;color: #637381;">emchelpline@gmail.com</p>
+    font-size: 14px;font-weight: 700;color: #637381;">70091-82189</p>
                                         </span>
 
                                     </a>
@@ -2229,6 +2235,65 @@ color: #fff;
 
                               </li>
                              
+                              <li><a class="nav-emc-link" href="#">
+
+<div class="hospital-mail">
+
+<!-- <span class="d-none d-md-block">
+
+    <small>Email</small><br> <a class="mailphnclicks" href="mailto:emchelpline@gmail.com">emchelpline@gmail.com</a>
+
+</span> -->
+
+<a href="tel:9216660516">
+    <small style="margin-bottom:-17px ;margin-left:40px;font-family: 'Titillium Web', sans-serif;
+font-size: 12px;
+font-weight: 600;color: #637381;">Abrol Hospital</small>
+    <span class="icon-box" style="display:flex;gap:10px;align-items:center;">
+        <!-- <div class="img"><img src="http://localhost/emc-hospital/emc-green-avenue/images/sms.png" style="margin-top:6px" alt="" srcset=""></div> -->
+        <div class="img"><i class="fa-solid fa-phone-volume" style="color:#337af5;font-size: 20px;
+"></i></div>
+        <p style="font-family: Poppins;
+font-size: 14px;font-weight: 700;color: #637381;">92166-60516</p>
+    </span>
+
+</a>
+
+</div></a>
+
+
+
+</li>
+<li><a class="nav-emc-link" href="#">
+
+<div class="hospital-mail">
+
+<!-- <span class="d-none d-md-block">
+
+    <small>Email</small><br> <a class="mailphnclicks" href="mailto:emchelpline@gmail.com">emchelpline@gmail.com</a>
+
+</span> -->
+
+<a href="tel:9216660516">
+    <small style="margin-bottom:-17px ;margin-left:40px;font-family: 'Titillium Web', sans-serif;
+font-size: 12px;
+font-weight: 600;color: #637381;"></small>
+    <span class="icon-box" style="display:flex;gap:10px;align-items:center;">
+        <!-- <div class="img"><img src="http://localhost/emc-hospital/emc-green-avenue/images/sms.png" style="margin-top:6px" alt="" srcset=""></div> -->
+        <div class="img"><i class="fa-solid fa-phone-volume" style="color:#337af5;font-size: 20px;
+"></i></div>
+        <p style="font-family: Poppins;
+font-size: 14px;font-weight: 700;color: #637381;">92166-60516</p>
+    </span>
+
+</a>
+
+</div></a>
+
+
+
+</li>
+
                               
                               
                             
@@ -2270,10 +2335,11 @@ color: #fff;
 
 
                             </div>
-                            
-
                         </div>
-                        <ul class="bottam-nav mobiledisplaynone tabdisplaynone new-nav bst">
+                        <ul class="bottam-nav mobiledisplaynone tabdisplaynone new-nav bst" style="
+    margin-top: 0px;
+    margin-bottom: 0px;
+">
 
                                 
 
