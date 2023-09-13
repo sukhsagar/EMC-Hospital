@@ -2128,6 +2128,7 @@ color: #fff;
                                         <div class="titletext">
                                             <h1 style="font-family:times new roman;font-size:57px;
     margin-top: 32px;font-weight:bold;color:black">EMC HOSPITAL</h1>
+    <hr style="margin:10px">
                                             <p style="font-family: times new roman;font-weight:bold;text-align:center;font-size: 20px;margin:0px;
     color: black;">GREEN AVENUE, AMRITSAR</p>
                                         </div>
@@ -2158,15 +2159,15 @@ color: #fff;
                                     <a href="tel:+917009182189">
                                         <small style="margin-bottom:-17px ;margin-left:32px;font-family: 'Titillium Web', sans-serif;
     font-size: 12px;
-    font-weight: 600;color: #637381;">EMC Green Avenue</small>
+    font-weight: 600;color: #f7961e;">EMC Green Avenue</small>
                                         <span class="icon-box" style="display:flex;gap:10px;align-items: center;">
                                             <!-- <div class="img"><img src="http://localhost/emc-hospital/emc-green-avenue/images/help.png" style="margin-top:0px" alt="" srcset=""></div> -->
                                             <div class="img" style="margin-top:0px">
-                                            <i class="fa-solid fa-phone-volume" style="color: #337af5;font-size: 20px;
+                                            <i class="fa-solid fa-phone-volume" style="color: #f7961e;font-size: 20px;
 "></i>
                                             </div>
                                             <p style="font-family: Poppins;
-    font-size: 14px;font-weight: 700;color: #637381;">70091-82189</p>
+    font-size: 14px;font-weight: 700;color: black">70091-82189</p>
                                         </span>
 
                                     </a>
@@ -2187,14 +2188,14 @@ color: #fff;
                                     <a href="tel:+919216660516">
                                         <small style="margin-bottom:-17px ;margin-left:36px;font-family: 'Titillium Web', sans-serif;
     font-size: 12px;
-    font-weight: 600;color: #637381;">EMC Shakti Nagar</small>
+    font-weight: 600;color: #f7961e;">EMC Shakti Nagar</small>
                                         <span class="icon-box" style="display:flex;gap:10px;align-items:center;">
                                             <!-- <div class="img"><img src="http://localhost/emc-hospital/emc-green-avenue/images/spirite1.png" style="margin-top:6px" alt="" srcset=""></div> -->
 
-                                            <div class="img"><i class="fa-solid fa-phone-volume" style="color:#337af5;font-size: 20px;
+                                            <div class="img"><i class="fa-solid fa-phone-volume" style="color:#f7961e;font-size: 20px;
 "></i></div>
                                             <p style="font-family: Poppins;
-    font-size: 14px;font-weight: 700;color: #637381;">92166-60516</p>
+    font-size: 14px;font-weight: 700;color: black;">92166-60516</p>
                                         </span>
 
                                     </a>
@@ -2218,13 +2219,13 @@ color: #fff;
                                     <a href="tel:7009182189">
                                         <small style="margin-bottom:-17px ;margin-left:40px;font-family: 'Titillium Web', sans-serif;
     font-size: 12px;
-    font-weight: 600;color: #637381;">Pulse Hospital</small>
+    font-weight: 600;color: #f7961e;">Pulse Hospital</small>
                                         <span class="icon-box" style="display:flex;gap:10px;align-items:center;">
                                             <!-- <div class="img"><img src="http://localhost/emc-hospital/emc-green-avenue/images/sms.png" style="margin-top:6px" alt="" srcset=""></div> -->
-                                            <div class="img"><i class="fa-solid fa-phone-volume" style="color:#337af5;font-size: 20px;
+                                            <div class="img"><i class="fa-solid fa-phone-volume" style="color:#f7961e;font-size: 20px;
 "></i></div>
                                             <p style="font-family: Poppins;
-    font-size: 14px;font-weight: 700;color: #637381;">70091-82189</p>
+    font-size: 14px;font-weight: 700;color: black;">70091-82189</p>
                                         </span>
 
                                     </a>
@@ -2248,13 +2249,13 @@ color: #fff;
 <a href="tel:9216660516">
     <small style="margin-bottom:-17px ;margin-left:40px;font-family: 'Titillium Web', sans-serif;
 font-size: 12px;
-font-weight: 600;color: #637381;">Abrol Hospital</small>
+font-weight: 600;color: #f7961e;">Abrol Hospital</small>
     <span class="icon-box" style="display:flex;gap:10px;align-items:center;">
         <!-- <div class="img"><img src="http://localhost/emc-hospital/emc-green-avenue/images/sms.png" style="margin-top:6px" alt="" srcset=""></div> -->
-        <div class="img"><i class="fa-solid fa-phone-volume" style="color:#337af5;font-size: 20px;
+        <div class="img"><i class="fa-solid fa-phone-volume" style="color:#f7961e;font-size: 20px;
 "></i></div>
         <p style="font-family: Poppins;
-font-size: 14px;font-weight: 700;color: #637381;">92166-60516</p>
+font-size: 14px;font-weight: 700;color: black;">92166-60516</p>
     </span>
 
 </a>
@@ -2277,13 +2278,13 @@ font-size: 14px;font-weight: 700;color: #637381;">92166-60516</p>
 <a href="tel:9216660516">
     <small style="margin-bottom:-17px ;margin-left:40px;font-family: 'Titillium Web', sans-serif;
 font-size: 12px;
-font-weight: 600;color: #637381;"></small>
+font-weight: 600;color: #f7961e;"></small>
     <span class="icon-box" style="display:flex;gap:10px;align-items:center;">
         <!-- <div class="img"><img src="http://localhost/emc-hospital/emc-green-avenue/images/sms.png" style="margin-top:6px" alt="" srcset=""></div> -->
-        <div class="img"><i class="fa-solid fa-phone-volume" style="color:#337af5;font-size: 20px;
+        <div class="img"><i class="fa-solid fa-phone-volume" style="color:#f7961e;font-size: 20px;
 "></i></div>
         <p style="font-family: Poppins;
-font-size: 14px;font-weight: 700;color: #637381;">92166-60516</p>
+font-size: 14px;font-weight: 700;color: black;">92166-60516</p>
     </span>
 
 </a>
@@ -2293,10 +2294,6 @@ font-size: 14px;font-weight: 700;color: #637381;">92166-60516</p>
 
 
 </li>
-
-                              
-                              
-                            
 
 
                               <!-- <li class="whatsapp-icon">

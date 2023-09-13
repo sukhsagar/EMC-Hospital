@@ -153,7 +153,7 @@
 
  <div class="item-holder">
 <div class="item-holder banner-height"  data-toggle="modal" data-target="#myModal">
-<img src="emc-green-avenue/images/web-baner-2.jpg"
+<img src="emc-green-avenue/images/web-baner-2-0.png"
 
 class="img-responsive mobiledisplaynone">
 <img src="emc-green-avenue/images/webmobile-3.jpg"
@@ -664,8 +664,11 @@ class="img-responsive destopdisplaynone banner-image-hided-in-top">
     </div>
 </div>
 
+
     <section class="dc-haslayout dc-main-section dc-sectionbg">
+   
                 <div class="container">
+                     
                     <div class="row">
                         <div class="col-12 col-sm-12 col-md-12 col-lg-7 align-self-center">
                             <div class="dc-bringcarecontent">
@@ -674,7 +677,7 @@ class="img-responsive destopdisplaynone banner-image-hided-in-top">
                                         <h3> Welcome to EMC Group of Hospitals</h3>
                                     </div>
                                     <div class="dc-description">
-                                        <p>EMC Group of Hospitals is a group of super-speciality hospitals whose foundation stone was laid by Sh. Pawan Arora, Chairman and a renowned businessman profoundly known for his business skills.EMC Group of Hospitals is a group of super-speciality hospitals whose foundation stone was laid by Sh. Pawan Arora, Chairman and a renowned businessman profoundly known for his business skills.</p> <p>Established in the year 2003, the EMC Group of Hospitals has become India’s largest medical centre providing the top quality speciality treatment. The EMC hospitals have a specialized and highly experienced team of emc-green-avenue/doctors and the assistant staff that work effortlessly 24x7 keeping the patient’s health a priority. 
+                                        <p>EMC Group of Hospitals is a group of super-speciality hospitals whose foundation stone was laid by Sh. Pawan Arora, Chairman and a renowned businessman profoundly known for his business skills.EMC Group of Hospitals is a group of 25super-speciality hospitals whose foundation stone was laid by Sh. Pawan Arora, Chairman and a renowned businessman profoundly known for his business skills.</p> <p>Established in the year 2003, the EMC Group of Hospitals has become India’s largest medical centre providing the top quality speciality treatment. The EMC hospitals have a specialized and highly experienced team of emc-green-avenue/doctors and the assistant staff that work effortlessly 24x7 keeping the patient’s health a priority. 
 </p>
 <p>All the EMC hospitals have the latest technology and pieces of equipment to support and sustain the needs of every patient visiting our hospitals.
 </p>
@@ -701,6 +704,11 @@ class="img-responsive destopdisplaynone banner-image-hided-in-top">
                             </div>
                         </div>
                     </div>
+                </div>
+            </section>
+
+            <section class="images">
+                <div class="title">
                 </div>
             </section>
 <section class="specilities-coe tabdisplaynone  mobiledisplaynone martop-20">

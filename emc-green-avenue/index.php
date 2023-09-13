@@ -481,6 +481,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             }
 
         }
+        button {
+           border:none;
+           background:none;
+
+        }
+        
+        .images{
+            position: absolute;
+            transition: cubic-bezier(0.165, 0.84, 0.44, 1) 1.5s;
+        }
+        
+        .imgsection{
+            position: relative;
+            overflow: hidden;
+            height: 494px;
+            margin: 0px auto;
+        }
+        .buttons{
+            display: flex;
+            justify-content: space-between;
+            position: relative;
+            bottom: 250px;
+            padding:0px 10px;
+        }
 
     </style>
 
@@ -512,164 +536,42 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-        <div class="owl-carousel owl-theme " id="homenew-demo-1">
+        <main class="imgsection">
+        <img src="images/web-baner-2-1.png" class="img-responsive images">
+        <!-- <img src="images/webmobile-3.jpg" class="img-responsive destopdisplaynone banner-image-hided-in-top"> -->
+        <img src="images/web-baner.jpg" class="img-responsive images">
+        <!-- <img src="images/webmobile.jpg" class="img-responsive destopdisplaynone banner-image-hided-in-top images"> -->
+        <img src="images/web-baner-7.jpg" class="img-responsive images">
+        <!-- <img src="images/mobile7.jpg" class="img-responsive destopdisplaynone banner-image-hided-in-top images"> -->
+        <img src="images/web-baner-5.jpg" class="img-responsive images">
+        <!-- <img src="images/mobile5.jpg" class="img-responsive destopdisplaynone banner-image-hided-in-top images"> -->
+        <img src="images/web-baner-6.jpg" class="img-responsive images">
+        <!-- <img src="images/mobile6.jpg" class="img-responsive destopdisplaynone banner-image-hided-in-top images"> -->
+        <img src="images/web-baner-4.jpg" class="img-responsive images">
+        <!-- <img src="images/mobile8.jpg" class="img-responsive destopdisplaynone banner-image-hided-in-top images"> -->
 
 
 
 
 
-            <div class="item-holder">
 
-                <div class="item-holder banner-height" data-toggle="modal" data-target="#myModal">
 
-                    <img src="images/web-baner-2.jpg" class="img-responsive mobiledisplaynone">
 
-                    <img src="images/webmobile-3.jpg" class="img-responsive destopdisplaynone banner-image-hided-in-top">
 
 
 
-                </div>
 
 
 
+    </main>
+    <section class="buttons">
+        <button class="prev"><i class="fa-solid fa-arrow-left fa-2xl" style="color:#c4c4c4"></i></button>
+        <button class="nxt"><i class="fa-solid fa-arrow-right fa-2xl" style="color:#c4c4c4"></i></button>
+    </section>
 
 
 
-
-            </div>
-
-
-
-
-
-            <div class="item-holder">
-
-                <!-- <a target="_blank" href=""> -->
-
-                <div class="item-holder banner-height">
-
-                    <img src="images/web-baner.jpg" class="img-responsive mobiledisplaynone">
-
-                    <img src="images/webmobile.jpg" class="img-responsive destopdisplaynone banner-image-hided-in-top">
-
-
-
-                </div>
-
-
-
-
-
-                <!-- </a> -->
-
-            </div>
-
-
-
-            <div class="item-holder">
-
-                <!-- <a target="_blank" href=""> -->
-
-                <div class="item-holder banner-height">
-
-                    <img src="images/web-baner-7.jpg" class="img-responsive mobiledisplaynone">
-
-                    <img src="images/mobile7.jpg" class="img-responsive destopdisplaynone banner-image-hided-in-top">
-
-
-
-                </div>
-
-
-
-
-
-                <!-- </a> -->
-
-            </div>
-
-
-
-            <div class="item-holder">
-
-                <!-- <a target="_blank" href=""> -->
-
-                <div class="item-holder banner-height">
-
-                    <img src="images/web-baner-5.jpg" class="img-responsive mobiledisplaynone">
-
-                    <img src="images/mobile5.jpg" class="img-responsive destopdisplaynone banner-image-hided-in-top">
-
-
-
-                </div>
-
-
-
-
-
-                <!-- </a> -->
-
-            </div>
-
-
-
-            <div class="item-holder">
-
-                <!-- <a target="_blank" href=""> -->
-
-                <div class="item-holder banner-height">
-
-                    <img src="images/web-baner-6.jpg" class="img-responsive mobiledisplaynone">
-
-                    <img src="images/mobile6.jpg" class="img-responsive destopdisplaynone banner-image-hided-in-top">
-
-
-
-                </div>
-
-
-
-
-
-                <!-- </a> -->
-
-            </div>
-
-
-
-            <div class="item-holder">
-
-                <!-- <a target="_blank" href=""> -->
-
-                <div class="item-holder banner-height">
-
-                    <img src="images/web-baner-4.jpg" class="img-responsive mobiledisplaynone">
-
-                    <img src="images/mobile8.jpg" class="img-responsive destopdisplaynone banner-image-hided-in-top">
-
-
-
-                </div>
-
-
-
-
-
-                <!-- </a> -->
-
-            </div>
-
-
-
-
-
-
-
-
-
-        </div>
-
+         
         <div class="banner_button mobiledisplaynone">
 
             <div class="container">
@@ -3881,7 +3783,52 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <!-- <script src="js/jquery-3.2.1.min.js"></script> -->
 
+        <script>
+            const imgdata=document.querySelectorAll('.images');
+const next=document.querySelector('.nxt');
+const previous=document.querySelector('.prev')
+console.log(imgdata);
+var counter=0;
 
+imgdata.forEach((slide,index)=>{
+    slide.style.left=`${index*100}%`;
+
+
+})
+
+function slidenow(){
+    imgdata.forEach((slide)=>{
+        slide.style.transform=`translateX(-${counter*100}%)`
+
+    })
+}
+
+next.addEventListener('click',()=>{
+    counter++;
+    console.log(counter,'outer');
+    if(counter==imgdata.length){
+        counter=0;
+        console.log(counter,"inner");
+
+    }
+    slidenow()
+    console.log('yes cliked');
+
+})
+
+previous.addEventListener('click',()=>{
+    counter--;
+    console.log(counter,'outer');
+    if(counter==-1){
+        counter=imgdata.length-1;
+        console.log(counter,"inner");
+
+    }
+    slidenow()
+    console.log('yes cliked');
+
+})
+        </script>
 
         <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
 

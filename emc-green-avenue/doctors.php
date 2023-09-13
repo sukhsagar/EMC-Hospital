@@ -866,7 +866,7 @@ FCCS (USA) </p>
                         <h3 class="title">
                            <a href="anesthesia.php" target="_blank">Dr. Mushtaq Ahmad</a> 
                         </h3>
-                        <p class="speciality"><span style="display:inline;letter-spacing: 0px;">MD, DM Gastroenterology</span></p>
+                        <p class="speciality" style="letter-spacing: 0px;s"><span style="display:inline;letter-spacing: 0px;">MD, DM Gastroenterology</span></p>
                         <div class="row row-sm">
                            <div class="col-lg-12 col-sm-1">
                                <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
