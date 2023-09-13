@@ -3805,29 +3805,41 @@ function slidenow(){
 
 next.addEventListener('click',()=>{
     counter++;
-    console.log(counter,'outer');
+    
     if(counter==imgdata.length){
         counter=0;
-        console.log(counter,"inner");
+       
 
     }
     slidenow()
-    console.log('yes cliked');
+   
 
 })
 
 previous.addEventListener('click',()=>{
     counter--;
-    console.log(counter,'outer');
+ 
     if(counter==-1){
         counter=imgdata.length-1;
-        console.log(counter,"inner");
+  
 
     }
     slidenow()
-    console.log('yes cliked');
+   
 
 })
+function newslide() {
+    counter++;
+    
+    if(counter==imgdata.length){
+        counter=0;
+       
+
+    }
+    slidenow()
+    
+}
+setInterval(newslide, 3000);
         </script>
 
         <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
