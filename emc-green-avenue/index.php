@@ -3839,7 +3839,7 @@ function newslide() {
     slidenow()
     
 }
-setInterval(newslide, 3000);
+setInterval(newslide, 9000);
         </script>
 
         <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
