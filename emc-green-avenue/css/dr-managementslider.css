@@ -1,0 +1,55 @@
+.slidecenter{
+    width: 1200px;
+    margin: 0 auto;
+}
+.doctor-data{
+    height: 600px;
+    position: relative;
+    overflow: hidden;
+}
+.doctorcard{
+    margin:20px auto;
+    position: relative;
+    transition: ease-in-out 1.5s;
+}
+.all{
+    height: 530px;
+    display: inline-flex;
+    position: absolute;
+   
+    
+}
+.doctorimg{
+    /* background: #000; */
+    width: 500px;
+    height: 500px;
+    padding: 10px;
+    overflow: hidden;
+}
+.doctorcontent{
+    /* background: red; */
+    width: 500px;
+    height: 500px;
+    padding: 10px;
+    font-weight:400;
+    font-size: 16px;
+    font-family:Poppins,sans-serif ;
+    text-transform: capitalize;
+    color: #4f5155;
+}
+.allbtn{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 20px;
+}
+.doctorbtn{
+    background: #f7961e;
+    border: none;
+    color: white;
+    padding: 0px 30px;
+    box-shadow: 0 9px 20px 0 #f7961e8f;
+    border-radius: 4px;
+    text-transform: capitalize;
+    font:400 14px/46px 'Poppins', Arial, Helvetica, sans-serif;
+}

@@ -229,6 +229,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <link href="css/emc.css" rel="stylesheet">
 
+    <link rel="stylesheet" href="css/heroslider.css">
+    <link rel="stylesheet" href="css/dr-managementslider.css">
+
 
 
 
@@ -481,30 +484,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             }
 
         }
-        button {
-           border:none;
-           background:none;
-
-        }
-        
-        .images{
-            position: absolute;
-            transition: cubic-bezier(0.165, 0.84, 0.44, 1) 1.5s;
-        }
-        
-        .imgsection{
-            position: relative;
-            overflow: hidden;
-            height: 494px;
-            margin: 0px auto;
-        }
-        .buttons{
-            display: flex;
-            justify-content: space-between;
-            position: relative;
-            bottom: 250px;
-            padding:0px 10px;
-        }
 
     </style>
 
@@ -532,14 +511,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-        <a href="#" id="topb" class="hidden-xs" style="display: none;"><span></span></a>
+        <a href="#" id="topb"  class="hidden-xs" style="display: none;"><span></span></a>
 
 
 
-        <main class="imgsection">
+        <main class="imgsection" >
         <img src="images/web-baner-2-1.png" class="img-responsive images">
         <!-- <img src="images/webmobile-3.jpg" class="img-responsive destopdisplaynone banner-image-hided-in-top"> -->
-        <img src="images/web-baner.jpg" class="img-responsive images">
+        <!-- <img src="images/web-baner.jpg" class="img-responsive images"> -->
         <!-- <img src="images/webmobile.jpg" class="img-responsive destopdisplaynone banner-image-hided-in-top images"> -->
         <img src="images/web-baner-7.jpg" class="img-responsive images">
         <!-- <img src="images/mobile7.jpg" class="img-responsive destopdisplaynone banner-image-hided-in-top images"> -->
@@ -551,27 +530,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- <img src="images/mobile8.jpg" class="img-responsive destopdisplaynone banner-image-hided-in-top images"> -->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
     </main>
     <section class="buttons">
         <button class="prev"><i class="fa-solid fa-arrow-left fa-2xl" style="color:#c4c4c4"></i></button>
         <button class="nxt"><i class="fa-solid fa-arrow-right fa-2xl" style="color:#c4c4c4"></i></button>
     </section>
 
-
-
-         
+    
         <div class="banner_button mobiledisplaynone">
 
             <div class="container">
@@ -938,6 +903,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 </div> -->
 
+
+
         <div class="bannerbottom destopdisplaynone tabdisplaynone mobilebannerbottom">
 
             <div class="container">
@@ -1238,6 +1205,97 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         </div>
 
+        <div class="slidecenter">
+
+        <section class="doctor-data">
+            <section class="doctorcard">
+                <div class="all">
+                    <div class="doctorcontent">
+                        <p>mr. pawan arora, chairman,EMC group is the founder of the foremost chain of super speciality hospitals in punjab.a visionary par excellance, he revolutionised the health care scenario of punjab and inspired others to follow suit </p>
+                        <p> <strong>Mr. pawan arora</strong></p>
+                        <p>chairmain of group</p>
+                        
+                    </div>
+                    <div class="doctorimg">
+                        <img src="https://picsum.photos/id/237/900/1200" alt="" srcset="">
+                    </div>
+                </div>
+                
+            </section>
+            
+            <section class="doctorcard">
+                <div class="all">
+                    <div class="doctorcontent">
+                        <p>mrs. meenu arora, director, EMC group is working really hard to fulfill mr. arora's dream of providing international standards of healthcare facilities not only to the people of the holy city people but all across punjab. together this dynamic duo has set a precendent for corporate healthcare in the state.</p>
+                        <p><strong>
+                        mrs. meenu arora
+                        </strong></p>
+                        <p>managing director of group</p>
+                        
+                    </div>
+                    <div class="doctorimg">
+                        <img src="https://picsum.photos/id/238/900/1200" alt="" srcset="">
+                    </div>
+                </div>
+                
+            </section>
+
+            <section class="doctorcard">
+                <div class="all">
+                    <div class="doctorcontent">
+                        <p>we providepatient-centered service.people who come to  the grace health can expect polite,friendly helpful staff members who relate to each person as an individual, recogonizing their history, relationships, culture, and needs. we go the extra mile to meet their expectations</p>
+                        <p><strong>
+                        dr. Rishab arora
+                        </strong></p>
+                        <p>director EMC group of hospitals</p>
+                        
+                    </div>
+                    <div class="doctorimg">
+                        <img src="https://picsum.photos/id/238/900/1200" alt="" srcset="">
+                    </div>
+                </div>
+                
+            </section>
+            
+            <section class="doctorcard">
+                <div class="all">
+                    <div class="doctorcontent">
+                        <p>we belive that patients deserve to have easy access to healthcare and that our systems should reflects this value. as we lok back at the last 20 years of our existance, we are happy to count the millions of people who have walked out of the doors with a smiling face and healtier body. despite the dynamic nature of the industry,we are continuing on a path of stable growth and infusion of new vigour into EMC group of hospitals. </p>
+                        <p><strong>
+                         mrs.  samiksha arora   
+                        </strong></p>
+                        <p>director EMC group of hospitals</p>
+                        
+                    </div>
+                    <div class="doctorimg">
+                        <img src="https://picsum.photos/id/239/900/1200" alt="" srcset="">
+                    </div>
+                </div>
+                
+            </section>
+            <section class="doctorcard">
+                <div class="all">
+                    <div class="doctorcontent">
+                        <p>a community in  which all people achieve their full potential for health and well-being across the lifespan. we work to be trusted by patients,a valued partner in the community, and creators of positive change.</p>
+                        <p><strong>
+                        Dr sourab arora   
+                        </strong></p>
+                        <p>director EMC group of hospitals</p>
+                        
+                    </div>
+                    <div class="doctorimg">
+                        <img src="https://picsum.photos/id/239/900/1200" alt="" srcset="">
+                    </div>
+                </div>
+                
+            </section>
+        </section>
+        
+        <div class="allbtn">
+            <button class="doctorbtn" id="prev">Prev</button>
+            <button class="doctorbtn" id="next">Next</button>
+        </div>
+    </div>
 
 
         <section class="dc-haslayout dc-main-section dc-sectionbg">
@@ -3613,7 +3671,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                     <img src="infrastructure/private-room.jpg" class="img-responsive" border="0" alt="">
 
-                                    <h4>PRIVATE ROO</h4>
+                                    <h4>PRIVATE ROOM</h4>
 
 
 
@@ -3782,65 +3840,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
         <!-- <script src="js/jquery-3.2.1.min.js"></script> -->
-
-        <script>
-            const imgdata=document.querySelectorAll('.images');
-const next=document.querySelector('.nxt');
-const previous=document.querySelector('.prev')
-console.log(imgdata);
-var counter=0;
-
-imgdata.forEach((slide,index)=>{
-    slide.style.left=`${index*100}%`;
-
-
-})
-
-function slidenow(){
-    imgdata.forEach((slide)=>{
-        slide.style.transform=`translateX(-${counter*100}%)`
-
-    })
-}
-
-next.addEventListener('click',()=>{
-    counter++;
-    
-    if(counter==imgdata.length){
-        counter=0;
-       
-
-    }
-    slidenow()
-   
-
-})
-
-previous.addEventListener('click',()=>{
-    counter--;
- 
-    if(counter==-1){
-        counter=imgdata.length-1;
-  
-
-    }
-    slidenow()
-   
-
-})
-function newslide() {
-    counter++;
-    
-    if(counter==imgdata.length){
-        counter=0;
-       
-
-    }
-    slidenow()
-    
-}
-setInterval(newslide, 9000);
-        </script>
+      <script src="js/heroslider.js"></script>
+      <script src="js/dr-managementslider.js"></script>
 
         <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
 
@@ -3855,6 +3856,7 @@ setInterval(newslide, 9000);
         <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-3-typeahead/4.0.1/bootstrap3-typeahead.min.js"></script>
 
         <script src="js/slick.js"></script>
+
 
 
 
