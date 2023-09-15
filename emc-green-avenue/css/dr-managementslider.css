@@ -3,7 +3,7 @@
     margin: 0 auto;
 }
 .doctor-data{
-    height: 600px;
+    height: 550px;
     position: relative;
     overflow: hidden;
 }
@@ -13,7 +13,7 @@
     transition: ease-in-out 1.5s;
 }
 .all{
-    height: 530px;
+    height: 630px;
     display: inline-flex;
     position: absolute;
    
@@ -28,9 +28,9 @@
 }
 .doctorcontent{
     /* background: red; */
-    width: 500px;
+    width: 700px;
     height: 500px;
-    padding: 10px;
+    padding: 10px 10px;
     font-weight:400;
     font-size: 16px;
     font-family:Poppins,sans-serif ;
@@ -38,10 +38,12 @@
     color: #4f5155;
 }
 .allbtn{
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   gap: 20px;
+    display:flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+    margin: 20px 05px;
+   
 }
 .doctorbtn{
     background: #f7961e;
@@ -52,4 +54,20 @@
     border-radius: 4px;
     text-transform: capitalize;
     font:400 14px/46px 'Poppins', Arial, Helvetica, sans-serif;
+    
+}
+
+.para{
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 35px;
+}
+.paraheading{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.center{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+    color: black;
 }

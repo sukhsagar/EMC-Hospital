@@ -1205,19 +1205,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         </div>
 
+
+       
+
+          
+
+        
+
         <div class="slidecenter">
 
         <section class="doctor-data">
             <section class="doctorcard">
                 <div class="all">
                     <div class="doctorcontent">
-                        <p>mr. pawan arora, chairman,EMC group is the founder of the foremost chain of super speciality hospitals in punjab.a visionary par excellance, he revolutionised the health care scenario of punjab and inspired others to follow suit </p>
-                        <p> <strong>Mr. pawan arora</strong></p>
-                        <p>chairmain of group</p>
+                    <h3 class="center">Management Desk</h3>
+                        <p class="para">mr. pawan arora, chairman,EMC group is the founder of the foremost chain of super speciality hospitals in punjab.a visionary par excellance, he revolutionised the health care scenario of punjab and inspired others to follow suit </p>
+                        <p> <strong class="paraheading">Mr. pawan arora</strong></p>
+                        <p class="para">chairmain of group</p>
+                            <div class="allbtn">
+                                <button class="doctorbtn" id="prev">Prev</button>
+                                <button class="doctorbtn" id="next">Next</button>
+                            </div>
                         
                     </div>
                     <div class="doctorimg">
-                        <img src="https://picsum.photos/id/237/900/1200" alt="" srcset="">
+                        <img src="images/pwawan.jpg" alt="" srcset="">
                     </div>
                 </div>
                 
@@ -1226,15 +1238,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <section class="doctorcard">
                 <div class="all">
                     <div class="doctorcontent">
-                        <p>mrs. meenu arora, director, EMC group is working really hard to fulfill mr. arora's dream of providing international standards of healthcare facilities not only to the people of the holy city people but all across punjab. together this dynamic duo has set a precendent for corporate healthcare in the state.</p>
-                        <p><strong>
+                    <h3 class="center">Management Desk</h3>
+                        <p class="para">mrs. meenu arora, director, EMC group is working really hard to fulfill mr. arora's dream of providing international standards of healthcare facilities not only to the people of the holy city people but all across punjab. together this dynamic duo has set a precendent for corporate healthcare in the state.</p>
+                        <p><strong class="paraheading">
                         mrs. meenu arora
                         </strong></p>
-                        <p>managing director of group</p>
+                        <p class="para">managing director of group</p>
+                            <div class="allbtn">
+                                <button class="doctorbtn" id="prev">Prev</button>
+                                <button class="doctorbtn" id="next">Next</button>
+                            </div>
                         
                     </div>
                     <div class="doctorimg">
-                        <img src="https://picsum.photos/id/238/900/1200" alt="" srcset="">
+                        <img src="images/meenu.jpg" alt="" srcset="">
                     </div>
                 </div>
                 
@@ -1243,15 +1260,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <section class="doctorcard">
                 <div class="all">
                     <div class="doctorcontent">
-                        <p>we providepatient-centered service.people who come to  the grace health can expect polite,friendly helpful staff members who relate to each person as an individual, recogonizing their history, relationships, culture, and needs. we go the extra mile to meet their expectations</p>
-                        <p><strong>
+                    <h3 class="center">Management Desk</h3>
+                        <p class="para">we providepatient-centered service.people who come to  the grace health can expect polite,friendly helpful staff members who relate to each person as an individual, recogonizing their history, relationships, culture, and needs. we go the extra mile to meet their expectations</p>
+                        <p><strong class="paraheading">
                         dr. Rishab arora
                         </strong></p>
-                        <p>director EMC group of hospitals</p>
+                        <p class="para">director EMC group of hospitals</p>
+                            <div class="allbtn">
+                                <button class="doctorbtn" id="prev">Prev</button>
+                                <button class="doctorbtn" id="next">Next</button>
+                            </div>
                         
                     </div>
                     <div class="doctorimg">
-                        <img src="https://picsum.photos/id/238/900/1200" alt="" srcset="">
+                        <img src="images/dr-rishabh.jpg" alt="" srcset="">
                     </div>
                 </div>
                 
@@ -1260,15 +1282,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <section class="doctorcard">
                 <div class="all">
                     <div class="doctorcontent">
-                        <p>we belive that patients deserve to have easy access to healthcare and that our systems should reflects this value. as we lok back at the last 20 years of our existance, we are happy to count the millions of people who have walked out of the doors with a smiling face and healtier body. despite the dynamic nature of the industry,we are continuing on a path of stable growth and infusion of new vigour into EMC group of hospitals. </p>
-                        <p><strong>
+                    <h3 class="center">Management Desk</h3>
+                        <p class="para">we belive that patients deserve to have easy access to healthcare and that our systems should reflects this value. as we lok back at the last 20 years of our existance, we are happy to count the millions of people who have walked out of the doors with a smiling face and healtier body. despite the dynamic nature of the industry,we are continuing on a path of stable growth and infusion of new vigour into EMC group of hospitals. </p>
+                        <p><strong class="paraheading">
                          mrs.  samiksha arora   
                         </strong></p>
-                        <p>director EMC group of hospitals</p>
+                        <p class="para">director EMC group of hospitals</p>
+                            <div class="allbtn">
+                                <button class="doctorbtn" id="prev">Prev</button>
+                                <button class="doctorbtn" id="next">Next</button>
+                            </div>
                         
                     </div>
                     <div class="doctorimg">
-                        <img src="https://picsum.photos/id/239/900/1200" alt="" srcset="">
+                        <img src="images/samiksha2.jpg" alt="" srcset="">
                     </div>
                 </div>
                 
@@ -1276,28 +1303,657 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <section class="doctorcard">
                 <div class="all">
                     <div class="doctorcontent">
-                        <p>a community in  which all people achieve their full potential for health and well-being across the lifespan. we work to be trusted by patients,a valued partner in the community, and creators of positive change.</p>
-                        <p><strong>
+                    <h3 class="center">Management Desk</h3>
+                        <p class="para">a community in  which all people achieve their full potential for health and well-being across the lifespan. we work to be trusted by patients,a valued partner in the community, and creators of positive change.</p>
+                        <p><strong class="paraheading">
                         Dr sourab arora   
                         </strong></p>
-                        <p>director EMC group of hospitals</p>
+                        <p class="para">director EMC group of hospitals</p>
+
+                            <div class="allbtn">
+                                <button class="doctorbtn" id="prev">Prev</button>
+                                <button class="doctorbtn" id="next">Next</button>
+                            </div>
                         
                     </div>
                     <div class="doctorimg">
-                        <img src="https://picsum.photos/id/239/900/1200" alt="" srcset="">
+                        <img src="images/Sourab.jpg" alt="" srcset="">
                     </div>
                 </div>
                 
             </section>
         </section>
-        
-        <div class="allbtn">
-            <button class="doctorbtn" id="prev">Prev</button>
-            <button class="doctorbtn" id="next">Next</button>
-        </div>
     </div>
 
+    <section class="advance-tecnology">
 
+<div class="container">
+
+    <div class="row">
+
+        <h2>ADMINISTRATION BOARD</h2>
+
+
+
+
+
+        <div class="owl-carousel owl-theme bcon owl-loaded owl-drag" id="doctr">
+
+            <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1525px, 0px, 0px); transition: all 0.25s ease 0s; width: 3660px;"><div class="owl-item cloned" style="width: 295px; margin-right: 10px;"><div class="item-holder">
+
+                <div class="profile-widget">
+
+                    <div class="doc-img">
+
+                       
+
+                            <img class="img-fluid" alt="User Image" src="doctors/dr-vivek-tandon.jpg">
+
+                        
+
+
+
+                    </div>
+
+                    <div class="pro-content">
+
+                        <h3 class="title">
+
+                            <a href="cardiologist.php" target="_blank">Dr. Vivek Tandon</a>
+
+
+
+                        </h3>
+
+                        <p class="speciality">DM (Cardiologist)</p>
+
+
+
+                        <div class="row row-sm">
+
+                            <div class="col-lg-6 col-sm-1">
+
+                                <a href="cardiologist.php" class="btn view-btn">View Profile</a>
+
+                            </div>
+
+                            <div class="col-lg-6 col-sm-1">
+
+                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Vivek Tandon" data-speciality="Cardiologist" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div></div><div class="owl-item cloned" style="width: 295px; margin-right: 10px;"><div class="item-holder">
+
+                <div class="profile-widget">
+
+                    <div class="doc-img">
+
+                        <a href="gastroenterology.php">
+
+                            <img class="img-fluid" style="width:90%" alt="User Image" src="doctors/dr-mushtaq-ammad.jpg">
+
+                        </a>
+
+
+
+                    </div>
+
+                    <div class="pro-content">
+
+                        <h3 class="title">
+
+                            <a href="gastroenterology.php">Dr. Mushtaq Ahmad </a>
+
+
+
+                        </h3>
+
+                        <p class="speciality">MBBS, MD, DM (Gastroenterology)</p>
+
+
+
+                        <div class="row row-sm">
+
+                            <div class="col-lg-6">
+
+                                <a href="gastroenterology.php" class="btn view-btn">View Profile</a>
+
+                            </div>
+
+                            <div class="col-lg-6">
+
+                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Mushtag Ahmad" data-speciality="Gastroenterology" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div></div><div class="owl-item cloned" style="width: 295px; margin-right: 10px;"><div class="item-holder">
+
+                <div class="profile-widget">
+
+                    <div class="doc-img">
+
+                        <a href="neuro-surgeon.php">
+
+                            <img class="img-fluid" alt="User Image" src="doctors/dr-mukesh-vij.jpg">
+
+                        </a>
+
+
+
+                    </div>
+
+                    <div class="pro-content">
+
+                        <h3 class="title">
+
+                            <a href="neuro-surgeon.php">Dr. Mukesh Vij </a>
+
+
+
+                        </h3>
+
+                        <p class="speciality"> MBBS , MS , M.CH. (Neuro Surgeon)</p>
+
+
+
+                        <div class="row row-sm">
+
+                            <div class="col-lg-6">
+
+                                <a href="neuro-surgeon.php" class="btn view-btn">View Profile</a>
+
+                            </div>
+
+                            <div class="col-lg-6">
+
+                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Mukesh Vij" data-speciality="Neuro Surgeon" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+            </div></div><div class="owl-item cloned" style="width: 295px; margin-right: 10px;"><div class="item-holder">
+
+                <div class="profile-widget">
+
+                    <div class="doc-img">
+
+                        <a href="nephrology.php">
+
+                            <img class="img-fluid" alt="User Image" src="doctors/Dr-Chetan-Mahajan.jpg">
+
+                        </a>
+
+
+
+                    </div>
+
+                    <div class="pro-content">
+
+                        <h3 class="title">
+
+                            <a href="nephrology.php">Dr. Chetan Mahajan </a>
+
+
+
+                        </h3>
+
+                        <p class="speciality"> MD ( Medicine) DM ( Nephrology)</p>
+
+
+
+                        <div class="row row-sm">
+
+                            <div class="col-lg-6">
+
+                                <a href="nephrology.php" class="btn view-btn">View Profile</a>
+
+                            </div>
+
+                            <div class="col-lg-6">
+
+                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Chetan Mahajan" data-speciality="MD ( Medicine) DM ( Nephrology)" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+            </div></div><div class="owl-item" style="width: 295px; margin-right: 10px;"><div class="item-holder">
+
+                <div class="profile-widget">
+
+                    <div class="doc-img">
+
+                        <a href="cardiology.php">
+
+                            <img class="img-fluid" alt="User Image" src="doctors/dr-vivek-tandon.jpg">
+
+                        </a>
+
+
+
+                    </div>
+
+                    <div class="pro-content">
+
+                        <h3 class="title">
+
+                            <a href="cardiologist.php" target="_blank">Dr. Vivek Tandon</a>
+
+
+
+                        </h3>
+
+                        <p class="speciality">DM (Cardiologist)</p>
+
+
+
+                        <div class="row row-sm">
+
+                            <div class="col-lg-6 col-sm-1">
+
+                                <a href="cardiologist.php" class="btn view-btn">View Profile</a>
+
+                            </div>
+
+                            <div class="col-lg-6 col-sm-1">
+
+                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Vivek Tandon" data-speciality="Cardiologist" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div></div><div class="owl-item active" style="width: 295px; margin-right: 10px;"><div class="item-holder">
+
+                <div class="profile-widget">
+
+                    <div class="doc-img">
+
+                        <a href="gastroenterology.php">
+
+                            <img class="img-fluid" style="width:90%" alt="User Image" src="doctors/dr-mushtaq-ammad.jpg">
+
+                        </a>
+
+
+
+                    </div>
+
+                    <div class="pro-content">
+
+                        <h3 class="title">
+
+                            <a href="gastroenterology.php">Dr. Mushtaq Ahmad </a>
+
+
+
+                        </h3>
+
+                        <p class="speciality">MBBS, MD, DM (Gastroenterology)</p>
+
+
+
+                        <div class="row row-sm">
+
+                            <div class="col-lg-6">
+
+                                <a href="gastroenterology.php" class="btn view-btn">View Profile</a>
+
+                            </div>
+
+                            <div class="col-lg-6">
+
+                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Mushtag Ahmad" data-speciality="Gastroenterology" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div></div><div class="owl-item active" style="width: 295px; margin-right: 10px;"><div class="item-holder">
+
+                <div class="profile-widget">
+
+                    <div class="doc-img">
+
+                        <a href="neuro-surgeon.php">
+
+                            <img class="img-fluid" alt="User Image" src="doctors/dr-mukesh-vij.jpg">
+
+                        </a>
+
+
+
+                    </div>
+
+                    <div class="pro-content">
+
+                        <h3 class="title">
+
+                            <a href="neuro-surgeon.php">Dr. Mukesh Vij </a>
+
+
+
+                        </h3>
+
+                        <p class="speciality"> MBBS , MS , M.CH. (Neuro Surgeon)</p>
+
+
+
+                        <div class="row row-sm">
+
+                            <div class="col-lg-6">
+
+                                <a href="neuro-surgeon.php" class="btn view-btn">View Profile</a>
+
+                            </div>
+
+                            <div class="col-lg-6">
+
+                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Mukesh Vij" data-speciality="Neuro Surgeon" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+            </div></div><div class="owl-item active" style="width: 295px; margin-right: 10px;"><div class="item-holder">
+
+                <div class="profile-widget">
+
+                    <div class="doc-img">
+
+                        <a href="nephrology.php">
+
+                            <img class="img-fluid" alt="User Image" src="doctors/Dr-Chetan-Mahajan.jpg">
+
+                        </a>
+
+
+
+                    </div>
+
+                    <div class="pro-content">
+
+                        <h3 class="title">
+
+                            <a href="nephrology.php">Dr. Chetan Mahajan </a>
+
+
+
+                        </h3>
+
+                        <p class="speciality"> MD ( Medicine) DM ( Nephrology)</p>
+
+
+
+                        <div class="row row-sm">
+
+                            <div class="col-lg-6">
+
+                                <a href="nephrology.php" class="btn view-btn">View Profile</a>
+
+                            </div>
+
+                            <div class="col-lg-6">
+
+                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Chetan Mahajan" data-speciality="MD ( Medicine) DM ( Nephrology)" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+            </div></div><div class="owl-item cloned active" style="width: 295px; margin-right: 10px;"><div class="item-holder">
+
+                <div class="profile-widget">
+
+                    <div class="doc-img">
+
+                        <a href="cardiology.php">
+
+                            <img class="img-fluid" alt="User Image" src="doctors/dr-vivek-tandon.jpg">
+
+                        </a>
+
+
+
+                    </div>
+
+                    <div class="pro-content">
+
+                        <h3 class="title">
+
+                            <a href="cardiologist.php" target="_blank">Dr. Vivek Tandon</a>
+
+
+
+                        </h3>
+
+                        <p class="speciality">DM (Cardiologist)</p>
+
+
+
+                        <div class="row row-sm">
+
+                            <div class="col-lg-6 col-sm-1">
+
+                                <a href="cardiologist.php" class="btn view-btn">View Profile</a>
+
+                            </div>
+
+                            <div class="col-lg-6 col-sm-1">
+
+                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Vivek Tandon" data-speciality="Cardiologist" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div></div><div class="owl-item cloned" style="width: 295px; margin-right: 10px;"><div class="item-holder">
+
+                <div class="profile-widget">
+
+                    <div class="doc-img">
+
+                        <a href="gastroenterology.php">
+
+                            <img class="img-fluid" style="width:90%" alt="User Image" src="doctors/dr-mushtaq-ammad.jpg">
+
+                        </a>
+
+
+
+                    </div>
+
+                    <div class="pro-content">
+
+                        <h3 class="title">
+
+                            <a href="gastroenterology.php">Dr. Mushtaq Ahmad </a>
+
+
+
+                        </h3>
+
+                        <p class="speciality">MBBS, MD, DM (Gastroenterology)</p>
+
+
+
+                        <div class="row row-sm">
+
+                            <div class="col-lg-6">
+
+                                <a href="gastroenterology.php" class="btn view-btn">View Profile</a>
+
+                            </div>
+
+                            <div class="col-lg-6">
+
+                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Mushtag Ahmad" data-speciality="Gastroenterology" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div></div><div class="owl-item cloned" style="width: 295px; margin-right: 10px;"><div class="item-holder">
+
+                <div class="profile-widget">
+
+                    <div class="doc-img">
+
+                        <a href="neuro-surgeon.php">
+
+                            <img class="img-fluid" alt="User Image" src="doctors/dr-mukesh-vij.jpg">
+
+                        </a>
+
+
+
+                    </div>
+
+                    <div class="pro-content">
+
+                        <h3 class="title">
+
+                            <a href="neuro-surgeon.php">Dr. Mukesh Vij </a>
+
+
+
+                        </h3>
+
+                        <p class="speciality"> MBBS , MS , M.CH. (Neuro Surgeon)</p>
+
+
+
+                        <div class="row row-sm">
+
+                            <div class="col-lg-6">
+
+                                <a href="neuro-surgeon.php" class="btn view-btn">View Profile</a>
+
+                            </div>
+
+                            <div class="col-lg-6">
+
+                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Mukesh Vij" data-speciality="Neuro Surgeon" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+            </div></div><div class="owl-item cloned" style="width: 295px; margin-right: 10px;"><div class="item-holder">
+
+                <div class="profile-widget">
+
+                    <div class="doc-img">
+
+                        <a href="nephrology.php">
+
+                            <img class="img-fluid" alt="User Image" src="doctors/Dr-Chetan-Mahajan.jpg">
+
+                        </a>
+
+
+
+                    </div>
+
+                    <div class="pro-content">
+
+                        <h3 class="title">
+
+                            <a href="nephrology.php">Dr. Chetan Mahajan </a>
+
+
+
+                        </h3>
+
+                        <p class="speciality"> MD ( Medicine) DM ( Nephrology)</p>
+
+
+
+                        <div class="row row-sm">
+
+                            <div class="col-lg-6">
+
+                                <a href="nephrology.php" class="btn view-btn">View Profile</a>
+
+                            </div>
+
+                            <div class="col-lg-6">
+
+                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Chetan Mahajan" data-speciality="MD ( Medicine) DM ( Nephrology)" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+            </div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots disabled"><button role="button" class="owl-dot active"><span></span></button></div></div>
+    </div>
+</section>
         <section class="dc-haslayout dc-main-section dc-sectionbg">
 
             <div class="container">
