@@ -233,6 +233,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <link rel="stylesheet" href="css/dr-managementslider.css">
     <link rel="stylesheet" href="app-index.css">
 
+    <link rel="stylesheet" href="home.css">
+    <link rel="stylesheet" href="./js/fancybox/jquery.fancybox.css">
+
+    <link rel="stylesheet" href="css/emcfamily.css">
+
+
 
 
 
@@ -2511,17 +2517,64 @@ FCCS (USA) </p>
 
         </section>
 
-
-<!-- infrastructure -->
+        <!-- emc family -->
         <div class="container">
 
 <div class="section-header">
 
-   <h2 class="text-center" style="margin:60px;"> Infrastructure</h2>
+   <h2 class="text-center" style="margin:60px;"> EMC Family</h2>
 
 </div>
 
 </div>
+<!-- emc family -->
+
+<main class="emcimgsection" >
+        <img src="emc-family-images/1.jpg" class="img-responsive emcimages">
+        
+        <img src="emc-family-images/2.jpg" class="img-responsive emcimages">
+        
+        <img src="emc-family-images/3.jpg" class="img-responsive emcimages">
+        
+        <img src="emc-family-images/4.jpg" class="img-responsive emcimages">
+        
+        <img src="emc-family-images/5.jpg" class="img-responsive emcimages">
+
+        <img src="emc-family-images/6.jpg" class="img-responsive emcimages">
+
+        <img src="emc-family-images/7.jpg" class="img-responsive emcimages">
+
+        <img src="emc-family-images/8.jpg" class="img-responsive emcimages">
+
+        <img src="emc-family-images/9.jpg" class="img-responsive emcimages">
+
+        <img src="emc-family-images/10.jpg" class="img-responsive emcimages">
+
+        <img src="emc-family-images/11.jpg" class="img-responsive emcimages">
+
+        <img src="emc-family-images/12.jpg" class="img-responsive emcimages">
+        
+
+    </main>
+    <section class="butns">
+        <button class="prvbtn"><i class="fa-solid fa-arrow-left fa-2xl" style="color:#c4c4c4"></i></button>
+        <button class="nextbtn"><i class="fa-solid fa-arrow-right fa-2xl" style="color:#c4c4c4"></i></button>
+    </section>
+
+<!-- end of emc family -->
+
+
+<!-- infrastructure -->
+        <div class="container">
+
+            <div class="section-header">
+
+                <h2 class="text-center" style="margin:60px;"> Infrastructure</h2>
+
+            </div>
+
+        </div>
+
 
 <div class="section page-content-first">
             <div class="container mt-2">
@@ -2820,19 +2873,19 @@ FCCS (USA) </p>
 
 <!-- end of infrastructure -->
 
+
+<!-- empanelment section -->
         <section class="advance-tecnology">
 
-            <div class="container">
+        <div class="container">
 
-                <div class="row">
+<div class="section-header">
 
-                    <h2>Advanced Medical Technologies </h2>
+    <h2 class="text-center" style="margin:60px;"> Empanelments</h2>
 
-                    <p>EMC Hospital has the most advanced technology which assists our doctors to reach an accurate
+</div>
 
-                        diagnosis and carry out precise, safe and cutting edge minimally invasive surgical/interventional
-
-                        procedures.</p>
+</div>
 
 
 
@@ -3270,7 +3323,7 @@ FCCS (USA) </p>
 
                                     <img src="infrastructure/private-room.jpg" class="img-responsive" border="0" alt="">
 
-                                    <h4>PRIVATE ROOM</h4>
+                                    <h4>PRIVATE ROOM</h4>   
 
 
 
@@ -3302,7 +3355,7 @@ FCCS (USA) </p>
 
                 <div class="row">
 
-                    <h2>News & Events</h2>
+                    <h2>Achievements/Events</h2>
 
                     <div class="owl-carousel owl-theme" id="homepage-news">
 
@@ -3440,6 +3493,9 @@ FCCS (USA) </p>
 
         <!-- <script src="js/jquery-3.2.1.min.js"></script> -->
       <script src="js/heroslider.js"></script>
+
+      <script src="js/emcfamily.js"></script>
+      
       <script src="js/dr-managementslider.js"></script>
 
         <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
