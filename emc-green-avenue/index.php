@@ -231,6 +231,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <link rel="stylesheet" href="css/heroslider.css">
     <link rel="stylesheet" href="css/dr-managementslider.css">
+    <link rel="stylesheet" href="app-index.css">
 
 
 
@@ -1343,7 +1344,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 <div class="profile-widget">
 
-                    <div class="doc-img">
+                    <div class="doc-img" style="height: 320px;
+    width: 240px;">
 
                        
 
@@ -1359,41 +1361,42 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <h3 class="title">
 
-                            <a href="cardiologist.php" target="_blank">Dr. Vivek Tandon</a>
+                            <a href="#" target="_blank"> Nitin Kapoor </a>
 
 
 
                         </h3>
 
-                        <p class="speciality">DM (Cardiologist)</p>
+                        <p class="speciality">Director, operations</p>
+
+                        <a href="tel:9814921382"><button class="" style="background: white;
+                        border: 2px solid black;
+                        color: black;
+                        padding: 3px 30px;
+                        border-radius: 4px;
+                        "><i class="fa-solid fa-phone-volume" style="color: #f7961e;
+                        font-size: 14px;
+                        padding: 0px 5px;
+                        "></i>9814921382</button></a>
 
 
 
-                        <div class="row row-sm">
+                         <div class="row row-sm">
 
-                            <div class="col-lg-6 col-sm-1">
-
-                                <a href="cardiologist.php" class="btn view-btn">View Profile</a>
-
-                            </div>
-
-                            <div class="col-lg-6 col-sm-1">
-
-                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Vivek Tandon" data-speciality="Cardiologist" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                            </div>
-
-                        </div>
+                         </div>
 
                     </div>
 
                 </div>
 
-            </div></div><div class="owl-item cloned" style="width: 295px; margin-right: 10px;"><div class="item-holder">
+            </div>
+        </div>
+            <div class="owl-item cloned" style="width: 295px; margin-right: 10px;"><div class="item-holder">
 
                 <div class="profile-widget">
 
-                    <div class="doc-img">
+                    <div class="doc-img" style="height: 320px;
+    width: 240px;">
 
                         <a href="gastroenterology.php">
 
@@ -1404,46 +1407,45 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
                     </div>
-
                     <div class="pro-content">
 
                         <h3 class="title">
 
-                            <a href="gastroenterology.php">Dr. Mushtaq Ahmad </a>
+                            <a href="#" target="_blank"> Dr Narjeet Kaur </a>
 
 
 
                         </h3>
 
-                        <p class="speciality">MBBS, MD, DM (Gastroenterology)</p>
+                        <p class="speciality">Director, HR</p>
+
+                        <a href="tel:8437859104"><button class="" style="background: white;
+                        border: 2px solid black;
+                        color: black;
+                        padding: 3px 30px;
+                        border-radius: 4px;
+                        "><i class="fa-solid fa-phone-volume" style="color: #f7961e;
+                        font-size: 14px;
+                        padding: 0px 5px;
+                        "></i>8437859104</button></a>
 
 
 
                         <div class="row row-sm">
 
-                            <div class="col-lg-6">
-
-                                <a href="gastroenterology.php" class="btn view-btn">View Profile</a>
-
-                            </div>
-
-                            <div class="col-lg-6">
-
-                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Mushtag Ahmad" data-speciality="Gastroenterology" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                            </div>
-
                         </div>
 
                     </div>
 
+                        
                 </div>
 
             </div></div><div class="owl-item cloned" style="width: 295px; margin-right: 10px;"><div class="item-holder">
 
                 <div class="profile-widget">
 
-                    <div class="doc-img">
+                    <div class="doc-img" style="height: 320px;
+    width: 240px;">
 
                         <a href="neuro-surgeon.php">
 
@@ -1459,29 +1461,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <h3 class="title">
 
-                            <a href="neuro-surgeon.php">Dr. Mukesh Vij </a>
+                            <a href="#" target="_blank"> Rtd. Col. Balbir Ahluwalia </a>
 
 
 
                         </h3>
 
-                        <p class="speciality"> MBBS , MS , M.CH. (Neuro Surgeon)</p>
+                        <p class="speciality">Patient Welfare Director, EMC and Pulse Hospital</p>
+
+                        <a href="tel:9501473660"><button class="" style="background: white;
+                        border: 2px solid black;
+                        color: black;
+                        padding: 3px 30px;
+                        border-radius: 4px;
+                        "><i class="fa-solid fa-phone-volume" style="color: #f7961e;
+                        font-size: 14px;
+                        padding: 0px 5px;
+                        "></i>9501473660</button></a>
 
 
 
                         <div class="row row-sm">
-
-                            <div class="col-lg-6">
-
-                                <a href="neuro-surgeon.php" class="btn view-btn">View Profile</a>
-
-                            </div>
-
-                            <div class="col-lg-6">
-
-                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Mukesh Vij" data-speciality="Neuro Surgeon" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                            </div>
 
                         </div>
 
@@ -1495,7 +1495,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 <div class="profile-widget">
 
-                    <div class="doc-img">
+                    <div class="doc-img" style="height: 320px;
+    width: 240px;">
 
                         <a href="nephrology.php">
 
@@ -1511,34 +1512,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <h3 class="title">
 
-                            <a href="nephrology.php">Dr. Chetan Mahajan </a>
+                            <a href="#" target="_blank"> Rtd. Col. Dilbag Singh</a>
 
 
 
                         </h3>
 
-                        <p class="speciality"> MD ( Medicine) DM ( Nephrology)</p>
+                        <p class="speciality">Patient Welfare Director, Abrol Hospital Gurdaspur</p>
+
+                        <a href="tel:9878015725"><button class="" style="background: white;
+                        border: 2px solid black;
+                        color: black;
+                        padding: 3px 30px;
+                        border-radius: 4px;
+                        "><i class="fa-solid fa-phone-volume" style="color: #f7961e;
+                        font-size: 14px;
+                        padding: 0px 5px;
+                        "></i>9878015725</button></a>
 
 
 
                         <div class="row row-sm">
 
-                            <div class="col-lg-6">
-
-                                <a href="nephrology.php" class="btn view-btn">View Profile</a>
-
-                            </div>
-
-                            <div class="col-lg-6">
-
-                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Chetan Mahajan" data-speciality="MD ( Medicine) DM ( Nephrology)" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                            </div>
-
                         </div>
 
                     </div>
-
                 </div>
 
 
@@ -1547,7 +1545,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 <div class="profile-widget">
 
-                    <div class="doc-img">
+                    <div class="doc-img" style="height: 320px;
+    width: 240px;">
 
                         <a href="cardiology.php">
 
@@ -1563,41 +1562,40 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <h3 class="title">
 
-                            <a href="cardiologist.php" target="_blank">Dr. Vivek Tandon</a>
+                        <a href="#" target="_blank"> Dr Pallvi Nagpal</a>
 
 
 
                         </h3>
 
-                        <p class="speciality">DM (Cardiologist)</p>
+                        <p class="speciality">Manager, Operations, Abrol Hospital Gurdaspur</p>
+
+                        <a href="tel:9779530888"><button class="" style="background: white;
+                        border: 2px solid black;
+                        color: black;
+                        padding: 3px 30px;
+                        border-radius: 4px;
+                        "><i class="fa-solid fa-phone-volume" style="color: #f7961e;
+                        font-size: 14px;
+                        padding: 0px 5px;
+                        
+                        "></i>9779530888</button></a>
 
 
 
                         <div class="row row-sm">
 
-                            <div class="col-lg-6 col-sm-1">
-
-                                <a href="cardiologist.php" class="btn view-btn">View Profile</a>
-
-                            </div>
-
-                            <div class="col-lg-6 col-sm-1">
-
-                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Vivek Tandon" data-speciality="Cardiologist" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                            </div>
-
                         </div>
 
                     </div>
-
                 </div>
 
             </div></div><div class="owl-item active" style="width: 295px; margin-right: 10px;"><div class="item-holder">
 
                 <div class="profile-widget">
 
-                    <div class="doc-img">
+                    <div class="doc-img" style="height: 320px;
+    width: 240px;">
 
                         <a href="gastroenterology.php">
 
@@ -1613,41 +1611,39 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <h3 class="title">
 
-                            <a href="gastroenterology.php">Dr. Mushtaq Ahmad </a>
+                        <a href="#" target="_blank"> Gurwinder Kaur</a>
 
 
 
                         </h3>
 
-                        <p class="speciality">MBBS, MD, DM (Gastroenterology)</p>
+                        <p class="speciality">Nursing Supretendent, EMC Group</p>
+
+                        <a href="tel:7986364771"><button class="" style="background: white;
+                        border: 2px solid black;
+                        color: black;
+                        padding: 3px 30px;
+                        border-radius: 4px;
+                        "><i class="fa-solid fa-phone-volume" style="color: #f7961e;
+                        font-size: 14px;
+                        padding: 0px 5px;
+                        "></i>7986364771</button></a>
 
 
 
                         <div class="row row-sm">
 
-                            <div class="col-lg-6">
-
-                                <a href="gastroenterology.php" class="btn view-btn">View Profile</a>
-
-                            </div>
-
-                            <div class="col-lg-6">
-
-                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Mushtag Ahmad" data-speciality="Gastroenterology" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                            </div>
-
                         </div>
 
                     </div>
-
                 </div>
 
             </div></div><div class="owl-item active" style="width: 295px; margin-right: 10px;"><div class="item-holder">
 
                 <div class="profile-widget">
 
-                    <div class="doc-img">
+                    <div class="doc-img" style="height: 320px;
+    width: 240px;">
 
                         <a href="neuro-surgeon.php">
 
@@ -1663,33 +1659,33 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <h3 class="title">
 
-                            <a href="neuro-surgeon.php">Dr. Mukesh Vij </a>
+                        <a href="#" target="_blank"> Sourabh Ganguly</a>
 
 
 
                         </h3>
 
-                        <p class="speciality"> MBBS , MS , M.CH. (Neuro Surgeon)</p>
+                        <p class="speciality">Director, HR - Abrol Hospital Gurdaspur</p>
+
+                        <a href="tel:9915530697"><button class="" style="background: white;
+                        border: 2px solid black;
+                        color: black;
+                        padding: 3px 30px;
+                        border-radius: 4px;
+                        "><i class="fa-solid fa-phone-volume" style="color: #f7961e;
+                        font-size: 14px;
+                        padding: 0px 5px;
+                        
+                        "></i>9915530697</button></a>
 
 
 
                         <div class="row row-sm">
 
-                            <div class="col-lg-6">
-
-                                <a href="neuro-surgeon.php" class="btn view-btn">View Profile</a>
-
-                            </div>
-
-                            <div class="col-lg-6">
-
-                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Mukesh Vij" data-speciality="Neuro Surgeon" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                            </div>
-
                         </div>
 
                     </div>
+
 
                 </div>
 
@@ -1699,7 +1695,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 <div class="profile-widget">
 
-                    <div class="doc-img">
+                    <div class="doc-img" style="height: 320px;
+    width: 240px;">
 
                         <a href="nephrology.php">
 
@@ -1715,29 +1712,28 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <h3 class="title">
 
-                            <a href="nephrology.php">Dr. Chetan Mahajan </a>
+                        <a href="#" target="_blank">  Varinder Sohal</a>
 
 
 
                         </h3>
 
-                        <p class="speciality"> MD ( Medicine) DM ( Nephrology)</p>
+                        <p class="speciality">Protocol Officer, EMC and Pulse Hospital</p>
+
+                        <a href="tel:8054863500"><button class="" style="background: white;
+                        border: 2px solid black;
+                        color: black;
+                        padding: 3px 30px;
+                        border-radius: 4px;
+                        "><i class="fa-solid fa-phone-volume" style="color: #f7961e;
+                        font-size: 14px;
+                        padding: 0px 5px;
+                        ;
+                        "></i>8054863500</button></a>
 
 
 
                         <div class="row row-sm">
-
-                            <div class="col-lg-6">
-
-                                <a href="nephrology.php" class="btn view-btn">View Profile</a>
-
-                            </div>
-
-                            <div class="col-lg-6">
-
-                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Chetan Mahajan" data-speciality="MD ( Medicine) DM ( Nephrology)" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                            </div>
 
                         </div>
 
@@ -1751,7 +1747,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 <div class="profile-widget">
 
-                    <div class="doc-img">
+                    <div class="doc-img" style="height: 320px;
+    width: 240px;">
 
                         <a href="cardiology.php">
 
@@ -1767,41 +1764,40 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <h3 class="title">
 
-                            <a href="cardiologist.php" target="_blank">Dr. Vivek Tandon</a>
+                        <a href="#" target="_blank">  Rabia Kapoor</a>
 
 
 
                         </h3>
 
-                        <p class="speciality">DM (Cardiologist)</p>
+                        <p class="speciality">Coordinator Head</p>
+
+                        <a href="tel:7526890004"><button class="" style="background: white;
+                        border: 2px solid black;
+                        color: black;
+                        padding: 3px 30px;
+                        border-radius: 4px;
+                        "><i class="fa-solid fa-phone-volume" style="color: #f7961e;
+                        font-size: 14px;
+                        padding: 0px 5px;
+                        
+                        "></i>7526890004</button></a>
 
 
 
                         <div class="row row-sm">
 
-                            <div class="col-lg-6 col-sm-1">
-
-                                <a href="cardiologist.php" class="btn view-btn">View Profile</a>
-
-                            </div>
-
-                            <div class="col-lg-6 col-sm-1">
-
-                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Vivek Tandon" data-speciality="Cardiologist" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                            </div>
-
                         </div>
 
                     </div>
-
                 </div>
 
             </div></div><div class="owl-item cloned" style="width: 295px; margin-right: 10px;"><div class="item-holder">
 
                 <div class="profile-widget">
 
-                    <div class="doc-img">
+                    <div class="doc-img" style="height: 320px;
+    width: 240px;">
 
                         <a href="gastroenterology.php">
 
@@ -1817,29 +1813,28 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <h3 class="title">
 
-                            <a href="gastroenterology.php">Dr. Mushtaq Ahmad </a>
+                        <a href="#" target="_blank">  Gagan Bhatia</a>
 
 
 
                         </h3>
 
-                        <p class="speciality">MBBS, MD, DM (Gastroenterology)</p>
+                        <p class="speciality">Director, IT/Communication</p>
+
+                        <a href="tel:9015180007"><button class="" style="background: white;
+                        border: 2px solid black;
+                        color: black;
+                        padding: 3px 30px;
+                        border-radius: 4px;
+                        "><i class="fa-solid fa-phone-volume" style="color: #f7961e;
+                        font-size: 14px;
+                        padding: 0px 5px;
+                        ;
+                        "></i>9015180007</button></a>
 
 
 
                         <div class="row row-sm">
-
-                            <div class="col-lg-6">
-
-                                <a href="gastroenterology.php" class="btn view-btn">View Profile</a>
-
-                            </div>
-
-                            <div class="col-lg-6">
-
-                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Mushtag Ahmad" data-speciality="Gastroenterology" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                            </div>
 
                         </div>
 
@@ -1847,2035 +1842,983 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 </div>
 
-            </div></div><div class="owl-item cloned" style="width: 295px; margin-right: 10px;"><div class="item-holder">
+            </div>
+        </div>
+            
+        </section>
+        <!-- alldoctorofhospital -->
 
-                <div class="profile-widget">
+        <div class="container">
 
-                    <div class="doc-img">
+<div class="section-header">
 
-                        <a href="neuro-surgeon.php">
+   <h2 class="text-center" style="margin:60px;"> Medical Board</h2>
 
-                            <img class="img-fluid" alt="User Image" src="doctors/dr-mukesh-vij.jpg">
+</div>
 
+</div>
+
+
+
+        <section>
+
+         <div class="container">
+            <!-- Row of doctors -->
+            <div class="row containerItems">
+               <!-- First Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-rishabh.jpg">
                         </a>
-
-
-
-                    </div>
-
-                    <div class="pro-content">
-
+                     </div>
+                     <div class="pro-content">
                         <h3 class="title">
-
-                            <a href="neuro-surgeon.php">Dr. Mukesh Vij </a>
-
-
-
+                           <a href="anesthesia.php" target="_blank">Dr. Rishab Arora</a> 
                         </h3>
-
-                        <p class="speciality"> MBBS , MS , M.CH. (Neuro Surgeon)</p>
-
-
-
+                        <p class="speciality">MBBS, FCCS (USA) </p>
                         <div class="row row-sm">
-
-                            <div class="col-lg-6">
-
-                                <a href="neuro-surgeon.php" class="btn view-btn">View Profile</a>
-
-                            </div>
-
-                            <div class="col-lg-6">
-
-                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Mukesh Vij" data-speciality="Neuro Surgeon" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                            </div>
-
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
                         </div>
+                        <!-- <div class="row row-sm">
+                           <div class="col-lg-6 col-sm-1">
+                              <a href="cardiologist.php" class="btn view-btn">View Profile</a>
+                           </div>
+                           <div class="col-lg-6 col-sm-1">
+                              <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr.Vivek Tandon" data-speciality="Cardiology" data-hospital="EMC Hospital Green Avenue" href="#" class="btn book-btn">Appointment</a>
+                           </div>
+                        </div> -->
+                     </div>
+                  </div>
+               </div>
 
-                    </div>
-
-                </div>
-
-
-
-            </div></div><div class="owl-item cloned" style="width: 295px; margin-right: 10px;"><div class="item-holder">
-
-                <div class="profile-widget">
-
-                    <div class="doc-img">
-
-                        <a href="nephrology.php">
-
-                            <img class="img-fluid" alt="User Image" src="doctors/Dr-Chetan-Mahajan.jpg">
-
+               <!-- Second Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/HD/pankaj-soni.jpg">
                         </a>
-
-
-
-                    </div>
-
-                    <div class="pro-content">
-
+                     </div>
+                     <div class="pro-content">
                         <h3 class="title">
-
-                            <a href="nephrology.php">Dr. Chetan Mahajan </a>
-
-
-
+                           <a href="anesthesia.php" target="_blank">Dr. Pankaj Soni</a> 
                         </h3>
-
-                        <p class="speciality"> MD ( Medicine) DM ( Nephrology)</p>
-
-
-
+                        <p class="speciality">MD Anesthesiology</p>
                         <div class="row row-sm">
-
-                            <div class="col-lg-6">
-
-                                <a href="nephrology.php" class="btn view-btn">View Profile</a>
-
-                            </div>
-
-                            <div class="col-lg-6">
-
-                                <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Chetan Mahajan" data-speciality="MD ( Medicine) DM ( Nephrology)" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                            </div>
-
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
                         </div>
+                     </div>
+                  </div>
+               </div>
 
-                    </div>
-
-                </div>
-
-
-
-            </div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots disabled"><button role="button" class="owl-dot active"><span></span></button></div></div>
-    </div>
-</section>
-        <section class="dc-haslayout dc-main-section dc-sectionbg">
-
-            <div class="container">
-
-                <div class="row">
-
-                    <div class="col-12 col-sm-12 col-md-12 col-lg-7 align-self-center">
-
-                        <div class="dc-bringcarecontent">
-
-                            <div class="dc-sectionhead dc-sectionheadvtwo">
-
-                                <div class="dc-sectiontitle">
-
-                                    <h3> Welcome to EMC Group of Hospitals</h3>
-
-                                </div>
-
-                                <div class="dc-description">
-
-                                    <p>EMC Group of Hospitals is a group of super-speciality hospitals whose foundation stone was laid by Sh. Pawan Arora, Chairman and a renowned businessman profoundly known for his business skills. EMC Group of Hospitals is a group of super-speciality hospitals whose foundation stone was laid by Sh. Pawan Arora, Chairman and a renowned businessman profoundly known for his business skills.</p>
-
-                                    <p>Established in the year 2003, the EMC Group of Hospitals has become India’s largest medical centre providing the top quality speciality treatment. The EMC hospitals have a specialized and highly experienced team of doctors and the assistant staff that work effortlessly 24x7 keeping the patient’s health a priority.
-
-                                    </p>
-
-                                    <p>All the EMC hospitals have the latest technology and pieces of equipment to support and sustain the needs of every patient visiting our hospitals.
-
-                                    </p>
-
-
-
-
-
-                                </div>
-
-                            </div>
-
-                            <div class="dc-btnarea">
-
-                                <a href="about.php" target="_blank" class="dc-btn">About Us</a>
-
-                                <a href="contact.php" class="dc-btn dc-btnactive">Contact</a>
-
-                            </div>
-
+               <!-- Third Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/HD/manish.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Manish Gupta</a> 
+                        </h3>
+                        <p class="speciality">MD, DM Critical Care</p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                               <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
                         </div>
+                     </div>
+                  </div>
+               </div>
 
-                    </div>
-
-                    <div class="col-12 col-sm-12 col-md-12 col-lg-5">
-
-                        <div class="dc-bringimg-holder">
-
-                            <figure class="dc-doccareimg">
-
-                                <img src="images/emcb.jpg" alt="img description">
-
-                                <!-- <figcaption>
-
-                                        <div class="dc-doccarecontent">
-
-                                            <h3><em>Greetings &amp; Welcome </em>Dr. Sh. Pawan Arora</h3>
-
-                                        </div>
-
-                                    </figcaption> -->
-
-                            </figure>
-
+               <!-- Fourth Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/rajeev.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Rajeev Kumar</a> 
+                        </h3>
+                        <p class="speciality">MD Anesthesiology</p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                               <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
                         </div>
-
-                    </div>
-
-                </div>
+                     </div>
+                  </div>
+               </div>
 
             </div>
+            <!-- End of Row -->
 
-        </section>
-
-        <section class="specilities-coe tabdisplaynone  mobiledisplaynone martop-20">
-
-            <div class="container">
-
-                <h2>EMC Centres of Excellence</h2>
-
-                <p>EMC Group of Hospital is a chain of super-speciality hospitals promoted by Sh. Pawan Arora, Chairman a renowned Businessman. EMC Group is Amritsar’s largest independent center for Super Speciality Treatment.
-
-                    Established in July 2003, the hospital stands apart with its unique attribute in handling Trauma, 24x7.
-
-                </p>
-
-                <div class="row">
-
-
-
-                    <div class="col-md-3 col-sm-3 col-6">
-
-                        <a href="cardiology.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/cardiology.png" alt="">
-
-                                </div>
-
-                                <h4 style="color: #c3161c;">Cardiology</h4>
-
-                            </div>
-
+            <!-- Row of doctors -->
+            <div class="row containerItems">
+               <!-- First Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr kaetki2.jpg">
                         </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Kaetki</a> 
+                        </h3>
+                        <p class="speciality">MD Anesthesia </p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                        <!-- <div class="row row-sm">
+                           <div class="col-lg-6 col-sm-1">
+                              <a href="cardiologist.php" class="btn view-btn">View Profile</a>
+                           </div>
+                           <div class="col-lg-6 col-sm-1">
+                              <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr.Vivek Tandon" data-speciality="Cardiology" data-hospital="EMC Hospital Green Avenue" href="#" class="btn book-btn">Appointment</a>
+                           </div>
+                        </div> -->
+                     </div>
+                  </div>
+               </div>
 
-                    </div>
-
-
-
-                    <div class="col-md-3 col-sm-3 col-6">
-
-                        <a href="cardiologist.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/cardiac-sciences.png" alt="">
-
-                                </div>
-
-                                <h4 style="color: #ec1a23;">Cardiothoracic</h4>
-
-                            </div>
-
+               <!-- Second Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-subash.jpg">
                         </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Subhash</a> 
+                        </h3>
+                        <p class="speciality">MD Anesthesia </p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
 
-                    </div>
-
-
-
-                    <div class="col-md-3 col-sm-3 col-6">
-
-                        <a href="gastroenterology.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/gastroenterology-hepatology.png" alt="">
-
-                                </div>
-
-                                <h4 style="color: #a76064;">Gastroenterology <br>
-
-                                    & Hepatology</h4>
-
-                            </div>
-
+               <!-- Third Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-danish.jpg">
                         </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Danish Altaf</a> 
+                        </h3>
+                        <p class="speciality">MD Anesthesiology </p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                               <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
 
-                    </div>
-
-                    <div class="col-md-3 col-sm-3 col-6">
-
-                        <a href="nephrology.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/nephrology.png" alt="">
-
-                                </div>
-
-                                <h4 style="color: #b44055;">Nephrology
-
-                                </h4>
-
-                            </div>
-
+               <!-- Fourth Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/Dr. Rabinder Waan.jpg">
                         </a>
-
-                    </div>
-
-
-
-
-
-
-
-
-
-                </div>
-
-                <div class="row">
-
-
-
-                    <div class="col-md-3 col-sm-3 col-6">
-
-                        <a href="neuro-surgeon.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/neurosurgery.png" alt="">
-
-                                </div>
-
-                                <h4 style="color: #0273bf;">Neurosurgery</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-                    <div class="col-md-3 col-sm-3 col-6">
-
-                        <a href="ortho-joint-replacement-surgeon.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/orthopedic-advance-joint-replacement.png">
-
-                                </div>
-
-                                <h4 style="color: #f46f24;">Orthopedic & Advance<br> Joint Replacement</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-
-
-                    <div class="col-md-3 col-sm-3 col-6">
-
-                        <a href="urology.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/urology.png" alt="">
-
-                                </div>
-
-                                <h4 style="color: #781414;">Urology</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-                    <div class="col-md-3 col-sm-3 col-6">
-
-                        <a href="oncology.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/medical-Oncology-OncoSurgery.png" alt="">
-
-                                </div>
-
-                                <h4 style="color: #72a682;">Medical Oncology & Onco Surgery</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-                </div>
-
-                <div class="row specility-flex">
-
-
-
-                    <div class="col-md-3 col-sm-3 col-6">
-
-                        <a href="vascular-surgery.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/reconstructive-surgery.png" alt="">
-
-                                </div>
-
-                                <h4 style="color: #72a682;">Plastic & Reconstructive Surgery</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-                    <div class="col-md-3 col-sm-3 col-6">
-
-                        <a href="laparoscopic-surgery.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/general-laparoscopic-surgery.png" alt="">
-
-                                </div>
-
-                                <h4 style="color: #26237a;">General & <br>Laparoscopic Surgery</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-                    <div class="col-md-3 col-sm-3 col-6">
-
-                        <a href="oncology.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/ent-head-neck-oncology.png">
-
-                                </div>
-
-                                <h4 style="color: #fca51a;"> ENT / Oncology</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-                    <div class="col-md-3 col-sm-3 col-6">
-
-                        <a href="psychiatry.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/psychiatry.png" alt="">
-
-                                </div>
-
-                                <h4 style="color: #cb6b6c;">Psychiatry</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-
-
-                </div>
-
-
-
-                <div class="row specility-flex">
-
-                    <div class="col-md-3 col-sm-3 col-6">
-
-                        <a href="gynecologist.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/obstetrics-gynaecology.png" alt="">
-
-                                </div>
-
-                                <h4 style="color: #ef59a1;">Obstetrics & Gynaecology</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-                    <div class="col-md-3 col-sm-3 col-6">
-
-                        <a href="oral-and-maxillofacial-surgery.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/oral-and-maxillofacila-surgery.png" alt="">
-
-                                </div>
-
-                                <h4 style="color: #00aeef;">Oral and Maxillofacila Surgery</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-                    <div class="col-md-3 col-sm-3 col-6">
-
-                        <a href="critical-trauma-care.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/critical.png">
-
-                                </div>
-
-                                <h4 style="color: #3f455f;">Critical<br>
-
-                                    & Trauma Care</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-                    <div class="col-md-3 col-sm-3 col-6">
-
-                        <a href="general-medicine.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/internal-family-medicine.png" alt="">
-
-                                </div>
-
-                                <h4 style="color: #7aa442;">Internal & Family Medicine</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-                </div>
-
-
-
-
-
-                <div class="row">
-
-
-
-                    <div class="col-md-3 col-sm-3 col-6">
-
-                        <a href="physiotherapy.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/physiotherapy.png" alt="">
-
-                                </div>
-
-                                <h4 style="color: #2e3192;">Physiotherapy</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-                    <div class="col-md-3 col-sm-3 col-6">
-
-                        <a href="blood-bank.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/blood-bank.png" alt="">
-
-                                </div>
-
-                                <h4 style="color: #ec1d25;"> Blood Bank 24/7</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-                    <div class="col-md-3 col-sm-3 col-6">
-
-                        <a href="ct-scan.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/ct-scan.png" alt="">
-
-                                </div>
-
-                                <h4 style="color: #764b28;">CT-Scan </h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-                    <div class="col-md-3 col-sm-3 col-6">
-
-                        <a href="digital-x-ray.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/digital-x-ray.png" alt="">
-
-                                </div>
-
-                                <h4 style="color: #cf9b2b;">Digital X-RAY </h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-
-
-                </div>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Rabinder Waan </a> 
+                        </h3>
+                        <p class="speciality">MD Anesthesiology, 
+FCCS (USA) </p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                               <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
 
             </div>
+            <!-- End of Row -->
 
-        </section>
-
-        <section class="specilities-coe  destopdisplaynone martop-20">
-
-            <div class="container">
-
-                <div clalss="row">
-
-                    <h2>EMC Centres of Excellence</h2>
-
-                    <p>EMC Group of Hospitlas is a chain of super-speciality hospitals promoted by Sh. Pawan Arora, Chairman a renowned Businessman. EMC Group is Amritsar’s largest independent center for Super Speciality Treatment. Established in July 2003, the hospital stands apart with its unique attribute in handling Trauma, 24x7.</p>
-
-                </div>
-
-                <div class="owl-carousel owl-theme" id="homenew-specilities">
-
-                    <div class="item-holder">
-
-                        <a href="cardiology.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/cardiology.png" alt="">
-
-                                </div>
-
-                                <h4>Cardiology</h4>
-
-                            </div>
-
+            <!-- Row of doctors -->
+            <div class="row containerItems">
+               <!-- First Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-ajay-abrol.jpg">
                         </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Ajay Abrol</a> 
+                        </h3>
+                        <p class="speciality">Head, Orthopedics Department </p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                        <!-- <div class="row row-sm">
+                           <div class="col-lg-6 col-sm-1">
+                              <a href="cardiologist.php" class="btn view-btn">View Profile</a>
+                           </div>
+                           <div class="col-lg-6 col-sm-1">
+                              <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr.Vivek Tandon" data-speciality="Cardiology" data-hospital="EMC Hospital Green Avenue" href="#" class="btn book-btn">Appointment</a>
+                           </div>
+                        </div> -->
+                     </div>
+                  </div>
+               </div>
 
-                    </div>
-
-                    <div class="item-holder">
-
-                        <a href="cardiologist.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/cardiac-sciences.png" alt="">
-
-                                </div>
-
-                                <h4>Cardiothoracic</h4>
-
-                            </div>
-
+               <!-- Second Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-kulpreet.jpg">
                         </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Kulpreet Singh</a> 
+                        </h3>
+                        <p class="speciality">MS Orthopedics</p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
 
-                    </div>
-
-                    <div class="item-holder">
-
-                        <a href="gastroenterology.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/gastroenterology-hepatology.png" alt="">
-
-                                </div>
-
-                                <h4>Gastroenterology <br>
-
-                                    & Hepatology</h4>
-
-                            </div>
-
+               <!-- Third Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-prabjot.jpg">
                         </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Prabhjot Singh</a> 
+                        </h3>
+                        <p class="speciality">DNB Orthopedics</p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                               <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
 
-                    </div>
-
-
-
-                    <div class="item-holder">
-
-                        <a href="nephrology.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/nephrology.png" alt="">
-
-                                </div>
-
-                                <h4>Nephrology</h4>
-
-                            </div>
-
+               <!-- Fourth Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-rohit-dhawan.jpg">
                         </a>
-
-                    </div>
-
-
-
-
-
-                    <div class="item-holder">
-
-                        <a href="neuro-surgeon.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/neurosurgery.png" alt="">
-
-                                </div>
-
-                                <h4>Neurosurgery</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-                    <div class="item-holder">
-
-                        <a href="ortho-joint-replacement-surgeon.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/orthopedic-advance-joint-replacement.png" alt="">
-
-                                </div>
-
-                                <h4>Orthopedic & Advance<br> Joint Replacement</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-                    <div class="item-holder">
-
-                        <a href="urology.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/urology.png" alt="">
-
-                                </div>
-
-                                <h4>Urology</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-                    <div class="item-holder">
-
-                        <a href="laparoscopic-surgery.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/general-laparoscopic-surgery.png" alt="">
-
-                                </div>
-
-                                <h4>General & <br>Laparoscopic Surgery</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-
-
-                    <div class="item-holder">
-
-                        <a href="oncology.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/medical-Oncology-OncoSurgery.png" alt="">
-
-                                </div>
-
-                                <h4>Medical Oncology & Onco Surgery
-
-                                </h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-                    <div class="item-holder">
-
-                        <a href="#">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/neurosurgery.png" alt="">
-
-                                </div>
-
-                                <h4>Neurosurgery</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-                    <div class="item-holder">
-
-                        <a href="#">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/oral-and-maxillofacila-surgery.png" alt="">
-
-                                </div>
-
-                                <h4>Microvascular Surgery</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-
-
-                    <div class="item-holder">
-
-                        <a href="oncology.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/ent-oncology.png" alt="">
-
-                                </div>
-
-                                <h4>ENT / Oncology</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-
-
-                    <div class="item-holder">
-
-                        <a href="psychiatry.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/psychiatry.png" alt="">
-
-                                </div>
-
-                                <h4>Psychiatry</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-                    <div class="item-holder">
-
-                        <a href="gynecologist.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/obstetrics-gynaecology.png" alt="">
-
-                                </div>
-
-                                <h4>Obstetrics & Gynaecolog</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-                    <div class="item-holder">
-
-                        <a href="oral-and-maxillofacial-surgery.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/oral-and-maxillofacila-surgery.png" alt="">
-
-                                </div>
-
-                                <h4>Oral and Maxillofacila Surgery</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-                    <div class="item-holder">
-
-                        <a href="critical-trauma-care.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/critical.png" alt="">
-
-                                </div>
-
-                                <h4>Critical<br>
-
-                                    & Trauma Care</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-                    <div class="item-holder">
-
-                        <a href="general-medicine.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/internal-family-medicine.png" alt="">
-
-                                </div>
-
-                                <h4>Internal & Family Medicine</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-                    <div class="item-holder">
-
-                        <a href="physiotherapy.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/physiotherapy.png" alt="">
-
-                                </div>
-
-                                <h4>Physiotherapy</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-
-
-                    <div class="item-holder">
-
-                        <a href="fibro-scan-for-liver.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/fibro-scan-for-liver.png" alt="">
-
-                                </div>
-
-                                <h4>Fibro Scan for Liver</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-                    <div class="item-holder">
-
-                        <a href="echo-cardiography.php">
-
-                            <div class="home-specility-section">
-
-                                <div class="home-speciality-img">
-
-                                    <img src="images/icons/neurosurgery.png" alt="">
-
-                                </div>
-
-                                <h4>ECHO Cardiography</h4>
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-                </div>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Rohit Dhawan</a> 
+                        </h3>
+                        <p class="speciality"><span style="display:inline;letter-spacing: 0px;">MS, MCh Surgical Gastroenterology</span></p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                               <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
 
             </div>
-
-        </section>
-
-
-
-
-
-
-
-        <section class="advance-tecnology">
-
-            <div class="container">
-
-                <div class="row">
-
-                    <h2>Our Doctors </h2>
-
-
-
-
-
-                    <div class="owl-carousel owl-theme bcon" id="doctr">
-
-                        <div class="item-holder">
-
-                            <div class="profile-widget">
-
-                                <div class="doc-img">
-
-                                    <a href="cardiology.php">
-
-                                        <img class="img-fluid" alt="User Image" src="doctors/dr-vivek-tandon.jpg">
-
-                                    </a>
-
-
-
-                                </div>
-
-                                <div class="pro-content">
-
-                                    <h3 class="title">
-
-                                        <a href="cardiologist.php" target="_blank">Dr. Vivek Tandon</a>
-
-
-
-                                    </h3>
-
-                                    <p class="speciality">DM (Cardiologist)</p>
-
-
-
-                                    <div class="row row-sm">
-
-                                        <div class="col-lg-6 col-sm-1">
-
-                                            <a href="cardiologist.php" class="btn view-btn">View Profile</a>
-
-                                        </div>
-
-                                        <div class="col-lg-6 col-sm-1">
-
-                                            <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Vivek Tandon" data-speciality="Cardiologist" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
+            <!-- End of Row -->
+                       <!-- Row of doctors -->
+            <div class="row containerItems">
+               <!-- First Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-ishtiaq.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Ishtiyaq Masood</a> 
+                        </h3>
+                        <p class="speciality">MD, DM Cardiology </p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
                         </div>
+                        <!-- <div class="row row-sm">
+                           <div class="col-lg-6 col-sm-1">
+                              <a href="cardiologist.php" class="btn view-btn">View Profile</a>
+                           </div>
+                           <div class="col-lg-6 col-sm-1">
+                              <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr.Vivek Tandon" data-speciality="Cardiology" data-hospital="EMC Hospital Green Avenue" href="#" class="btn book-btn">Appointment</a>
+                           </div>
+                        </div> -->
+                     </div>
+                  </div>
+               </div>
 
-
-
-
-
-
-
-                        <div class="item-holder">
-
-                            <div class="profile-widget">
-
-                                <div class="doc-img">
-
-                                    <a href="gastroenterology.php">
-
-                                        <img class="img-fluid" style="width:90%" alt="User Image" src="doctors/dr-mushtaq-ammad.jpg">
-
-                                    </a>
-
-
-
-                                </div>
-
-                                <div class="pro-content">
-
-                                    <h3 class="title">
-
-                                        <a href="gastroenterology.php">Dr. Mushtaq Ahmad </a>
-
-
-
-                                    </h3>
-
-                                    <p class="speciality">MBBS, MD, DM (Gastroenterology)</p>
-
-
-
-                                    <div class="row row-sm">
-
-                                        <div class="col-lg-6">
-
-                                            <a href="gastroenterology.php" class="btn view-btn">View Profile</a>
-
-                                        </div>
-
-                                        <div class="col-lg-6">
-
-                                            <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Mushtag Ahmad" data-speciality="Gastroenterology" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
+               <!-- Second Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-chetan.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Chetan Mahajan</a> 
+                        </h3>
+                        <p class="speciality">MD, DM Nephrology</p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
                         </div>
+                     </div>
+                  </div>
+               </div>
 
-
-
-                        <div class="item-holder">
-
-                            <div class="profile-widget">
-
-                                <div class="doc-img">
-
-                                    <a href="neuro-surgeon.php">
-
-                                        <img class="img-fluid" alt="User Image" src="doctors/dr-mukesh-vij.jpg">
-
-                                    </a>
-
-
-
-                                </div>
-
-                                <div class="pro-content">
-
-                                    <h3 class="title">
-
-                                        <a href="neuro-surgeon.php">Dr. Mukesh Vij </a>
-
-
-
-                                    </h3>
-
-                                    <p class="speciality"> MBBS , MS , M.CH. (Neuro Surgeon)</p>
-
-
-
-                                    <div class="row row-sm">
-
-                                        <div class="col-lg-6">
-
-                                            <a href="neuro-surgeon.php" class="btn view-btn">View Profile</a>
-
-                                        </div>
-
-                                        <div class="col-lg-6">
-
-                                            <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Mukesh Vij" data-speciality="Neuro Surgeon" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-
+               <!-- Third Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-hakeem.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Hakeem Ansar</a> 
+                        </h3>
+                        <p class="speciality">MD, DM Medical Oncology
+</p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                               <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
                         </div>
-                        
-                        
-                        
-                           <div class="item-holder">
+                     </div>
+                  </div>
+               </div>
 
-                            <div class="profile-widget">
-
-                                <div class="doc-img">
-
-                                    <a href="nephrology.php">
-
-                                        <img class="img-fluid" alt="User Image" src="doctors/Dr-Chetan-Mahajan.jpg">
-
-                                    </a>
-
-
-
-                                </div>
-
-                                <div class="pro-content">
-
-                                    <h3 class="title">
-
-                                        <a href="nephrology.php">Dr. Chetan Mahajan </a>
-
-
-
-                                    </h3>
-
-                                    <p class="speciality"> MD ( Medicine) DM ( Nephrology)</p>
-
-
-
-                                    <div class="row row-sm">
-
-                                        <div class="col-lg-6">
-
-                                            <a href="nephrology.php" class="btn view-btn">View Profile</a>
-
-                                        </div>
-
-                                        <div class="col-lg-6">
-
-                                            <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Chetan Mahajan" data-speciality="MD ( Medicine) DM ( Nephrology)" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-
+               <!-- Fourth Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-naveen.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Naveen Goyal</a> 
+                        </h3>
+                        <p class="speciality"><span style="display:inline;letter-spacing: 0px;">MS, MCh Genito Urinary Surgery</span></p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                               <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
                         </div>
-
-
-
-
-                    
-
-
-
-                        </div>
-                        <div class="item-holder">
-                        <div class="profile-widget">
-                            <div class="doc-img">
-
-                                    <a href="cardiologist.php">
-
-                                        <img class="img-fluid" alt="User Image" src="doctors/DR.-AJAY-ABROL.png">
-
-                                    </a>
-
-
-
-                                </div>
-
-                                <div class="pro-content">
-
-                                    <h3 class="title">
-
-                                        <a href="cardiologist.php">DR. AJAY ABROL </a>
-
-
-
-                                    </h3>
-
-                                    <p class="speciality"> MBBS , DIRECTOR OF ORTHO & TRAUMA DEPPT</p>
-
-
-
-                                    <div class="row row-sm">
-
-                                        <div class="col-lg-6">
-
-                                            <a href="cardiologist.php" class="btn view-btn">View Profile</a>
-
-                                        </div>
-
-                                        <div class="col-lg-6">
-
-                                            <a data-toggle="modal" data-target="#exampleModalCenter" data-id="DR. AJAY ABROL" data-speciality="MBBS , DIRECTOR OF ORTHO & TRAUMA DEPPT" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-
-                        </div>
-
-
-
-
-                        <div class="item-holder">
-
-
-
-                            <div class="profile-widget">
-
-                                <div class="doc-img">
-
-                                    <a href="urology.php">
-
-                                        <img class="img-fluid" alt="User Image" style="width:100%" src="doctors/DR.-NAVEEN-GOYAL.jpeg">
-
-                                    </a>
-
-
-
-                                </div>
-
-                                <div class="pro-content">
-
-                                    <h3 class="title">
-
-                                        <a href="ortho-joint-replacement-surgeon.php">DR. NAVEEN GOYAL</a>
-
-
-
-                                    </h3>
-
-                                    <p class="speciality">MBBS, MS GENERAL SURGERY, MCH UROLOGY</p>
-
-
-
-                                    <div class="row row-sm">
-
-                                        <div class="col-lg-6">
-
-                                            <a href="ortho-joint-replacement-surgeon.php" class="btn view-btn">View Profile</a>
-
-                                        </div>
-
-                                        <div class="col-lg-6">
-
-                                            <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. NAVEEN GOYAL" data-speciality="MBBS, MS GENERAL SURGERY, MCH UROLOGY" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-
-
-
-
-                       
-
-
-
-                        <div class="item-holder">
-
-
-
-                            <div class="profile-widget">
-
-                                <div class="doc-img">
-
-                                    <a href="psychiatry.php">
-
-                                        <img class="img-fluid" alt="User Image" style="width:100%" src="doctors/DR.ZAHOOR-AHMAD-PARRY.jpeg">
-
-                                    </a>
-
-
-
-                                </div>
-
-                                <div class="pro-content">
-
-                                    <h3 class="title">
-
-                                        <a href="psychiatry.php">DR.ZAHOOR AHMAD PARRY </a>
-
-
-
-                                    </h3>
-
-                                    <p class="speciality">MBBS, MD INTERNAL MEDICINE, DM NEUROLOGY</p>
-
-
-
-
-
-                                    <div class="row row-sm">
-
-                                        <div class="col-lg-6">
-
-                                            <a href="neurology.php" class="btn view-btn">View Profile</a>
-
-                                        </div>
-
-                                        <div class="col-lg-6">
-
-                                            <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. ZAHOOR AHMAD PARRY" data-speciality="MBBS, MD INTERNAL MEDICINE, DM NEUROLOGY" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-
-                        </div>
-                        
-                        <div class="item-holder">
-
-
-
-                            <div class="profile-widget">
-
-                                <div class="doc-img">
-
-                                    <a href="psychiatry.php">
-
-                                        <img class="img-fluid" alt="User Image" style="width:100%" src="doctors/DR.-ISHFAQ-GULZAR-BUTT.jpeg">
-
-                                    </a>
-
-
-
-                                </div>
-
-                                <div class="pro-content">
-
-                                    <h3 class="title">
-
-                                        <a href="psychiatry.php">DR. ISHFAQ GULZAR BUTT </a>
-
-
-
-                                    </h3>
-
-                                    <p class="speciality">MBBS, MD GENERAL MEDICINE</p>
-
-
-
-
-
-                                    <div class="row row-sm">
-
-                                        <div class="col-lg-6">
-
-                                            <a href="#" class="btn view-btn">View Profile</a>
-
-                                        </div>
-
-                                        <div class="col-lg-6">
-
-                                            <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Ishfaq" data-speciality="MBBS, MD GENERAL MEDICINE" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-
-                        </div>
-
-                        
-                        
-                                                <div class="item-holder">
-
-
-
-                            <div class="profile-widget">
-
-                                <div class="doc-img">
-
-                                    <a href="psychiatry.php">
-
-                                        <img class="img-fluid" alt="User Image"  src="doctors/dr-rishab-arora.jpg">
-
-                                    </a>
-
-
-
-                                </div>
-
-                                <div class="pro-content">
-
-                                    <h3 class="title">
-
-                                        <a href="general-medicine.php">Dr. Rishab Arora </a>
-
-
-
-                                    </h3>
-
-                                    <p class="speciality">MBBS , MD (Medicine)</p>
-
-
-
-
-
-                                    <div class="row row-sm">
-
-                                        <div class="col-lg-6">
-
-                                            <a href="general-medicine.php" class="btn view-btn">View Profile</a>
-
-                                        </div>
-
-                                        <div class="col-lg-6">
-
-                                            <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Rishab" data-speciality="MBBS , MD (Medicine)" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-
-                        </div>
-                        
-                        
-
-
-                                                <div class="item-holder">
-
-
-
-                            <div class="profile-widget">
-
-                                <div class="doc-img">
-
-                                    <a href="psychiatry.php">
-
-                                        <img class="img-fluid" alt="User Image"  src="doctors/dr-mahipalsingh.jpg">
-
-                                    </a>
-
-
-
-                                </div>
-
-                                <div class="pro-content">
-
-                                    <h3 class="title">
-
-                                       <a href="vascular-surgery.php">Dr. Mahipal Singh</a> 
-
-
-
-                                    </h3>
-
-                                    <p class="speciality">MBBS , MCH Plastic Surgery</p>
-
-
-
-
-
-                                    <div class="row row-sm">
-
-                                        <div class="col-lg-6">
-
-                                            <a href="vascular-surgery.php" class="btn view-btn">View Profile</a>
-
-                                        </div>
-
-                                        <div class="col-lg-6">
-
-                                            <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Mahipal Singh" data-speciality="MBBS , MCH Plastic Surgery" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-
-                        </div>
-
-
-
-
-                        <div class="item-holder">
-
-                            <div class="profile-widget">
-
-                                <div class="doc-img">
-
-                                    <a href="general-medicine.php">
-
-                                        <img class="img-fluid" alt="User Image" style="width:100%" src="doctors/dr-kirpal-singh.jpg">
-
-                                    </a>
-
-
-
-                                </div>
-
-                                <div class="pro-content">
-
-                                    <h3 class="title">
-
-                                        <a href="general-medicine.php">Dr. Kirpal Singh </a>
-
-
-
-                                    </h3>
-
-                                    <p class="speciality">MBBS,DTCD,Pulmonologist Department of TB & Chest</p>
-
-
-
-
-
-                                    <div class="row row-sm">
-
-                                        <div class="col-lg-6">
-
-                                            <a href="dr-kirpal.php" class="btn view-btn">View Profile</a>
-
-                                        </div>
-
-                                        <div class="col-lg-6">
-
-                                            <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. kirpal" data-speciality="MBBS,DTCD,Pulmonologist Department of TB & Chest" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-
-                        </div>
-
-
-
-
-
-                     <div class="item-holder">
-
-                            <div class="profile-widget">
-
-                                <div class="doc-img">
-
-                                    <a href="anaesthesia.php">
-
-                                        <img class="img-fluid" alt="User Image" style="width:81%" src="images/tejinder-doc.jpeg">
-
-                                    </a>
-
-
-
-                                </div>
-
-                                <div class="pro-content">
-
-                                    <h3 class="title">
-
-                                        <a href="anaesthesia.php">Dr. Tajinder Singh </a>
-
-
-
-                                    </h3>
-
-                                    <p class="speciality">MBBS, DNB (Anaesthesia), Consultant - Anaesthesilogy</p>
-
-
-
-
-
-                                    <div class="row row-sm">
-
-                                        <div class="col-lg-6">
-
-                                            <a href="#" class="btn view-btn">View Profile</a>
-
-                                        </div>
-
-                                        <div class="col-lg-6">
-
-                                            <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr. Tajinder Singh" data-speciality="MBBS, DNB (Anaesthesia), Consultant - Anaesthesilogy" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-
-                        </div>
-
-
- <div class="item-holder">
-
-                            <div class="profile-widget">
-
-                                <div class="doc-img">
-
-                                    <a href="ortho-joint-replacement-surgeon.php">
-
-                                        <img class="img-fluid" alt="User Image" style="width:100%" src="doctors/DR.-AMITHASH.jpeg">
-
-                                    </a>
-
-
-
-                                </div>
-
-                                <div class="pro-content">
-
-                                    <h3 class="title">
-
-                                        <a href="ortho-joint-replacement-surgeon.php">DR. AMITHASH </a>
-
-
-
-                                    </h3>
-
-                                    <p class="speciality">MBBS, MS ORTHOPEDICS</p>
-
-
-
-
-
-                                    <div class="row row-sm">
-
-                                        <div class="col-lg-6">
-
-                                            <a href="#" class="btn view-btn">View Profile</a>
-
-                                        </div>
-
-                                        <div class="col-lg-6">
-
-                                            <a data-toggle="modal" data-target="#exampleModalCenter" data-id="DR. AMITHASH" data-speciality="MBBS, MS ORTHOPEDICS" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-
-                        </div>
-
-
-
-
-
-                        <div class="item-holder">
-
-                            <div class="profile-widget">
-
-                                <div class="doc-img">
-
-                                    <a href="anaesthesia.php">
-
-                                        <img class="img-fluid" alt="User Image" src="doctors/dr-pankaj-soni.jpg">
-
-                                    </a>
-
-
-
-                                </div>
-
-                                <div class="pro-content">
-
-                                    <h3 class="title">
-
-                                        <a href="anaesthesia.php">Dr.Pankaj Soni </a>
-
-
-
-                                    </h3>
-
-                                    <p class="speciality">MD, Anaesthesia Medical Director</p>
-
-
-
-
-
-                                    <div class="row row-sm">
-
-                                        <div class="col-lg-6">
-
-                                            <a href="anaesthesia.php" class="btn view-btn">View Profile</a>
-
-                                        </div>
-
-                                        <div class="col-lg-6">
-
-                                            <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr.Pankaj Soni" data-speciality="Anaesthesia Medical" data-hospital="Hospital EMC" href="#" class="btn book-btn">Book Now</a>
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-
-
-
-
-                        
-
-
-
-                       
-
-
->
-
-
-
-                    </div>
-
-
-
-                </div>
+                     </div>
+                  </div>
+               </div>
 
             </div>
+            <!-- End of Row -->
+
+            <!-- Row of doctors -->
+            <div class="row containerItems">
+               <!-- First Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-kamaldeep.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">
+                            Dr. Kamaldeep</a> 
+                        </h3>
+                        <p class="speciality">MS Surgery (PGIMER Chandigarh) </p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                        <!-- <div class="row row-sm">
+                           <div class="col-lg-6 col-sm-1">
+                              <a href="cardiologist.php" class="btn view-btn">View Profile</a>
+                           </div>
+                           <div class="col-lg-6 col-sm-1">
+                              <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr.Vivek Tandon" data-speciality="Cardiology" data-hospital="EMC Hospital Green Avenue" href="#" class="btn book-btn">Appointment</a>
+                           </div>
+                        </div> -->
+                     </div>
+                  </div>
+               </div>
+
+               <!-- Second Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-ishfaq.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Ishfaq Gulzar Bhat</a> 
+                        </h3>
+                        <p class="speciality">MD Medicine</p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <!-- Third Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-manzoor.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Abid Manzoor</a> 
+                        </h3>
+                        <p class="speciality">MD Medicine
+</p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                               <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <!-- Fourth Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-mushtaq.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Mushtaq Ahmad</a> 
+                        </h3>
+                        <p class="speciality" style="letter-spacing: 0px;s"><span style="display:inline;letter-spacing: 0px;">MD, DM Gastroenterology</span></p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                               <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+            </div>
+            <!-- End of Row -->
+            <!-- Row of doctors -->
+            <div class="row containerItems">
+               <!-- First Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/mukesh-vij.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">
+                            Dr. Mukesh Vij</a> 
+                        </h3>
+                        <p class="speciality">MS, MCh Neurosurgery</p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                        <!-- <div class="row row-sm">
+                           <div class="col-lg-6 col-sm-1">
+                              <a href="cardiologist.php" class="btn view-btn">View Profile</a>
+                           </div>
+                           <div class="col-lg-6 col-sm-1">
+                              <a data-toggle="modal" data-target="#exampleModalCenter" data-id="Dr.Vivek Tandon" data-speciality="Cardiology" data-hospital="EMC Hospital Green Avenue" href="#" class="btn book-btn">Appointment</a>
+                           </div>
+                        </div> -->
+                     </div>
+                  </div>
+               </div>
+
+               <!-- Second Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-arjimand.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Arjimand Yaqoob
+</a> 
+                        </h3>
+                        <p class="speciality">MD, DM Neurology</p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <!-- third Column -->
+               <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/dr-sanjay.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Sanjay Gupta
+</a> 
+                        </h3>
+                        <p class="speciality">MBBS , DNB Cardiology</p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <!-- 4rth Column -->
+            <div   data-search="critical-trauma-care"  class="col-lg-3">
+                  <div class="profile-widget">
+                     <div class="doc-img" style="height: 320px;
+    width: 240px;">
+                        <a href="anesthesia.php">
+                        <img class="img-fluid" alt="Cardiologist" src="doctors/alka.jpg">
+                        </a>
+                     </div>
+                     <div class="pro-content">
+                        <h3 class="title">
+                           <a href="anesthesia.php" target="_blank">Dr. Alka Srivastava
+</a> 
+                        </h3>
+                        <p class="speciality">MD Radiotherapy</p>
+                        <div class="row row-sm">
+                           <div class="col-lg-12 col-sm-1">
+                              <a href="anaesthesia.php" class="btn view-btn">Book an Appointment</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+            </div>
+           
+            
+            
+            <!-- End of Row -->
+         </div>
+      </section>
+
 
         
 
+        <section class="alldoctorofhospital">
+
         </section>
 
 
+<!-- infrastructure -->
+        <div class="container">
 
+<div class="section-header">
 
+   <h2 class="text-center" style="margin:60px;"> Infrastructure</h2>
 
+</div>
 
+</div>
+
+<div class="section page-content-first">
+            <div class="container mt-2">
+               
+                  <div class="clearfix"></div>
+                  <br>
+				  <div class="row">
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/front-offices.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/front-offices.jpg" class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">FRONT OFFICE</h1>
+                     </a>
+                  </div>
+                  <!--div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/gaelly-22.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/gaelly-22s.jpg" class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">IPD WAITING HALL</h1>
+                     </a>
+                  </div-->
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/gaelly-24.jpg" data-fancybox-group="gallery">
+                        <img src="images/opd-doc.JPG" class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">OPD CHAMBER</h1>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/gaelly-12.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/gaelly-12s.jpg" class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">CONFERENCE HALL</h1>
+                     </a>
+                  </div>
+				  </div>
+				  <div class="row">
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/gaelly-15.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/img-3.JPG" class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EMERGENCY</h1>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/gaelly-18.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/gaelly-18s.jpg" class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">ICU 1</h1>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/gaelly-19.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/gaelly-19s.jpg" class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">ICU 2</h1>
+                     </a>
+                  </div>
+				  </div>
+				  <div class="row">
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/gaelly-20.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/gaelly-20s.jpg" class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">ICU 3</h1>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/gaelly-21.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/gaelly-21s.jpg" class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">ICU 4</h1>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/cardiac-recovery-big.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/cardiac-recovery.jpg" class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">CARDIAC CRITICAL CARE</h1>
+                     </a>
+                  </div>
+				  </div>
+				  <div class="row">
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/gaelly-23.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/gaelly-23s.jpg" class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">MODULAR  OT</h1>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/gaelly-17.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/gaelly-17s.jpg" class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">GENERAL WARD</h1>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/gaelly-13.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/gaelly-13s.jpg" class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">DIALYSIS</h1>
+                     </a>
+                  </div>
+				  </div>
+				  <div class="row">
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/gaelly-16.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/gaelly-16s.jpg" class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">GASTROENTEROLOGY AND HEPATOLOGY</h1>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/gaelly-11.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/gaelly-11s.jpg" class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">CATH LAB</h1>
+                     </a>
+                  </div>
+                  
+                 
+				  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/img-1.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/img-1.jpg" class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">CATH LAB 2</h1>
+                     </a>
+                  </div>
+				  </div>
+				  <div class="row">
+                  <!--<div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/img-2.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/gaelly-14s.jpg"
+                           class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">ECO</h1>
+                     </a>
+                  </div>-->
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/gaelly-25.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/gaelly-25s.jpg" class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">PHYSIOTHERAPHY</h1>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/private-room1.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/private-room.jpg" class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">PRIVATE ROOM</h1>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/gaelly-9.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/gaelly-9s.jpg" class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+				  </div>
+				  <div class="row">
+					 <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T133003.662.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T133003.662.jpg" class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T133159.862.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T133159.862.jpg" class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T133420.987.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T133420.987.jpg" class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+				 
+                  <!--div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/img-2.JPG" data-fancybox-group="gallery">
+                        <img src="infrastructure/img-2.JPG"
+                           class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">ECO</h1>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/img-3.JPG" data-fancybox-group="gallery">
+                        <img src="infrastructure/img-3.JPG"
+                           class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">EMERGENCY</h1>
+                     </a>
+                  </div-->
+				  </div>
+                  <div class="row">
+					 <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T152423.031.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T152423.031.jpg" class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T153906.197.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T153906.197.jpg" class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T152802.036.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T152802.036.jpg" class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+				 
+                  <!--div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/img-2.JPG" data-fancybox-group="gallery">
+                        <img src="infrastructure/img-2.JPG"
+                           class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">ECO</h1>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/img-3.JPG" data-fancybox-group="gallery">
+                        <img src="infrastructure/img-3.JPG"
+                           class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">EMERGENCY</h1>
+                     </a>
+                  </div-->
+				  </div>
+                  <div class="row">
+					 <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T153456.311.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T153456.311.jpg" class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T153707.373.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T153707.373.jpg" class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T154044.093.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T154044.093.jpg" class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+				 
+                  <!--div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/img-2.JPG" data-fancybox-group="gallery">
+                        <img src="infrastructure/img-2.JPG"
+                           class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">ECO</h1>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/img-3.JPG" data-fancybox-group="gallery">
+                        <img src="infrastructure/img-3.JPG"
+                           class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">EMERGENCY</h1>
+                     </a>
+                  </div-->
+				  </div>
+                  <div class="row">
+					 <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T154331.198.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T154331.198.jpg" class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T154504.743.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T154504.743.jpg" class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/Untitled design - 2023-08-31T154832.103.jpg" data-fancybox-group="gallery">
+                        <img src="infrastructure/Untitled design - 2023-08-31T154832.103.jpg" class="img-responsive" border="0" alt=""> 
+                        <h1 class="text-center">EEG</h1>
+                     </a>
+                  </div>
+				 
+                  <!--div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/img-2.JPG" data-fancybox-group="gallery">
+                        <img src="infrastructure/img-2.JPG"
+                           class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">ECO</h1>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a class="fancybox" href="infrastructure/img-3.JPG" data-fancybox-group="gallery">
+                        <img src="infrastructure/img-3.JPG"
+                           class="img-responsive" border="0" alt="">
+                        <h1 class="text-center">EMERGENCY</h1>
+                     </a>
+                  </div-->
+				  </div>
+                  <div class="clearfix"></div>
+                  <br>
+               
+            </div>
+            <div class="h40"></div>
+         </div>
+
+<!-- end of infrastructure -->
 
         <section class="advance-tecnology">
 
